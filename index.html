@@ -17,16 +17,17 @@
       repo: 'https://github.com/pss-aileen/programming-note',
       themeColor: '#00afcc',
       plugins: [
-      function(hook, vm) {
-      hook.beforeEach(function(html) {
-        return (
-          html +
-          '\n----\n' +
-          'Last modified {docsify-updated} ' 
-        );
-      });
-    }
-  ]
+        function(hook, vm) {
+          $docsify.formatUpdated = '{YYYY}/{MM}/{DD} {HH}:{mm}';
+          hook.beforeEach(function(html) {
+            return (
+              html +
+              '\n----\n' +
+              'Last modified {docsify-updated} ' 
+            );
+          });
+        }
+      ]
     }
   </script>
 

@@ -66,4 +66,4 @@ docsify serve
 
 ## 今後追加したい内容
 - Navbar
-- 更新した日付の表示
+- ~~更新した日付の表示~~ → [作業記事](/others/docsify_modidate.md)
