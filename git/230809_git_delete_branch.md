@@ -9,7 +9,9 @@ git status // 確認
 // ファイルに何か変更を加える
 git add .
 git commit - m "MESSAGE"
-git push origin BRANCH_NAME 
+git push origin BRANCH_NAME
+or
+git push origin head // branch名省略可能
 ```
 
 ## marge on GitHub
