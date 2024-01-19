@@ -7,7 +7,7 @@
 - 1月: ??h/ ??h 
 - 2月:
 
-## 勉強したこと
+## 勉強したこと・したこと
 
 ### 1月
 - ドットインストール
@@ -17,9 +17,16 @@
   - JavaScriptでスロットマシンを作ろう
   - JavaScriptで数字タッチゲームを作ろう
   - JavaScriptでTodo管理アプリを作ろう
-- Udemy【Node.js入門】Node.jsとMongoDBを連携してTodoアプリを1から構築してみよう: 完走
+  - React入門
+  - ReactでTodo管理アプリ
+- Udemy
+  - 【Node.js入門】Node.jsとMongoDBを連携してTodoアプリを1から構築してみよう: 完走
+  - 【HTML,CSS,JS,PHP,Git,Docker】プログラミング初心者OK！ ゼロからわかるWebシステム開発
+    - Dockerのセクション
+  - モダンJavaScriptの基礎から始める挫折しないためのReact入門
+    - セクション4
 
-
+    
 ## 作成中、作成済みのもの
 
 
