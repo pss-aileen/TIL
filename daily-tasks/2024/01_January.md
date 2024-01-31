@@ -315,5 +315,12 @@
 
 # 2024/01/31
 - 勉強時間
-  - ?h / ?h
+  - 2.25h / 210.50h
 - 作業内容
+  - paiza Cランク獲得 標準出力メニュー 【文字列の出力】入力された 10 個の文字列を出力
+  - 本 Docker&仮想サーバー
+    -  1-1: Webアプリの仕組みについておさらいしよう
+  - 本 AWS運用入門
+    - 1-1: システムとは
+  - Udemy 50 Projects In 50 Days - HTML, CSS & JavaScript
+    - DAY5 - Blurry Loading
