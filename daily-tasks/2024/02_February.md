@@ -65,12 +65,27 @@
     - `padStart` もあれば `padEnd` があることを知った
     - `padStart` を使わないで入力された値の前に数字やスペースを入れるロジックを考えられた
   - React Foundations ( Next.js website )
-    - Chapter 1→2 まで
+    - Chapter 1 → 2 まで
 
 # 2024/02/07
 - 勉強時間
-  - ?h / ?h
+  - 3.25h / 233.25h
 - 作業内容
+  - paiza Cランク獲得 標準出力: 【出力形式を指定して出力】ペアの数値の入った表を罫線入りで出力 2
+  - React Foundations ( Next.js website )
+    - Chapter 2 → 10 最後まで
+    - ReactとNext.jsの関係性を改めてざっくり理解できた
+    - ReactはUI構築のためのライブラリで、Next.jsはアプリケーションを作るためのフレームワーク
+      - ReactはUIのコンポーネントを作って使いまわせる
+      - Next.jsはルーティング、データの取得など
+  - practice-react
+    - 03_click_event 追加
+      - onClickを確認しつつ、onKeyDownなどがあることも確認
+      - 次回はそれらを使いたい
+  - project-github-commit-message
+    - HTMLで絵文字追加、paizaの選択肢の順番変更（よく見るとできてなかったのでまた後日....！）
+  - 本 Docker&仮想サーバー
+    - 2-3: コンテナのメリットデメリット
 
 # 2024/02/08
 - 勉強時間
