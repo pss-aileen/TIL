@@ -122,12 +122,18 @@
     - 5の途中、少しだけ
   - practice-react
     - 単語帳作成: done
-    - だいぶuseState()の使い方がわかった気がする
+    - だいぶuseState()の使い方がわかった気がする。
 
 # 2024/02/11
 - 勉強時間
   - ?h / ?h
 - 作業内容
+  - Chrome拡張機能 JSONViewインストール
+    - jsonをブラウザでも見やすくするため
+  - ChatGPTが使えなくなった問題の解決
+    - JSONViewの拡張機能を解除したら正常に動いた。謎だった...。
+  - 1つのリポジトリ内に複数のReactプロジェクトを入れてbuild、pagesで表示させる方法を知った
+    - https://zenn.dev/ianchen0419/articles/062c0a52fae1ba
 
 # 2024/02/12
 - 勉強時間
