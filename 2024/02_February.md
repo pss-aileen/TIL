@@ -179,8 +179,19 @@
 
 # 2024/02/14
 - 勉強時間
-  - ?h / ?h
+  - 8.5h / 265.5h
 - 作業内容
+  - practice-paiza
+    - Cランク獲得 データセット選択: 動的配列
+    - TypeScriptを使い始めた
+    - コンパイル方法や config がわからなくて苦戦したがなんとか実行、コンパイルできるようになった
+      - `tsconfig.json` を設定していないと `var` が出力されたりするので、`compilerOptions` を指定すること
+    - 今後 paiza は TypeScriptでやってみる
+  - project-personal-wordbook（単語帳作成）
+    - 軽く見た目を整える
+    - ログイン、ログアウト機能の実装（firebase）
+    - データベースをふんわり設計（Cloud Firestore）
+    - useridをデータベースに登録する方法を試行錯誤（`query`, `where`）
 
 # 2024/02/15 090/365
 - 勉強時間
