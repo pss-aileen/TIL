@@ -207,8 +207,18 @@
 
 # 2024/02/16
 - 勉強時間
-  - ?h / ?h
+  - 2.5h / 270.25h
 - 作業内容
+  - practice-paiza
+    - Cランク獲得 データセット選択: 商品の検索 step04の途中まで 難しい
+    - `String.fromCharCode()`: 指定されたUTF-16コードの並びから生成された文字列を返す
+      - 引数には色々なものを入れられる
+      - Unicodeエスケープシーケンス `\uXXXX`
+      - Unicodeを10進数で表示したもの `97` （アルファベット `a`）
+      - [unicode 文字一覧](https://tools.m-bsys.com/ex/unicode_table.php)
+  - project-personal-wordbook（単語帳作成）
+    - ユーザ情報を取得してニックネームを上書きできるようにした（cloud firestore `query`, `where`, `marge: true`）
+    - データの探し方、idの付け方で悩む
 
 # 2024/02/17
 - 勉強時間
