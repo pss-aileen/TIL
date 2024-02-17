@@ -222,9 +222,14 @@
 
 # 2024/02/17
 - 勉強時間
-  - ?h / ?h
+  - 3h / 273.25h
 - 作業内容
-
+  - practice-paiza
+    - `new Map` [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+  - practice-react
+    - TypeScriptを使ってContextの勉強
+      - 普通に難しくてContextの理解すらあまりできなかったので、ReactをJavaScriptである程度使いこなせるまではTypeScriptは一旦待った方が良いなと思った
+  
 # 2024/02/18
 - 勉強時間
   - ?h / ?h
