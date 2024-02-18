@@ -225,6 +225,7 @@
   - 3h / 273.25h
 - 作業内容
   - practice-paiza
+    - ランク獲得 データセット選択: 商品の検索 最後まで
     - `new Map` [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
   - practice-react
     - TypeScriptを使ってContextの勉強
@@ -232,9 +233,23 @@
   
 # 2024/02/18
 - 勉強時間
-  - ?h / ?h
+  - 9.5h / 282.75h
 - 作業内容
-
+  - my-blog
+    - わからない続きなのでNext.jsで息抜き？としてブログ作成チャレンジ（PagesRouter）
+    - Next.jsで、外部データを必要としないとき、ビルドする際に自動的に静的なHTMLとして事前に生成される（`getStaticProps`）
+    - ただ、外部からのデータを受け取って表示したい場合は `getServerSideProps` を使って、ページリクエストのたびに最新情報を提供する
+    - markdownの先頭の`---` で囲まれたところは YAML Front Matter と呼ばれる
+  - my-portfolio
+    - PagesRouterを学んだので、その知識をそのままに[ポートフォリオ](https://aileen-alpha.vercel.app/)をアップデート
+  - practice-paiza
+    - Cランク獲得 データセット選択: 集合の結合 step02まで
+    - 以下のようなことができると知る `filter()` で配列の引数を設定して、itemの次の配列の相対と比較できる
+    ```typescript
+    const numbersRemovedDuplicates: number[] = numbers.filter((item, index, array) => {
+      return item !== array[index + 1];
+    });
+    ```
 # 2024/02/19
 - 勉強時間
   - ?h / ?h

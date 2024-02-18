@@ -54,7 +54,6 @@ tsc -p ./tsconfig.json
 ```json
 {
   "compilerOptions": {
-    // コンパイラオプション
   },
   "files": [
     "path/to/your/specificFile.ts"
@@ -65,7 +64,6 @@ tsc -p ./tsconfig.json
 ```json
 {
   "compilerOptions": {
-    // コンパイラオプション
   },
   "include": [
     "path/to/specific/files/**/*"
