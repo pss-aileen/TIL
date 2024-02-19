@@ -252,8 +252,21 @@
     ```
 # 2024/02/19
 - 勉強時間
-  - ?h / ?h
+  - 2.25h / 285.0h
 - 作業内容
+  - practice-paiza
+    - Cランク獲得 データセット選択: 集合の結合 boss途中まで
+    - 値を格納して、配列に特定の値があるかチェックする `Set`
+    ```javascript
+    const set1 = new Set([1, 2, 3, 4, 5]);
+    console.log(set1.has(1)); // Output: true
+    console.log(set1.has(6)); // Output: false
+    ```
+  - Udemy 【Reactアプリ開発】3種類のReactアプリケーションを構築して、Reactの理解をさらに深めるステップアップ講座
+    - ポケモン図鑑: done
+    - `new Promise(resolve, reject)`: 新しいオブジェクトを作成する
+    - `Promise all(array)`: 複数の `Promise` オブジェクトが全て成功するのを待ち、結果を配列として返す
+    - 非同期関数の復習、やっとわかってきた気がする...
 
 # 2024/02/20
 - 勉強時間
