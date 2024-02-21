@@ -278,8 +278,12 @@
 
 # 2024/02/21
 - 勉強時間
-  - ?h / ?h
+  - 1h / 289.25h
 - 作業内容
+  - practice-paiza
+    - Cランク獲得 データセット選択: 集合の結合 ボスまで終了難しかった
+  - YouTube
+    - [【2023年 最新Typescript】 現役エンジニアと学ぶTypeScript超入門講座 〜現場で使われるフロントエンド完全理解〜](https://www.youtube.com/watch?v=TpZLIVNAJpI&t=1813) を30分ぐらいまで視聴
 
 # 2024/02/22
 - 勉強時間
