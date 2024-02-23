@@ -294,8 +294,19 @@
 
 # 2024/02/23
 - 勉強時間
-  - ?h / ?h
+  - 3h / 392.75h
 - 作業内容
+  - practice-paiza
+    - Cランク獲得 算術・代入演算: 代入演算 4
+    - スキルチェック何問か
+  - project-github-commit-message
+    - TailwindCSSを `@apply` で1つのクラスにまとめられることを知った
+      ```css
+        .btn-blue {
+          @apply bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded;
+        }
+      ```
+    - classを使ってJavaScript書き直し途中（オブジェクト指向...！）
 
 # 2024/02/24
 - 勉強時間
