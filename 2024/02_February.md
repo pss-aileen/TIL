@@ -294,7 +294,7 @@
 
 # 2024/02/23
 - 勉強時間
-  - 3h / 392.75h
+  - 3h / 292.75h
 - 作業内容
   - practice-paiza
     - Cランク獲得 算術・代入演算: 代入演算 4
@@ -310,8 +310,18 @@
 
 # 2024/02/24
 - 勉強時間
-  - ?h / ?h
+  - 5h / 297.75h
 - 作業内容
+  - practice-paiza
+    - Cランク獲得 論理演算: 論理演算を用いた計算のまとめ step07まで
+  - project-github-commit-message
+    - classを用いてコードを全て書き換え完了
+    - オブジェクト指向がなんとなくわかった気がした
+    - コードの管理がしやすくなった
+  - project-shopping-list-currency-converter
+    - 気がついたら表示崩れしていたので1からReactとTypeScriptで実装しなおすことにした
+    - TypeScript、Reactの開発環境セットアップ
+    - symbolsの読み込みまで完了
 
 # 2024/02/25 100/365
 - 勉強時間
