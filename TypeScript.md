@@ -1,5 +1,13 @@
 # TypeScript
 
+
+---
+
+# 開発環境構築
+- https://www.youtube.com/watch?v=ECc1EXnx7VQ 参考
+- webpack
+---
+
 # ファイル名、コンパイル方法
 
 `script.ts` → コンパイル後 `script.js`

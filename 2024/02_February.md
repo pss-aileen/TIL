@@ -325,9 +325,13 @@
 
 # 2024/02/25 100/365
 - 勉強時間
-  - ?h / ?h
+  - 1.5h / 299.25h
 - 作業内容
-
+  - practice-paiza
+  - YouTube [【Typescript入門】本当の初心者からTypescript×Webpackの開発環境構築までをハンズオン形式で学ぼう](https://www.youtube.com/watch?v=ECc1EXnx7VQ)
+    - シンプルにwebpackを使って、TypeScriptをトランスパイルして、index.htmlで使えるようにする方法を学んだ
+    - `webpack.config.js` に色々と設定する
+      - どのファイルをトランスパイルするのか、どこにアウトプットするのか、サーバーを立ち上げるならディレクトリはどこなのか...などを設定
 # 2024/02/26
 - 勉強時間
   - ?h / ?h
