@@ -31,6 +31,29 @@
   - 【Next.js入門】ReactフレームワークのNext.jsでマイクロブログを構築しながら基礎と本質を学ぶ講座
     - 60%
 
+### 2月
+
+- paizaレベルアップ問題集
+  - Cランク獲得問題、標準出力、標準入力、データセット、算術・代入演算、論理演算、文字列処理
+- 本
+  - Docker&仮想サーバー
+    - 導入あたりだけ
+  - AWS運用入門
+    - 導入あたりだけ
+- YouTube
+  - [【Typescript入門】本当の初心者からTypescript×Webpackの開発環境構築までをハンズオン形式で学ぼう](https://www.youtube.com/watch?v=ECc1EXnx7VQ)
+  - [Todoリストを作りながらTypescriptとReactを触ってみよう Typescript入門](https://www.youtube.com/watch?v=ANcopd8Bmao&t=29s)
+- Udemy 
+  - 【Reactアプリ開発】3種類のReactアプリケーションを構築して、Reactの理解をさらに深めるステップアップ講座
+    - pokemon-app何回かハンズオン
+    - ブログ作成
+- その他
+  - TypeScript勉強開始
+  - Midjourneyを触る
+  - GSAP公式見て勉強
+  - React Foundations @ Next.js Website
+  - Next.js公式のブログチュートリアル
+  - astroチュートリアル（途中まで）
     
 ## 作成中、作成済みのもの
 
@@ -42,6 +65,13 @@
 - project-study-language
   - ホスティング、技術で悩んで保留
 
+### 2月
+
+- ポートフォリオサイト
+  - ブログ追加
+  - AppRouterからPageRouterに変更
+- project-personal-wordbook
+  - ログイン機能の実装まで
 
 
 

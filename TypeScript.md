@@ -6,6 +6,13 @@
 # 開発環境構築
 - https://www.youtube.com/watch?v=ECc1EXnx7VQ 参考
 - webpack
+
+---
+
+```
+npx create-react-app . --template typescript
+```
+
 ---
 
 # ファイル名、コンパイル方法

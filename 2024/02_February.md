@@ -328,14 +328,20 @@
   - 1.5h / 299.25h
 - 作業内容
   - practice-paiza
+    - Cランク獲得 文字列処理: basic step07まで終了
   - YouTube [【Typescript入門】本当の初心者からTypescript×Webpackの開発環境構築までをハンズオン形式で学ぼう](https://www.youtube.com/watch?v=ECc1EXnx7VQ)
     - シンプルにwebpackを使って、TypeScriptをトランスパイルして、index.htmlで使えるようにする方法を学んだ
     - `webpack.config.js` に色々と設定する
       - どのファイルをトランスパイルするのか、どこにアウトプットするのか、サーバーを立ち上げるならディレクトリはどこなのか...などを設定
+
 # 2024/02/26
 - 勉強時間
-  - ?h / ?h
+  - 1.25h / 300.50h
 - 作業内容
+  - practice-paiza
+    - Cランク獲得 文字列処理: normal step03まで終了
+  - YouTube Todoリストを作りながらTypescriptとReactを触ってみよう Typescript入門
+    - 28分まで
 
 # 2024/02/27
 - 勉強時間
