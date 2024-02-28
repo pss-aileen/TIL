@@ -15,6 +15,49 @@ npx create-react-app . --template typescript
 
 ---
 
+# 型に関するファイルを別でわけて、読み込む方法もある
+
+```typescript
+// currency.types.ts - このファイルに通貨データの型を定義します。
+export interface CurrencyData {
+  [key: string]: {
+    name: string;
+    symbol: string;
+    code: string;
+  };
+}
+
+// getCurrency.ts
+import { CurrencyData } from './currency.types';
+
+const getCurrency = async (): Promise<CurrencyData> => {
+  const currencyJsonUrl = "../data/common-currency.json";
+
+  const response = await fetch(currencyJsonUrl);
+  if (!response.ok) {
+    throw new Error('Failed to fetch currency data');
+  }
+  const data: CurrencyData = await response.json();
+
+  return data;
+}
+
+export default getCurrency;
+```
+
+# `interface` と `type` の違い
+
+- **`interface`**: 拡張可能で合併ができ、オブジェクトの形状を定義するのに適しています。
+- **`type`**: ユニオンや交差型など複雑な型を作成でき、拡張はできません。
+- **使い分け**: `interface`は再利用と拡張に、`type`は複雑な型の表現に適しています。
+
+# ユニオン型、交差型、リレラル型
+
+- **ユニオン型**: いくつかの型のうちのどれか一つを取ることができる型で、`type A = string | number;` のように定義します。
+- **交差型**: 複数の型をすべて組み合わせた型で、`type B = Person & Serializable;` のように定義して、両方の型の特性を持つ新しい型を作ります。
+- **リテラル型**: 特定の値のみを取る型で、`type C = 'yes' | 'no';` のように定義して、限定された値セットのみを表します。
+
+
 # ファイル名、コンパイル方法
 
 `script.ts` → コンパイル後 `script.js`

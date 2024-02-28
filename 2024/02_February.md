@@ -352,11 +352,22 @@
   - project-shopping-list-currency-converter
     - 模索
 
-# 2024/02/28
+# 2024/02/28 Three.js Journey Start Day
 - 勉強時間
-  - h / ?h
+  - 3.5h / 305.25h
 - 作業内容
+  - practice-paiza
     - Cランク獲得 文字列処理: normal step11まで終了
+  - project-shopping-list-currency-converter
+    - TypeScriptとReactのprops、useStateの受け渡し方法を学習
+    - 型の付け方を重点的に
+  - [Three.js Journey](https://threejs-journey.com/) で勉強開始
+    - クーポンつかって1万円ほどで講座購入
+    - エンジニアとして仕事を獲得したいといった気持ちから継続してきたけど、何か作品を作り上げることのほうが楽しいよな...と思ったらやっぱりThree.jsをやりたくなった
+    - 色々悩みはつきないが、とりあえず「やらなければいけない」より「やりたい」方をすすめていく
+    - なので、思い切って方向転換することにした
+    - 今後Reactは必要な場面になるまではしないことにする
+    - paizaは引き続き継続してやっていく
 
 # 2024/02/29
 - 勉強時間
