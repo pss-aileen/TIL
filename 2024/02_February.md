@@ -345,13 +345,18 @@
 
 # 2024/02/27
 - 勉強時間
-  - ?h / ?h
+  - 1.25h / 301.75h
 - 作業内容
+  - practice-paiza
+    - Cランク獲得 文字列処理: normal step07まで終了
+  - project-shopping-list-currency-converter
+    - 模索
 
 # 2024/02/28
 - 勉強時間
-  - ?h / ?h
+  - h / ?h
 - 作業内容
+    - Cランク獲得 文字列処理: normal step11まで終了
 
 # 2024/02/29
 - 勉強時間
