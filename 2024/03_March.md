@@ -61,8 +61,16 @@
 
 ## 2024/03/10
 - 勉強時間
-  - ?h / ?h
+  - 6h / 318.0h
 - 作業内容
+  - 共同プロジェクトのMTG
+  - [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project/tree/master) への参加
+  - practice-paiza
+    - Cランク獲得 文字列処理: advanced step03まで終了
+  - Udemy 【完全保存版】MERNフルスタック開発で本格的なSNSアプリを１から自分の手で構築してみよう
+    - 09まで
+    - Expressが何かわからなくなっていたが、Node.jsを簡単にするためのフレームワークと認識しなおした
+    - たまになんの役割をしているのかがわからなくなるのでしっかり押さえようと思った
 
 ## 2024/03/11
 - 勉強時間
