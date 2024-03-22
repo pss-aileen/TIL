@@ -162,11 +162,13 @@
     - prettierの調査、導入
     - Variable fonts調査
 
-
 ## 2024/03/21
 - 勉強時間
-  - ?h / ?h
+  - 1h / 357.25h
 - 作業内容
+  - 共同プロジェクト first-contributions-ja
+  - project-tree-generator リポジトリ作成
+    - リリース条件、TODOを書き出し
 
 ## 2024/03/22
 - 勉強時間
