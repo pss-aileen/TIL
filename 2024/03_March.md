@@ -187,18 +187,31 @@
 
 ## 2024/03/24
 - 勉強時間
-  - ?h / ?h
+  - 6h / 368.25h
 - 作業内容
+  - 共同プロジェクト first-contributions-ja
+    - プルリクエストレビュー2件
+    - MTG準備、MTG
+  - paiza ホワイトデースキルチェック
+    - C038:お菓子の分配 回答
+    - B079:相性チェック 回答
 
 ## 2024/03/25
 - 勉強時間
-  - ?h / ?h
+  - 2h / 370.25h
 - 作業内容
+  - project-tree-generator
+    - ざっくりHTML・CSSの実装
 
 ## 2024/03/26 130/365
 - 勉強時間
   - ?h / ?h
 - 作業内容
+  - 共同プロジェクト first-contributions-ja
+    - ロゴ作成
+    - OGP、GitHub Social Preview、READMEヘッダー画像作成
+  - project-tree-generator
+    - Prettierの設定を調査、自分用の設定ファイルを作成
 
 ## 2024/03/27
 - 勉強時間
