@@ -205,13 +205,15 @@
 
 ## 2024/03/26 130/365
 - 勉強時間
-  - ?h / ?h
+  - 8h / 378.25h
 - 作業内容
   - 共同プロジェクト first-contributions-ja
     - ロゴ作成
     - OGP、GitHub Social Preview、READMEヘッダー画像作成
   - project-tree-generator
     - Prettierの設定を調査、自分用の設定ファイルを作成
+  - my-projext-starter
+    - issue、pull requestテンプレート作成
 
 ## 2024/03/27
 - 勉強時間
