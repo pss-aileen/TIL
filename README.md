@@ -15,7 +15,8 @@
 
 ## 勉強したこと・したこと
 
-### 1月
+<details>
+<summary>1月</summary>
 
 - ドットインストール
   - JavaScriptでカレンダーを作ろう
@@ -35,7 +36,11 @@
   - 【Next.js入門】ReactフレームワークのNext.jsでマイクロブログを構築しながら基礎と本質を学ぶ講座
     - 60%
 
-### 2月
+</details>
+
+
+<details>
+<summary>2月</summary>
 
 - paizaレベルアップ問題集
   - Cランク獲得問題、標準出力、標準入力、データセット、算術・代入演算、論理演算、文字列処理
@@ -59,11 +64,28 @@
   - Next.js公式のブログチュートリアル
   - astroチュートリアル（途中まで）
   - Three.js Journey 少し
-    
-## 作成中、作成済みのもの
+
+</details>
+
+<details>
+<summary>3月</summary>
+
+- ドットインストール
+  - Git/GitHub入門 基本操作編
+- Three.js Journy
+  - 09まで
+- practice-paiza
+  - ホワイトデーキャンペーンのスキルチェックB、C、D回答
+  - レベルアップ問題集
+    - Cランク獲得 文字列処理
+- その他
+  - JavaScript非同期処理の問題作成してもらい、集中復習
+
+</details>
+
+## 自分で作成したもの・作成にとりかかったもの
 
 ### 1月
-
 - 簡易ポートフォリオサイト作成
   - Next.js、Vercelデプロイ
   - PCのみ
@@ -71,12 +93,20 @@
   - ホスティング、技術で悩んで保留
 
 ### 2月
-
 - ポートフォリオサイト
   - ブログ追加
   - AppRouterからPageRouterに変更
 - project-personal-wordbook
   - ログイン機能の実装まで
 
-
+### 3月
+- 共同プロジェクト first-contributions-ja
+- project-tree-generator
+  - マークダウンからディレクトリをツリー形式するジェネレーターを作成
+- my-project-starter
+  - 自分で開発するためのIssue・プルリクテンプレートなどを作成
+- project-tree-generator
+  - prefixを再度設定
+- 簡易的単語帳作成
+  - GoogleSheetAPIの調査とテスト（理解度低のまま）
 
