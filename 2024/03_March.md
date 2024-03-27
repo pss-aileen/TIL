@@ -212,18 +212,34 @@
     - OGP、GitHub Social Preview、READMEヘッダー画像作成
   - project-tree-generator
     - Prettierの設定を調査、自分用の設定ファイルを作成
-  - my-projext-starter
+  - my-project-starter
     - issue、pull requestテンプレート作成
+  - project-github-commit-message
+    - prefixの大幅な修正
 
 ## 2024/03/27
 - 勉強時間
-  - ?h / ?h
+  - 10h / 388.25h
 - 作業内容
+  - 共同プロジェクト first-contributions-ja
+    - レスポンシブ確認
+  - project-tree-generator
+    - viteで環境開発
+    - GitHubActionsでデプロイする手順を設定、エラーも修正 `vite.config.js`
+    ```js
+    export default {
+      base: "./",
+    };
+    ```
 
 ## 2024/03/28
 - 勉強時間
   - ?h / ?h
 - 作業内容
+  - project-tree-generator
+    - 初期テキストの設定
+  - 共同プロジェクト first-contributions-ja
+    - Contributors.json から人数を取得、反映させる
 
 ## 2024/03/29
 - 勉強時間
