@@ -234,17 +234,18 @@
 
 ## 2024/03/28
 - 勉強時間
-  - ?h / ?h
+  - 0.5h / 388.75h
 - 作業内容
   - project-tree-generator
-    - 初期テキストの設定
-  - 共同プロジェクト first-contributions-ja
-    - Contributors.json から人数を取得、反映させる
+    - 初期テキストの設定: done
 
 ## 2024/03/29
 - 勉強時間
   - ?h / ?h
 - 作業内容
+  - 共同プロジェクト first-contributions-ja
+    - .prettierignoreの設定: done
+    - Contributios.jsonから人数を取得
 
 ## 2024/03/30
 - 勉強時間
