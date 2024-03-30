@@ -1,13 +1,11 @@
-<img align="right" width="240" src="assets/octcat.png" alt="TIL" />
+<div align="center">
 
-<div>
+<img width="320" src="assets/octcat.png" alt="TIL" />
 
-# TIL
-
+# TIL 
 Today I Learn and Study Log.
 
 this image made with [My Octocat](https://myoctocat.com/)
-
 </div>
 
 ---
