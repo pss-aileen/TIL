@@ -8,13 +8,9 @@ Today I Learn and Study Log.
 This image was made with [My Octocat](https://myoctocat.com/)
 </div>
 
-<br>
-
 ---
 
-<br>
-
-# 2024 SUMMARY
+## 2024 SUMMARY
 
 - [StudyTime](./?tab=readme-ov-file#studytime)
 - [MyWorks](./?tab=readme-ov-file#myworks)
@@ -27,11 +23,6 @@ This image was made with [My Octocat](https://myoctocat.com/)
   - [Three.js Journey](./?tab=readme-ov-file#threejs-journey)
   - [Others](./?tab=readme-ov-file#others)
 
-<br>
-
----
-
-<br>
 
 ## StudyTime
 | period | time | total |
@@ -41,11 +32,6 @@ This image was made with [My Octocat](https://myoctocat.com/)
 | Feb | 95.25h | 306.25h |
 | Mar | ??h | ??h |
 
-<br>
-
----
-
-<br>
 
 ## MyWorks
 | date | title | memo |
@@ -59,11 +45,6 @@ This image was made with [My Octocat](https://myoctocat.com/)
 | Mar | [project-tree-generator](https://github.com/pss-aileen/project-tree-generator) | マークダウンからディレクトリをツリー形式で生成するツールを作成 |
 | Mar | [my-project-starter](https://github.com/pss-aileen/my-project-starter) | 自分で開発するためのIssue・プルリクテンプレートなどを作成 |
 
-<br>
-
----
-
-<br>
 
 ## StudyResources
 
