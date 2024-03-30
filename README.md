@@ -5,21 +5,38 @@
 # TIL 
 Today I Learn and Study Log.
 
-this image made with [My Octocat](https://myoctocat.com/)
+This image was made with [My Octocat](https://myoctocat.com/)
 </div>
 
 ---
 
 # 2024 SUMMARY
 
-## Study Time
+目次
+- [StudyTime]()
 
-- 2023/11/18〜12/31: 116.75h
-- Jan: 93.75h / 210.50h 
-- Feb: 95.25h / 306.25h
-- Mar: ??h / ??h
+## StudyTime
+| period | time | total |
+|---|---|---|
+| 2023/11/18〜12/31 | 116.75h | 115.75h |
+| Jan | 93.75h | 210.50h |
+| Feb | 95.25h | 306.25h |
+| Mar | ??h | ??h |
 
-## Study Resources
+## MyWorks
+| date | title | memo |
+|---|---|---|
+| Jan | [ポートフォリオサイト](https://aileen-alpha.vercel.app/)作成 | Next.js、Vercel、only PC |
+| Jan | project-study-language | ホスティング、技術で悩んで保留 |
+| Feb | [ポートフォリオサイト](https://aileen-alpha.vercel.app/)作り替え | AppRouterからPageRouterに変更、ブログ追加 |
+| Feb | project-personal-wordbook | ログイン機能の実装まで |
+| Mar | 簡易的単語帳作成 | GoogleSpreadAPIの調査とテスト（まだ理解度が低い） |
+| Mar | 共同プロジェクト<br>[First Contributions JA](https://github.com/first-contributions-ja/first-contributions-ja.github.io) | コミュニティメンバーで開始 |
+| Mar | [project-tree-generator](https://github.com/pss-aileen/project-tree-generator) | マークダウンからディレクトリをツリー形式で生成するツールを作成 |
+| Mar | [my-project-starter](https://github.com/pss-aileen/my-project-starter) | 自分で開発するためのIssue・プルリクテンプレートなどを作成 |
+
+
+## StudyResources
 
 ### ドットインストール
 
@@ -52,7 +69,6 @@ this image made with [My Octocat](https://myoctocat.com/)
 | Feb | レベルアップ問題集 Cランク獲得: 標準出力、標準入力、データセット、算術・代入演算、論理演算、文字列処理 |   |
 | Mar | ホワイトデーキャンペーンのスキルチェックB、C、D回答 |   |
 | Mar | レベルアップ問題集 Cランク獲得: 文字列処理 |   |
-|   |   |   |
 
 
 ### Books
@@ -78,25 +94,10 @@ this image made with [My Octocat](https://myoctocat.com/)
 ### Others
 | date | title | memo |
 |---|---|---|
-| Feb | started learning TypeScript |   |
+| Feb | started learning TypeScript | Paizaのレベルアップ問題集をTypeScriptで解くことにした |
 | Feb | tried MidJourny | 生成は楽しかったがわりと金額がとられることもあり1ヶ月で解除 |
 | Feb | started learning GSAP | learn by GSAP Official |
-| Feb | React Foundations@Next.js Website |   |
+| Feb | React Foundations@Next.js Website | Next.jsのReactのチュートリアルが大変わかりやすかった |
 | Feb | Next.js公式のブログチュートリアル |   |
 | Feb | astroチュートリアル | 半分程度まで |
 | Feb | 非同期処理復習 | ChatGPTに問題集を作ってもらい集中復習 |
-
-
-## MyWorks
-| date | title | memo |
-|---|---|---|
-| Jan | ポートフォリオサイト作成 | Next.js、Vercel、only PC |
-| Jan | project-study-language | ホスティング、技術で悩んで保留 |
-| Feb | ポートフォリオサイト作り替え | AppRouterからPageRouterに変更、ブログ追加 |
-| Feb | project-personal-wordbook | ログイン機能の実装まで |
-| Mar | 共同プロジェクト<br>first-contributions-ja | コミュニティメンバーで開始 |
-| Mar | project-tree-generator | マークダウンからディレクトリをツリー形式で生成するツールを作成 |
-| Mar | my-project-starter | 自分で開発するためのIssue・プルリクテンプレートなどを作成 |
-| Mar | 簡易的単語帳作成 | GoogleSpreadAPIの調査とテスト（まだ理解度が低い） |
-
-
