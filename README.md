@@ -66,19 +66,19 @@ This image was made with [My Octocat](https://myoctocat.com/)
 ### Udemy
 | date | title | memo |
 |---|---|---|
-| Jan  | 【Node.js入門】Node.jsとMongoDBを連携してTodoアプリを1から構築してみよう | 完走 |
-| Jan  | 【HTML,CSS,JS,PHP,Git,Docker】プログラミング初心者OK！ ゼロからわかるWebシステム開発 | Dockerのセクションのみ |
+| Jan  | 【Node.js入門】<br>Node.jsとMongoDBを連携してTodoアプリを1から構築してみよう | 完走 |
+| Jan  | 【HTML,CSS,JS,PHP,Git,Docker】<br>プログラミング初心者OK！ ゼロからわかるWebシステム開発 | Dockerのセクションのみ |
 | Jan  | モダンJavaScriptの基礎から始める挫折しないためのReact入門 | セクション4のみ |
-| Jan  | 【Next.js入門】ReactフレームワークのNext.jsでマイクロブログを構築しながら基礎と本質を学ぶ講座 | 全体の60% |
-| Feb  | 【Reactアプリ開発】3種類のReactアプリケーションを構築して、Reactの理解をさらに深めるステップアップ講座 | pokemon-app何度か作成、ブログ作成 |
+| Jan  | 【Next.js入門】<br>ReactフレームワークのNext.jsでマイクロブログを構築しながら基礎と本質を学ぶ講座 | 全体の60% |
+| Feb  | 【Reactアプリ開発】<br>3種類のReactアプリケーションを構築して、Reactの理解をさらに深めるステップアップ講座 | pokemon-app何度か作成、ブログ作成 |
 
 
 ### Paiza
 | date | title | memo |
 |---|---|---|
-| Feb | レベルアップ問題集 Cランク獲得: 標準出力、標準入力、データセット、算術・代入演算、論理演算、文字列処理 |   |
-| Mar | ホワイトデーキャンペーンのスキルチェックB、C、D回答 |   |
-| Mar | レベルアップ問題集 Cランク獲得: 文字列処理 |   |
+| Feb | レベルアップ問題集 Cランク獲得: <br>標準出力、標準入力、データセット、算術・代入演算、論理演算、文字列処理 | プログラミング力を上げるために勉強開始 |
+| Mar | ホワイトデーキャンペーンのスキルチェック: <br>B、C、D回答 |   |
+| Mar | レベルアップ問題集 Cランク獲得: <br>文字列処理 |   |
 
 
 ### Books
@@ -91,14 +91,14 @@ This image was made with [My Octocat](https://myoctocat.com/)
 ### YouTube
 | date | title | memo |
 |---|---|---|
-| Feb | [【Typescript入門】本当の初心者からTypescript×Webpackの開発環境構築までをハンズオン形式で学ぼう](https://www.youtube.com/watch?v=ECc1EXnx7VQ) |   |
-| Feb | [Todoリストを作りながらTypescriptとReactを触ってみよう Typescript入門](https://www.youtube.com/watch?v=ANcopd8Bmao&t=29s) |   |
+| Feb | [【Typescript入門】本当の初心者からTypescript×Webpackの開発環境構築までをハンズオン形式で学ぼう](https://www.youtube.com/watch?v=ECc1EXnx7VQ) | TypeScriptの概要を掴むために視聴 |
+| Feb | [Todoリストを作りながらTypescriptとReactを触ってみよう Typescript入門](https://www.youtube.com/watch?v=ANcopd8Bmao&t=29s) | 半分ぐらいまで |
 
 
 ### Three.js Journey
 | date | title | memo |
 |---|---|---|
-| Mar | 01 to 09 |   |
+| Mar | 01 to 09 | やっぱり Three.js をやりたいと思ったのでコースを購入 |
 
 
 ### Others
