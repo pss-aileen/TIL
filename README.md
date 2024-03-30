@@ -12,8 +12,8 @@ This image was made with [My Octocat](https://myoctocat.com/)
 
 # 2024 SUMMARY
 
-目次
-- [StudyTime]()
+- TOL
+  - [StudyTime](./?tab=readme-ov-file#StudyTime)
 
 ## StudyTime
 | period | time | total |
