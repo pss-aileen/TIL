@@ -249,6 +249,9 @@
   - 共同プロジェクト first-contributions-ja
     - .prettierignoreの設定: done
     - Contributios.jsonから人数を取得
+  - 共同プロジェクト first-contributions-ja
+    - .prettierignoreの設定: done
+    - Contributios.jsonから人数を取得
 
 ## 2024/03/30
 - studyTime

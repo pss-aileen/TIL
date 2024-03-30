@@ -1,21 +1,52 @@
-<img align="right" width="200" src="assets/octcat.png" alt="TIL" />
+<div align="center">
 
-# TIL
+<img width="320" src="assets/octcat.png" alt="TIL" />
 
+# TIL 
 Today I Learn and Study Log.
+
+This image was made with [My Octocat](https://myoctocat.com/)
+</div>
 
 ---
 
-# 2024 SUMMARY
+## 2024 SUMMARY
 
-## Study Time
+- [StudyTime](./?tab=readme-ov-file#studytime)
+- [MyWorks](./?tab=readme-ov-file#myworks)
+- [StudyResources](./?tab=readme-ov-file#studyresources)
+  - [ドットインストール](./?tab=readme-ov-file#ドットインストール)
+  - [Udemy](./?tab=readme-ov-file#udemy)
+  - [Paiza](./?tab=readme-ov-file#paiza)
+  - [Books](./?tab=readme-ov-file#books)
+  - [YouTube](./?tab=readme-ov-file#youtube)
+  - [Three.js Journey](./?tab=readme-ov-file#threejs-journey)
+  - [Others](./?tab=readme-ov-file#others)
 
-- 2023/11/18〜12/31: 116.75h
-- Jan: 93.75h / 210.50h 
-- Feb: 95.25h / 306.25h
-- Mar: ??h / ??h
 
-## Study Resources
+## StudyTime
+| period | time | total |
+|---|---|---|
+| 2023/11/18〜12/31 | 116.75h | 115.75h |
+| Jan | 93.75h | 210.50h |
+| Feb | 95.25h | 306.25h |
+| Mar | ??h | ??h |
+
+
+## MyWorks
+| date | title | memo |
+|---|---|---|
+| Jan | [ポートフォリオサイト](https://aileen-alpha.vercel.app/)作成 | Next.js、Vercel、only PC |
+| Jan | project-study-language | ホスティング、技術で悩んで保留 |
+| Feb | [ポートフォリオサイト](https://aileen-alpha.vercel.app/)作り替え | AppRouterからPageRouterに変更、ブログ追加 |
+| Feb | project-personal-wordbook | ログイン機能の実装まで |
+| Mar | 簡易的単語帳作成 | GoogleSpreadAPIの調査とテスト（まだ理解度が低い） |
+| Mar | 共同プロジェクト<br>[First Contributions JA](https://github.com/first-contributions-ja/first-contributions-ja.github.io) | コミュニティメンバーで開始 |
+| Mar | [project-tree-generator](https://github.com/pss-aileen/project-tree-generator) | マークダウンからディレクトリをツリー形式で生成するツールを作成 |
+| Mar | [my-project-starter](https://github.com/pss-aileen/my-project-starter) | 自分で開発するためのIssue・プルリクテンプレートなどを作成 |
+
+
+## StudyResources
 
 ### ドットインストール
 
@@ -35,20 +66,19 @@ Today I Learn and Study Log.
 ### Udemy
 | date | title | memo |
 |---|---|---|
-| Jan  | 【Node.js入門】Node.jsとMongoDBを連携してTodoアプリを1から構築してみよう | 完走 |
-| Jan  | 【HTML,CSS,JS,PHP,Git,Docker】プログラミング初心者OK！ ゼロからわかるWebシステム開発 | Dockerのセクションのみ |
+| Jan  | 【Node.js入門】<br>Node.jsとMongoDBを連携してTodoアプリを1から構築してみよう | 完走 |
+| Jan  | 【HTML,CSS,JS,PHP,Git,Docker】<br>プログラミング初心者OK！ ゼロからわかるWebシステム開発 | Dockerのセクションのみ |
 | Jan  | モダンJavaScriptの基礎から始める挫折しないためのReact入門 | セクション4のみ |
-| Jan  | 【Next.js入門】ReactフレームワークのNext.jsでマイクロブログを構築しながら基礎と本質を学ぶ講座 | 全体の60% |
-| Feb  | 【Reactアプリ開発】3種類のReactアプリケーションを構築して、Reactの理解をさらに深めるステップアップ講座 | pokemon-app何度か作成、ブログ作成 |
+| Jan  | 【Next.js入門】<br>ReactフレームワークのNext.jsでマイクロブログを構築しながら基礎と本質を学ぶ講座 | 全体の60% |
+| Feb  | 【Reactアプリ開発】<br>3種類のReactアプリケーションを構築して、Reactの理解をさらに深めるステップアップ講座 | pokemon-app何度か作成、ブログ作成 |
 
 
 ### Paiza
 | date | title | memo |
 |---|---|---|
-| Feb | レベルアップ問題集 Cランク獲得: 標準出力、標準入力、データセット、算術・代入演算、論理演算、文字列処理 |   |
-| Mar | ホワイトデーキャンペーンのスキルチェックB、C、D回答 |   |
-| Mar | レベルアップ問題集 Cランク獲得: 文字列処理 |   |
-|   |   |   |
+| Feb | レベルアップ問題集 Cランク獲得: <br>標準出力、標準入力、データセット、算術・代入演算、論理演算、文字列処理 | プログラミング力を上げるために勉強開始 |
+| Mar | ホワイトデーキャンペーンのスキルチェック: <br>B、C、D回答 |   |
+| Mar | レベルアップ問題集 Cランク獲得: <br>文字列処理 |   |
 
 
 ### Books
@@ -61,38 +91,23 @@ Today I Learn and Study Log.
 ### YouTube
 | date | title | memo |
 |---|---|---|
-| Feb | [【Typescript入門】本当の初心者からTypescript×Webpackの開発環境構築までをハンズオン形式で学ぼう](https://www.youtube.com/watch?v=ECc1EXnx7VQ) |   |
-| Feb | [Todoリストを作りながらTypescriptとReactを触ってみよう Typescript入門](https://www.youtube.com/watch?v=ANcopd8Bmao&t=29s) |   |
+| Feb | [【Typescript入門】本当の初心者からTypescript×Webpackの開発環境構築までをハンズオン形式で学ぼう](https://www.youtube.com/watch?v=ECc1EXnx7VQ) | TypeScriptの概要を掴むために視聴 |
+| Feb | [Todoリストを作りながらTypescriptとReactを触ってみよう Typescript入門](https://www.youtube.com/watch?v=ANcopd8Bmao&t=29s) | 半分ぐらいまで |
 
 
 ### Three.js Journey
 | date | title | memo |
 |---|---|---|
-| Mar | 01 to 09 |   |
+| Mar | 01 to 09 | やっぱり Three.js をやりたいと思ったのでコースを購入 |
 
 
 ### Others
 | date | title | memo |
 |---|---|---|
-| Feb | started learning TypeScript |   |
+| Feb | started learning TypeScript | Paizaのレベルアップ問題集をTypeScriptで解くことにした |
 | Feb | tried MidJourny | 生成は楽しかったがわりと金額がとられることもあり1ヶ月で解除 |
 | Feb | started learning GSAP | learn by GSAP Official |
-| Feb | React Foundations@Next.js Website |   |
+| Feb | React Foundations@Next.js Website | Next.jsのReactのチュートリアルが大変わかりやすかった |
 | Feb | Next.js公式のブログチュートリアル |   |
 | Feb | astroチュートリアル | 半分程度まで |
 | Feb | 非同期処理復習 | ChatGPTに問題集を作ってもらい集中復習 |
-
-
-## MyWorks
-| date | title | memo |
-|---|---|---|
-| Jan | ポートフォリオサイト作成 | Next.js、Vercel、only PC |
-| Jan | project-study-language | ホスティング、技術で悩んで保留 |
-| Feb | ポートフォリオサイト作り替え | AppRouterからPageRouterに変更、ブログ追加 |
-| Feb | project-personal-wordbook | ログイン機能の実装まで |
-| Mar | 共同プロジェクト<br>first-contributions-ja | コミュニティメンバーで開始 |
-| Mar | project-tree-generator | マークダウンからディレクトリをツリー形式で生成するツールを作成 |
-| Mar | my-project-starter | 自分で開発するためのIssue・プルリクテンプレートなどを作成 |
-| Mar | 簡易的単語帳作成 | GoogleSpreadAPIの調査とテスト（まだ理解度が低い） |
-
-
