@@ -234,23 +234,33 @@
 
 ## 2024/03/28
 - 勉強時間
-  - 0.5h / 388.75h
+  - 3.5h / 391.75h
 - 作業内容
   - project-tree-generator
     - 初期テキストの設定: done
+  - 共同プロジェクト first-contributions-ja
+    - レスポンシブデザインをどうするか考えた
+    - 概要部分のデザイン参考コーディング
 
 ## 2024/03/29
 - 勉強時間
-  - ?h / ?h
+  - 3h / 394.75h
 - 作業内容
   - 共同プロジェクト first-contributions-ja
     - .prettierignoreの設定: done
     - Contributios.jsonから人数を取得
 
 ## 2024/03/30
-- 勉強時間
+- studyTime
   - ?h / ?h
-- 作業内容
+- Tasks
+  - first-contributions-ja - collaborative project
+    - discuss about dogfooding
+    - set up Figma for shareing with team
+  - my-project-starter
+    - fix issue templates, add consider template
+- memo
+  - I have decided to try to take notes in English.
 
 ## 2024/03/31
 - 勉強時間
