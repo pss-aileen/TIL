@@ -12,16 +12,16 @@ This image was made with [My Octocat](https://myoctocat.com/)
 
 ## 2024 SUMMARY
 
-- [StudyTime](./?tab=readme-ov-file#studytime)
-- [MyWorks](./?tab=readme-ov-file#myworks)
-- [StudyResources](./?tab=readme-ov-file#studyresources)
-  - [ドットインストール](./?tab=readme-ov-file#ドットインストール)
-  - [Udemy](./?tab=readme-ov-file#udemy)
-  - [Paiza](./?tab=readme-ov-file#paiza)
-  - [Books](./?tab=readme-ov-file#books)
-  - [YouTube](./?tab=readme-ov-file#youtube)
-  - [Three.js Journey](./?tab=readme-ov-file#threejs-journey)
-  - [Others](./?tab=readme-ov-file#others)
+- [StudyTime](https://github.com/pss-aileen/TIL?tab=readme-ov-file#studytime)
+- [MyWorks](https://github.com/pss-aileen/TIL?tab=readme-ov-file#myworks)
+- [StudyResources](https://github.com/pss-aileen/TIL?tab=readme-ov-file#studyresources)
+  - [ドットインストール](https://github.com/pss-aileen/TIL?tab=readme-ov-file#ドットインストール)
+  - [Udemy](https://github.com/pss-aileen/TIL?tab=readme-ov-file#udemy)
+  - [Paiza](https://github.com/pss-aileen/TIL?tab=readme-ov-file#paiza)
+  - [Books](https://github.com/pss-aileen/TIL?tab=readme-ov-file#books)
+  - [YouTube](https://github.com/pss-aileen/TIL?tab=readme-ov-file#youtube)
+  - [Three.js Journey](https://github.com/pss-aileen/TIL?tab=readme-ov-file#threejs-journey)
+  - [Others](https://github.com/pss-aileen/TIL?tab=readme-ov-file#others)
 
 
 ## StudyTime
