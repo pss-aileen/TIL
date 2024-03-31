@@ -255,7 +255,7 @@
 
 ## 2024/03/30
 - studyTime
-  - ?h / ?h
+  - 1h / 395.75h
 - Tasks
   - first-contributions-ja - collaborative project
     - discuss about dogfooding
@@ -266,6 +266,8 @@
   - I have decided to try to take notes in English.
 
 ## 2024/03/31
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- studyTime
+  - 1h / 396.75h
+- Tasks
+  - first-contributions-ja - collaborative project
+    - do dogfooding as a contributor
