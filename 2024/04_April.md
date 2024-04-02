@@ -1,12 +1,18 @@
 ## 2024/04/01
 - studyTime
-  - ?h / ?h
+  - 6h / 402.75h
 - Tasks
+  - first-contributions-ja - collaborative project
+    - summarize my thoughts about dog feeding.
+    - researched "Semantic Versioning".
 
 ## 2024/04/02
 - studyTime
-  - ?h / ?h
+  - 6h / 408.75h
 - Tasks
+  - first-contributions-ja - collaborative project
+    - researched "Semantic Versioning".
+    - discussed about project's goal.
 
 ## 2024/04/03
 - studyTime
