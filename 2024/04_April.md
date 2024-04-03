@@ -16,8 +16,14 @@
 
 ## 2024/04/03
 - studyTime
-  - ?h / ?h
+  - 3h / 411.75h
 - Tasks
+  - first-contributions-ja - collaborative project
+    - summarize my thoughts about dog feeding with others opinion.
+  - project-personal-wordbook
+    - resetted project, restarted.
+    - designed PC layout roughly.
+    - considered tech stack.
 
 ## 2024/04/04
 - studyTime
