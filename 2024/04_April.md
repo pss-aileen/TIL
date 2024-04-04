@@ -27,13 +27,34 @@
 
 ## 2024/04/04
 - studyTime
-  - ?h / ?h
+  - 2.5h / 414.25h
 - Tasks
+  - ドットインストール
+    - PHP入門 データベース編 19/19
+      - done all lessons ✨
+      - Finally, I understand "$pdo", maybe.
+      - When I studied this concept, I could not understand.
+      - But today, I find out.
+      - $pdo is object.
+      - I have to create an instance of $pod.
+      - then, need database info.
+  - first-contributions-ja - collaborative project
+    - README pull request review.
+  - project-personal-wordbook
+    - implement TOP page with design。
+- Memo
+  - Recently, I have been studying JavaScript & related Frameworks.
+  - But it is difficult for me...
+  - I thought I want to build just a simple app again and again.
+  - So, back to basics, I decided to learn PHP again.
 
 ## 2024/04/05 140/365
 - studyTime
   - ?h / ?h
 - Tasks
+  - ドットインストール
+    - PHPでTodo管理アプリを作ろう 関数編 
+      - 1時間程度できればOK
 
 ## 2024/04/06
 - studyTime
