@@ -50,11 +50,13 @@
 
 ## 2024/04/05 140/365
 - studyTime
-  - ?h / ?h
+  - 1h / 415.25h
 - Tasks
   - ドットインストール
-    - PHPでTodo管理アプリを作ろう 関数編 
-      - 1時間程度できればOK
+    - PHPでTodo管理アプリを作ろう 関数編
+      - 09:00~10:00 15/25
+- Memo
+  - For understanding PHP, I should solve Paiza problems using PHP.
 
 ## 2024/04/06
 - studyTime
