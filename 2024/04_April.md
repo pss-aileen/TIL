@@ -60,13 +60,17 @@
 
 ## 2024/04/06
 - studyTime
-  - ?h / ?h
+  - 0.25h / 415.5h
 - Tasks
+  - review PHP
 
 ## 2024/04/07
 - studyTime
-  - ?h / ?h
+  - 0.5h / 416.0h
 - Tasks
+  - ドットインストール
+    - PHP入門 基礎文法編 07/34
+    - PHPでTodo管理アプリを作ろう 関数編 17/25
 
 ## 2024/04/08
 - studyTime

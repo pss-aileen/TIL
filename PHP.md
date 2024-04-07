@@ -46,3 +46,24 @@
   - トークンを使った防御
   - セッションを使う
   - セッションを使うとどうなるのか？
+
+---
+
+```php
+echo 'Hello World" . PHP_EOL;
+```
+
+変数
+
+```php
+$name = "content";
+echo 'Hello $name';
+```
+
+```php
+// $text = <<<'EOT'  // nowdoc 変数を展開したくない時
+// $text = <<<"EOT"  // heredoc 変数を展開したい時
+$text = <<<EOT
+  hello $name
+EOT;
+```
