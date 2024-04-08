@@ -1,3 +1,7 @@
+# PHP
+
+---
+
 ## PDO
 - PHP Database Objects
 - PHPからデータベースへのアクセスを抽象化してくれる
@@ -67,3 +71,62 @@ $text = <<<EOT
   hello $name
 EOT;
 ```
+
+---
+
+# 基礎文法
+
+PHPでは、文字列が計算できてしまうので注意。
+
+```php
+echo 2 + "3" . PHP_EOL;
+```
+
+
+```php
+// 変数
+$name = "hensuu";
+
+// 定数 慣習的に大文字
+define('NAME', 'teisuu');
+const NAME = 'NAME';
+```
+
+- https://www.php.net/manual/en/language.constants.syntax.php
+- `define()`: スコープはグローバル。スクリプト内のどこからでもアクセス可能
+- スカラー
+  - bool, int, float, string
+
+## データ型
+- string
+- int
+- float
+- null
+- bool
+- array
+- object
+
+## キャスト（型変換） Type Juggling
+- https://www.php.net/manual/en/language.types.type-juggling.php
+
+```php
+$b = (int) "10";
+var_dump($b);
+// result: int(10)
+```
+
+## false
+https://www.php.net/manual/en/function.boolval
+```php
+false, 0, 0.0 , "0", null, []
+```
+
+## echo は Web だと HTMLとして解釈される
+```php
+$info = sprintf("[%15s][%15d]", $test, $test2);
+```
+といったことをしても、空白は表示されない
+
+
+
+https://qiita.com/kitamurakunihiko/items/bf2e9998efceff115a0f

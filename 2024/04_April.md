@@ -74,8 +74,13 @@
 
 ## 2024/04/08
 - studyTime
-  - ?h / ?h
+  - 1h / 417.0h
 - Tasks
+  - ドットインストール
+    - PHP入門 基礎文法編 14/34
+  - compose docker only php
+  - install php via homebrew
+  - tried php on local
 
 ## 2024/04/09
 - studyTime
