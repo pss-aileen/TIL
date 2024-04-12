@@ -104,6 +104,7 @@
 - studyTime
   - ?h / ?h
 - Tasks
+  - nothing
 
 ## 2024/04/13
 - studyTime
