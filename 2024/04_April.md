@@ -140,8 +140,11 @@
 
 ## 2024/04/19
 - studyTime
-  - ?h / ?h
+  - 0.5h / 417.5h
 - Tasks
+  - practice-paiza
+    - D285:初恋プログラミング研究会コラボ｜本のページ OK
+    - ランク獲得 文字列処理: 文字列処理: advanced step05 途中
 
 ## 2024/04/20
 - studyTime
