@@ -36,11 +36,18 @@ break.
 ?h / ?h
 ### Study Topics
 #### 30 Days to Learn Laravel
+- words
+  - artisans: 職人, a worker in a skilled trade
+    - skilled trade: 熟練した職業
+  - expressive: 表現力豊かな
+  - syntax: 構文
+  - fingertips: 指先
 - 02: 
 #### Twilight on Netflix
 - "I'm gonna take you on a tour of the rest of the house."
 - "Was that as weird for you as it was for me?"
 - matriculate: 許可するm be enrolled at a college or university
+- miserable: unhappy, uncomfortable, 惨めな, 哀れな
 #### [ETS](https://englishteststore.net/)
 - [Learn vs Study Test](https://englishteststore.net/index.php?option=com_content&view=article&id=14442:learn-vs-study-test&catid=260&Itemid=120)
 ## 2024/05/14
