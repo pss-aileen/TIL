@@ -24,6 +24,10 @@ break.
       - `example.test`: I can see a content in browser
   - Twilight on Netflix
     - The voice and subtitles are in English. 30min
+    - "my mother for all intents and purposes."
+      - intent: intention, purpose, 意図, 目的, 行動や決定の背後にある具体的な考え、計画のこと
+      - purpose: 目的、ある行動や活動をする理由や目標、成果
+    - Absolutely: strongly agree with something
   - TARGET 1900 (Vocabulary)
     - I shadowed the vocabulary in Sections 1, 2, 18, and 19. 30min
 

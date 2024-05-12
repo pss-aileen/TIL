@@ -82,61 +82,7 @@
   - install php via homebrew
   - tried php on local
 
-## 2024/04/09
-- studyTime
-  - ?h / ?h
-- Tasks
-  - nothing
-
-## 2024/04/10
-- studyTime
-  - ?h / ?h
-- Tasks
-  - nothing
-
-## 2024/04/11
-- studyTime
-  - ?h / ?h
-- Tasks
-  - nothing
-
-## 2024/04/12
-- studyTime
-  - ?h / ?h
-- Tasks
-  - nothing
-
-## 2024/04/13
-- studyTime
-  - ?h / ?h
-- Tasks
-  - nothing
-
-## 2024/04/14
-- studyTime
-  - ?h / ?h
-- Tasks
-  - nothing
-
-## 2024/04/15 150/365
-- studyTime
-  - ?h / ?h
-- Tasks
-
-## 2024/04/16
-- studyTime
-  - ?h / ?h
-- Tasks
-
-## 2024/04/17
-- studyTime
-  - ?h / ?h
-- Tasks
-
-## 2024/04/18
-- studyTime
-  - ?h / ?h
-- Tasks
+## 2024/04/09 ~ 04/18 break
 
 ## 2024/04/19
 - studyTime
@@ -146,40 +92,7 @@
     - D285:初恋プログラミング研究会コラボ｜本のページ OK
     - ランク獲得 文字列処理: 文字列処理: advanced step05 途中
 
-## 2024/04/20
-- studyTime
-  - ?h / ?h
-- Tasks
-
-## 2024/04/21
-- studyTime
-  - ?h / ?h
-- Tasks
-
-## 2024/04/22
-- studyTime
-  - ?h / ?h
-- Tasks
-
-## 2024/04/23
-- studyTime
-  - ?h / ?h
-- Tasks
-
-## 2024/04/24
-- studyTime
-  - ?h / ?h
-- Tasks
-
-## 2024/04/25 160/365
-- studyTime
-  - ?h / ?h
-- Tasks
-
-## 2024/04/26
-- studyTime
-  - ?h / ?h
-- Tasks
+## 2024/04/20 ~ 04/26 break
 
 ## 2024/04/27
 - studyTime
@@ -192,17 +105,4 @@
       - nodenv: バージョン管理ツール
       - パッケージマネージャーとの違いを知りたい
 
-## 2024/04/28
-- studyTime
-  - ?h / ?h
-- Tasks
-
-## 2024/04/29
-- studyTime
-  - ?h / ?h
-- Tasks
-
-## 2024/04/30
-- studyTime
-  - ?h / ?h
-- Tasks
+## 2024/04/28 ~ 04/30 break
