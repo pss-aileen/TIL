@@ -32,10 +32,17 @@ break.
     - I shadowed the vocabulary in Sections 1, 2, 18, and 19. 30min
 
 ## 2024/05/13
-- Study Time
-  - ?h / ?h
-- Study Topics
-
+### Study Time
+?h / ?h
+### Study Topics
+#### 30 Days to Learn Laravel
+- 02: 
+#### Twilight on Netflix
+- "I'm gonna take you on a tour of the rest of the house."
+- "Was that as weird for you as it was for me?"
+- matriculate: 許可するm be enrolled at a college or university
+#### [ETS](https://englishteststore.net/)
+- [Learn vs Study Test](https://englishteststore.net/index.php?option=com_content&view=article&id=14442:learn-vs-study-test&catid=260&Itemid=120)
 ## 2024/05/14
 - Study Time
   - ?h / ?h
