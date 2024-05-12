@@ -31,11 +31,8 @@ break.
   - TARGET 1900 (Vocabulary)
     - I shadowed the vocabulary in Sections 1, 2, 18, and 19. 30min
 
-# 2024/05/13
-## Study Time
-?h / ?h
-## Study Topics
-### 30 Days to Learn Laravel
+# 2024/05/13: ?h / ?h
+## 30 Days to Learn Laravel
 - words
   - artisans: 職人, a worker in a skilled trade
     - skilled trade: 熟練した職業
@@ -43,15 +40,17 @@ break.
   - syntax: 構文
   - fingertips: 指先
 - 02: 
-### Twilight on Netflix
+## Twilight on Netflix
 - "I'm gonna take you on a tour of the rest of the house."
 - "Was that as weird for you as it was for me?"
-- matriculate: 許可するm be enrolled at a college or university
+- matriculate: 許可する, be enrolled at a college or university
 - miserable: unhappy, uncomfortable, 惨めな, 哀れな
-### [ETS](https://englishteststore.net/)
+## [ETS](https://englishteststore.net/)
 - [Learn vs Study Test](https://englishteststore.net/index.php?option=com_content&view=article&id=14442:learn-vs-study-test&catid=260&Itemid=120)
+  - Learn: through experiences
+  - Study: through books or research
 
-## 2024/05/14
+# 2024/05/14
 - Study Time
   - ?h / ?h
 - Study Topics
