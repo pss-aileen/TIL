@@ -183,8 +183,14 @@
 
 ## 2024/04/27
 - studyTime
-  - ?h / ?h
+  - 0.5h / 418.0h
 - Tasks
+  - Progate Path 30min
+    - Progate CLIのインストール
+    - GitHub Codespacesを利用した環境開発の構築
+    - Node.jsのインストール
+      - nodenv: バージョン管理ツール
+      - パッケージマネージャーとの違いを知りたい
 
 ## 2024/04/28
 - studyTime
