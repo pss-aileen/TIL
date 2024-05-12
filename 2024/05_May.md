@@ -1,9 +1,28 @@
+# What I will do in this month.
+## Programming
+- Learn Laravel
+  - [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
+
+## English
+- Take a practice TOEIC test (only part 1) using 公式TOEIC Listening & Reading 問題集 10.
+- Review a practice TOEIC test.
+- Watch "Twilight" with English Subtitles: (Because I love it!)
+  - Look up all words that I do not know.
+  - Take notes on expression that I do not understand.
+- Practice a conversation through SpeakBuddy.
+- TARGET 1900
+  - Check the pronunciations of all words in the wordbook.
+
+## I am planning to...
+- After learning Laravel, I want to develop my own wordbook.
+  - It is okay to take much time to develop.
+
 ## 2024/05/01 ~ 5/11
 break.
 
 ## 2024/05/12
 - Study Time
-  - 1.5h / 418.5h
+  - 1.5h / 419.5h
 - Study Topics
   - restart my learning
     - I took a long break for about a month. I do not want to give up on myself. So, I'm starting my new days.
@@ -30,6 +49,7 @@ break.
     - Absolutely: strongly agree with something
   - TARGET 1900 (Vocabulary)
     - I shadowed the vocabulary in Sections 1, 2, 18, and 19. 30min
+  - SpeakBuddy (AI Conversation App)
 
 # 2024/05/13: ?h / ?h
 ## 30 Days to Learn Laravel
