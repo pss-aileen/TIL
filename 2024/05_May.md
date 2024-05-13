@@ -78,13 +78,20 @@ break.
 - [Learn vs Study Test](https://englishteststore.net/index.php?option=com_content&view=article&id=14442:learn-vs-study-test&catid=260&Itemid=120)
   - Learn: through experiences
   - Study: through books or research
-## SpeadBuddy 30min
+## SpeakBuddy 30min
 ## Created English Learing Repository
 
 # 2024/05/14
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ?h / ?h
+  - english: ?h / ?h
+- 30 Days tp Learn Laravel
+  - Review 02: Your First Route and View
+  - 03: Create a Layout File Using Laravel
+- Twilight on Netflix
+- SpeakBuddy
+- TARGET 1900
+  - Section 3
 
 ## 2024/05/15 180/365
 - Study Time
