@@ -59,7 +59,16 @@ break.
   - expressive: 表現力豊かな
   - syntax: 構文
   - fingertips: 指先
-- 02: 
+  - stick with: continue with something or someone, to remain loyal or commited to a particular choice or course of action
+    - I will stick with my current job because I enjoy it.
+    - give it a shot: try something or make an attempt at doing something
+- Review 01: Hello, Laravel
+  - [LARACON](https://laracon.us/)
+    - the largest Laravel event of the year.
+- 02: Your First Route and View
+  - "phpstorm": editor?
+  - Route return view
+  - The homework is creating a contact page. done.
 ## Twilight on Netflix
 - "I'm gonna take you on a tour of the rest of the house."
 - "Was that as weird for you as it was for me?"
@@ -69,6 +78,7 @@ break.
 - [Learn vs Study Test](https://englishteststore.net/index.php?option=com_content&view=article&id=14442:learn-vs-study-test&catid=260&Itemid=120)
   - Learn: through experiences
   - Study: through books or research
+## SpeadBuddy 30min
 
 # 2024/05/14
 - Study Time
