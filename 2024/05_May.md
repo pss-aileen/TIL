@@ -43,16 +43,16 @@ break.
       - `example.test`: I can see a content in browser
   - Twilight on Netflix
     - The voice and subtitles are in English. 30min
-    - "my mother for all intents and purposes."
-      - intent: intention, purpose, 意図, 目的, 行動や決定の背後にある具体的な考え、計画のこと
-      - purpose: 目的、ある行動や活動をする理由や目標、成果
-    - Absolutely: strongly agree with something
+    - A memo was moved to another repository (private).
   - TARGET 1900 (Vocabulary)
     - I shadowed the vocabulary in Sections 1, 2, 18, and 19. 30min
   - SpeakBuddy (AI Conversation App)
 
-# 2024/05/13: ?h / ?h
-## 30 Days to Learn Laravel
+# 2024/05/13
+- Study Time
+  - programming: 0.5h / 420.5h
+  - english: 1.5h / 1.5h
+## 30 Days to Learn Laravel 30min
 - words
   - artisans: 職人, a worker in a skilled trade
     - skilled trade: 熟練した職業
@@ -70,16 +70,14 @@ break.
   - Route return view
   - The homework is creating a contact page. done.
   - **In Laravel, there are many folders and files. However I do not need to know everything. I just focus on the files that I use.**
-## Twilight on Netflix
-- "I'm gonna take you on a tour of the rest of the house."
-- "Was that as weird for you as it was for me?"
-- matriculate: 許可する, be enrolled at a college or university
-- miserable: unhappy, uncomfortable, 惨めな, 哀れな
+## Twilight on Netflix 1h
+- A memo was moved to another repository (private).
 ## [ETS](https://englishteststore.net/)
 - [Learn vs Study Test](https://englishteststore.net/index.php?option=com_content&view=article&id=14442:learn-vs-study-test&catid=260&Itemid=120)
   - Learn: through experiences
   - Study: through books or research
 ## SpeadBuddy 30min
+## Created English Learing Repository
 
 # 2024/05/14
 - Study Time
