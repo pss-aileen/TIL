@@ -62,13 +62,14 @@ break.
   - stick with: continue with something or someone, to remain loyal or commited to a particular choice or course of action
     - I will stick with my current job because I enjoy it.
     - give it a shot: try something or make an attempt at doing something
-- Review 01: Hello, Laravel
+### Review 01: Hello, Laravel
   - [LARACON](https://laracon.us/)
     - the largest Laravel event of the year.
-- 02: Your First Route and View
+### 02: Your First Route and View
   - "phpstorm": editor?
   - Route return view
   - The homework is creating a contact page. done.
+  - **In Laravel, there are many folders and files. However I do not need to know everything. I just focus on the files that I use.**
 ## Twilight on Netflix
 - "I'm gonna take you on a tour of the rest of the house."
 - "Was that as weird for you as it was for me?"
