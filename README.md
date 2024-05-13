@@ -32,7 +32,7 @@ This image was made with [My Octocat](https://myoctocat.com/)
 | [Feb](https://github.com/pss-aileen/TIL/blob/main/2024/02_February.md) | 95.25h | 306.25h |   |
 | [Mar](https://github.com/pss-aileen/TIL/blob/main/2024/03_March.md) | 90.5h | 396.75h | 共同プロジェクトを開始し、7割ほどそれ関連の勉強、作業。Three.jsを少し触ったり、StardewValleyの影響でドット絵を使ったゲームを作りたいなと思った瞬間があった。 |
 | [Apr](https://github.com/pss-aileen/TIL/blob/main/2024/04_April.md) | 21.25h | 418.0h | プライベートが多忙だったため、思い切ってお休みの期間とした。そのため勉強時間が少なくなった。 |
-| [May](https://github.com/pss-aileen/TIL/blob/main/2024/04_May.md) | ?.?h | ?.?h | プライベートが多忙だったため、思い切ってお休みの期間とした。そのため勉強時間が少なくなった。 |
+| [May](https://github.com/pss-aileen/TIL/blob/main/2024/04_May.md) | ?.?h | ?.?h | - |
 | [Jun]() | ?.?h | ?.?h | - |
 | [Jul]() | ?.?h | ?.?h | - |
 | [Aug]() | ?.?h | ?.?h | - |

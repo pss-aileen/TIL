@@ -50,7 +50,7 @@ break.
 
 # 2024/05/13
 - Study Time
-  - programming: 0.5h / 420.5h
+  - programming: 0.5h / 420h
   - english: 1.5h / 1.5h
 ## 30 Days to Learn Laravel 30min
 - words
@@ -70,6 +70,8 @@ break.
   - Route return view
   - The homework is creating a contact page. done.
   - **In Laravel, there are many folders and files. However I do not need to know everything. I just focus on the files that I use.**
+## first-contributions-ja
+- Checked the progress.
 ## Twilight on Netflix 1h
 - A memo was moved to another repository (private).
 ## [ETS](https://englishteststore.net/)
