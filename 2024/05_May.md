@@ -78,18 +78,48 @@ break.
 - [Learn vs Study Test](https://englishteststore.net/index.php?option=com_content&view=article&id=14442:learn-vs-study-test&catid=260&Itemid=120)
   - Learn: through experiences
   - Study: through books or research
-## SpeadBuddy 30min
+## SpeakBuddy 30min
 ## Created English Learing Repository
 
 # 2024/05/14
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: 1.5h / 421.5h
+  - english: 1.25h / 2.75h
+- 30 Days tp Learn Laravel (0.5h)
+  - Review 02: Your First Route and View
+    - routes/web.php
+    - resources/views/welcome.blade.php
+    - "blade" is template engine
+  - 03: Create a Layout File Using Laravel
+    - `<x-layout>contents</x-layout>`
+    - x-"layout" is depend on file names
+      - Components/layout.blade.php -> `<x-layout></x-layout>`
+      - Components/nav-link.blade.php -> `<x-nav-link></x-nav-link>`
+    - `<?php echo $slot ?>` = `{{ $slot }}`
+- First Contributions JA (1h)
+  - Create SP Design
+- SpeakBuddy (1h)
+- Watch "The Social Network" on Netflix (0.25)
+  - exactly 12min
+- Memo
+  - Should do
+    - Laravel application
+    - React.js
+  - WordPress Theme
+  - Custom plugin
+  - JavaScript
+  - PHP
+  - Laravel
+  - Team Project in English...
+  - Rebuilding an existing site with pug or something
+  - The Social Network on Netflix
 
 ## 2024/05/15 180/365
 - Study Time
   - ?h / ?h
-- Study Topics
+- TARGET 1900
+  - Section 3
+- Twilight on Netflix
 
 ## 2024/05/16
 - Study Time
