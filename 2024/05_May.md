@@ -83,8 +83,8 @@ break.
 
 # 2024/05/14
 - Study Time
-  - programming: ?h / ?h
-  - english: ?h / ?h
+  - programming: 1.5h / 421.5h
+  - english: 1.25h / 2.75h
 - 30 Days tp Learn Laravel (0.5h)
   - Review 02: Your First Route and View
     - routes/web.php
@@ -98,15 +98,28 @@ break.
     - `<?php echo $slot ?>` = `{{ $slot }}`
 - First Contributions JA (1h)
   - Create SP Design
-- Twilight on Netflix
-- SpeakBuddy
-- TARGET 1900
-  - Section 3
+- SpeakBuddy (1h)
+- Watch "The Social Network" on Netflix (0.25)
+  - exactly 12min
+- Memo
+  - Should do
+    - Laravel application
+    - React.js
+  - WordPress Theme
+  - Custom plugin
+  - JavaScript
+  - PHP
+  - Laravel
+  - Team Project in English...
+  - Rebuilding an existing site with pug or something
+  - The Social Network on Netflix
 
 ## 2024/05/15 180/365
 - Study Time
   - ?h / ?h
-- Study Topics
+- TARGET 1900
+  - Section 3
+- Twilight on Netflix
 
 ## 2024/05/16
 - Study Time
