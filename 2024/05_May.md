@@ -85,7 +85,7 @@ break.
 - Study Time
   - programming: ?h / ?h
   - english: ?h / ?h
-- 30 Days tp Learn Laravel 30min
+- 30 Days tp Learn Laravel (0.5h)
   - Review 02: Your First Route and View
     - routes/web.php
     - resources/views/welcome.blade.php
@@ -96,6 +96,8 @@ break.
       - Components/layout.blade.php -> `<x-layout></x-layout>`
       - Components/nav-link.blade.php -> `<x-nav-link></x-nav-link>`
     - `<?php echo $slot ?>` = `{{ $slot }}`
+- First Contributions JA (1h)
+  - Create SP Design
 - Twilight on Netflix
 - SpeakBuddy
 - TARGET 1900
