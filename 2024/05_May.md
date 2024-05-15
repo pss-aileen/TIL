@@ -4,7 +4,7 @@
   - [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
 
 ## English
-- Take a practice TOEIC test (only part 1) using 公式TOEIC Listening & Reading 問題集 10.
+- ~~Take a practice TOEIC test (only part 1) using 公式TOEIC Listening & Reading 問題集 10.~~
 - Review a practice TOEIC test.
 - Watch "Twilight" with English Subtitles: (Because I love it!)
   - Look up all words that I do not know.
@@ -117,14 +117,23 @@ break.
 ## 2024/05/15 180/365
 - Study Time
   - ?h / ?h
-- TARGET 1900
-  - Section 3
+- 30 Days to Learn Laravel
+  - Review 03: Create a Layout File Using Laravel
+  - 04: Make a Pretty Layout Using TailwindCSS
+    - pretty:
+      - かわいい、きれい
+      - 副詞 かなり、相当、pretty good, pretty much
+- SpeakBuddy
 - Twilight on Netflix
+- TOEIC (2h)
+  - Take a practice TOEIC test (only part 1) using 公式TOEIC Listening & Reading 問題集 10.
+  - I scored between 690 and 830 points...! I have the potential to get around 700 points...!?
 
 ## 2024/05/16
 - Study Time
   - ?h / ?h
-- Study Topics
+- TARGET 1900
+  - Section 3
 
 ## 2024/05/17
 - Study Time
