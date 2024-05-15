@@ -4,11 +4,13 @@
   - [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
 
 ## English
-- Take a practice TOEIC test (only part 1) using 公式TOEIC Listening & Reading 問題集 10.
+- ~~Take a practice TOEIC test (only part 1) using 公式TOEIC Listening & Reading 問題集 10.~~
 - Review a practice TOEIC test.
 - Watch "Twilight" with English Subtitles: (Because I love it!)
   - Look up all words that I do not know.
   - Take notes on expression that I do not understand.
+- Watch "The Social Network" on Netflix
+  - ChatGPT told me that this movie teaches me words used in the IT area....
 - Practice a conversation through SpeakBuddy.
 - TARGET 1900
   - Check the pronunciations of all words in the wordbook.
@@ -16,6 +18,8 @@
 ## I am planning to...
 - After learning Laravel, I want to develop my own wordbook.
   - It is okay to take much time to develop.
+
+---
 
 ## 2024/05/01 ~ 5/11
 break.
@@ -116,87 +120,119 @@ break.
 
 ## 2024/05/15 180/365
 - Study Time
-  - ?h / ?h
-- TARGET 1900
-  - Section 3
-- Twilight on Netflix
+  - programming: 1.25h / 422.75h
+  - english: 4h / 6.75h
+- 30 Days to Learn Laravel (0.75h)
+  - Review 03: Create a Layout File Using Laravel
+    - Read my notes
+  - 04: Make a Pretty Layout Using TailwindCSS
+    - pretty:
+      - かわいい、きれい
+      - 副詞 かなり、相当、pretty good, pretty much
+    - The `layout.blade.php` file includes `{{ $heading }}` , so I can write `<x-slot:heading></x-slot:heading>` in the `home.blade.php` file.
+    - `<x-test></x-test>` is the parent node.
+    - `<x-slot:heading></x-slot:heading>` is the child node..., I think.
+    - `x-ほにゃらら` がComponentsのファイル名
+    - layout.balde.phpの `{{ $slot }}` に記述したい場合は、home.blade.phpの `x-ほにゃらら` の中に記述する必要がある
+    - `{{ $slot }}` からはずれた場所にも内容を表示したければ、layout.blade.phpに `{{ $heading }}` のように記述し、home.blade.phpに `<x-slot:heading>` と記述する
+    - It was confusing for me, so I have to review it well tomorrow.
+      - English: I can use "Thoroughly" instead of "well".
+        - "Thoroughly" is more careful than "well".
+- First Contributions JA (0.5h)
+- SpeakBuddy (1h)
+- Twilight on Netflix (1h)
+  - Repeated movie lines as I watched the movie.
+    - as I watched ~: 映画を見ながら〜
+    - as: conjunction、接続詞
+- TOEIC (2h)
+  - Took a practice TOEIC TEST 1.
+  - I scored between 690 and 830 points...! I have the potential to get around 700 points...!?
 
 ## 2024/05/16
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
+- 30 Days to Learn Laravel (?h)
+  - Review 04: Make a Pretty Layout Using TailwindCSS
+  - 05: Style the Currently Active Navigation Link
+- TOEIC TEST1
+  - Answer Part1 and Review
+- SpeakBuddy
+- Twilight on Netflix
 
 ## 2024/05/17
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
+- TOEIC TEST1
+  - Answer Part2 and Review
 
 ## 2024/05/18
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
 
 ## 2024/05/19
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
 
 ## 2024/05/20
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
 
 ## 2024/05/21
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
 
 ## 2024/05/22
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
 
 ## 2024/05/23
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
 
 ## 2024/05/24
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
 
 ## 2024/05/25 190/365
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
 
 ## 2024/05/26
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
 
 ## 2024/05/27
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
 
 ## 2024/05/28
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
 
 ## 2024/05/29
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
 
 ## 2024/05/30
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
 
 ## 2024/05/31
 - Study Time
-  - ?h / ?h
-- Study Topics
+  - programming: ??h / ??h
+  - english: ??h / ??h
