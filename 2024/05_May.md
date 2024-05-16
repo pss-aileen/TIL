@@ -154,9 +154,12 @@ break.
   - english: ??h / ??h
 - First Contributions JA (0.25h)
   - Thought about the project
-- 30 Days to Learn Laravel (?h)
+- 30 Days to Learn Laravel (0.5h)
   - Review 04: Make a Pretty Layout Using TailwindCSS
   - 05: Style the Currently Active Navigation Link
+    - `<a href="/" class="{{ true ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white'}}">Home</a>`
+    - Paused at 12:19
+- Chatted with ChatGPT (0.5h) 
 - TOEIC TEST1 (0.75)
   - Answer Part1 and Review 
 - SpeakBuddy (1.25h)
