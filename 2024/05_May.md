@@ -150,89 +150,141 @@ break.
 
 ## 2024/05/16
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
-- 30 Days to Learn Laravel (?h)
+  - programming: 1.75h / 424.5h
+  - english: 2.5h / 9.25h
+  - today's total: 4.25h
+- First Contributions JA (0.25h)
+  - Thought about the project
+- 30 Days to Learn Laravel (1.5h)
   - Review 04: Make a Pretty Layout Using TailwindCSS
   - 05: Style the Currently Active Navigation Link
-- TOEIC TEST1
-  - Answer Part1 and Review
-- SpeakBuddy
-- Twilight on Netflix
+    - `<a href="/" class="{{ true ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white'}}">Home</a>`
+    - Paused at 12:19
+    - determine: 決定する
+    - temporarily: 一時的に
+    - otherwise: さもなければ、それ以外の場合は、別の方法で
+    - should: 義務、可能性、推奨、〜するはずだ、〜するだろう
+    - the trick: 効果的な方法
+    - hardcoded: ベタ打ち
+    - represent: 示す、表す
+    - "In JavaScript, you can distinguish between a string and a number using the typeof operator."
+    - "Blade" is a template engine in Laravel
+    - "Directive" is a command that executes in a specific task.
+    - "Don't feel overwhelmed.": 気負わないでください、圧倒されないでください
+    - spit out: 出力する、表示する
+    - might be potentially passed in: 〜渡され離可能性がある、〜する可能性がある
+    - inspect: 調査する、検査する、点検する
+    - assume: 仮定する、想定する、引き受ける
+    - explicitly declare: 明示的に宣言する
+    - distinguish: 区別する、識別する
+    - probably: たぶん、おそらく
+    - how come: どうして？
+    - interpreted: 解釈する
+    - eloquent: 雄弁な、よく表して、
+    - hava a dedicated: 〜専用のものを持つ、専用の〜がある、
+    - dedicated: 専用の、特定の目的のために設けられた
+      - "Our application has a dedicated server for handling database requests.": 私たちのアプリケーションにはデータベースリクエストを処理する専用のサーバーがあります。
+    - step in: 立ち入る、参加する、介入する
+      - Somebody else will step in.
+    - Homework: Create the prop "type". I did.
+    - `:active="request()->is('/')"` で、 `:` をつけると、中身を `true`、`false` で判定してくれるようになる
+    - I do not understand `request()->is('/')` well.
+    - I can pass contents through props like `@props(['active' => false, 'type' => 'a'])`.
+- Chatted with ChatGPT (0.5h) 
+- TOEIC TEST1 (0.75)
+  - Answer Part1 and Review 
+- SpeakBuddy (1.25h)
 
 ## 2024/05/17
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
+- 30 Days to Learn Laravel
+  - 06: View Data and Route Wildcards
 - TOEIC TEST1
   - Answer Part2 and Review
 
 ## 2024/05/18
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/19
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/20
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/21
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/22
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/23
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/24
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/25 190/365
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/26
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/27
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/28
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/29
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/30
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/31
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
