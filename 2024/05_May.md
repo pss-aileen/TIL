@@ -194,81 +194,97 @@ break.
 - TOEIC TEST1 (0.75)
   - Answer Part1 and Review 
 - SpeakBuddy (1.25h)
-- Twilight on Netflix
 
 ## 2024/05/17
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
+- 30 Days to Learn Laravel
+  - 06: View Data and Route Wildcards
 - TOEIC TEST1
   - Answer Part2 and Review
 
 ## 2024/05/18
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/19
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/20
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/21
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/22
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/23
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/24
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/25 190/365
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/26
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/27
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/28
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/29
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/30
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
 
 ## 2024/05/31
 - Study Time
-  - programming: ??h / ??h
-  - english: ??h / ??h
+  - Programming: h / h
+  - English: h / h
+  - Total: 
