@@ -152,12 +152,14 @@ break.
 - Study Time
   - programming: ??h / ??h
   - english: ??h / ??h
+- First Contributions JA (0.25h)
+  - Thought about the project
 - 30 Days to Learn Laravel (?h)
   - Review 04: Make a Pretty Layout Using TailwindCSS
   - 05: Style the Currently Active Navigation Link
 - TOEIC TEST1 (0.75)
   - Answer Part1 and Review 
-- SpeakBuddy (0.75h)
+- SpeakBuddy (1.25h)
 - Twilight on Netflix
 
 ## 2024/05/17
