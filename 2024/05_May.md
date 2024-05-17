@@ -197,13 +197,17 @@ break.
 
 ## 2024/05/17
 - Study Time
-  - Programming: h / h
-  - English: h / h
-  - Total: 
-- 30 Days to Learn Laravel
+  - Programming: 0.25h / 424.75h
+  - English: 1.25h / 10.50h
+  - Total: 1.5h
+- 30 Days to Learn Laravel (0.25)
   - 06: View Data and Route Wildcards
-- TOEIC TEST1 (0.5h)
+    - Just watched...!
+- TOEIC TEST1 (0.75h)
   - Answer Part2 and Review
+    - Just Listen to the questions and write down the scripts.
+- SepakBuddy (0.5h)
+- Today, I was very tired..., I wrapperd up early than usual.
 
 ## 2024/05/18
 - Study Time
