@@ -200,7 +200,7 @@ break.
   - Programming: 0.25h / 424.75h
   - English: 1.25h / 10.50h
   - Total: 1.5h
-- 30 Days to Learn Laravel (0.25)
+- 30 Days to Learn Laravel (0.25h)
   - 06: View Data and Route Wildcards
     - Just watched...!
 - TOEIC TEST1 (0.75h)
@@ -214,6 +214,31 @@ break.
   - Programming: h / h
   - English: h / h
   - Total: 
+- 30 Days to Learn Laravel (1.5h)
+  - 06: View Data and Route Wildcards
+    - `<?php if($type === 'a') : ?>` => `@if($type === 'a')`
+    - What is a wildcard?
+      - ワイルドカードは、コンピュータで検索するときに「ここにはどんな文字でもいいよ」という意味を持つ特別な記号です。例えば、アスタリスク（*）は「何でもいいよ」という意味で使われます。
+      - *, ?, [], -
+    - `$job = \Illuminate\Support\Arr::first($jobs, fn($job) => $job['id'] == $id);`
+      - I could not understand for now -> I understood !?
+      - This calls "Arr" Helper Class "first" method.
+      - > returns the first element of an array passing a given truth test:
+      - https://laravel.com/docs/11.x/helpers#method-array-first
+      - ヘルパーっていうんだね
+      - routes/web.php に配列を渡して表示する方法がなんとなくわかった
+    - `dd($job);` show a data.
+  - 07: Autoloading, Namespaces, and Models
+    - Just watched
+- Create My Laravel Projetct for a practice (0.5)
+- ドットインストール
+  - Laravel 8入門 いくつかの動画視聴
+  - For reviwing the lessons
+- SpeakBuddy ()
+- TOEIC TEST1 (0.75)
+  - Answer Part2 and Review
+    - Just Listen to the questions and write down the scripts.
+
 
 ## 2024/05/19
 - Study Time
