@@ -211,8 +211,8 @@ break.
 
 ## 2024/05/18
 - Study Time
-  - Programming: h / h
-  - English: h / h
+  - Programming: 2h / 426.75h
+  - English: 1.25h / 11.75h
   - Total: 
 - 30 Days to Learn Laravel (1.5h)
   - 06: View Data and Route Wildcards
@@ -234,7 +234,7 @@ break.
 - ドットインストール
   - Laravel 8入門 いくつかの動画視聴
   - For reviwing the lessons
-- SpeakBuddy ()
+- SpeakBuddy (0.5)
 - TOEIC TEST1 (0.75)
   - Answer Part2 and Review
     - Just Listen to the questions and write down the scripts.
