@@ -154,7 +154,7 @@ break.
   - english: 2.5h / 9.25h
   - today's total: 4.25h
 - First Contributions JA (0.25h)
-  - Thought about the project
+  - Considered about the project
 - 30 Days to Learn Laravel (1.5h)
   - Review 04: Make a Pretty Layout Using TailwindCSS
   - 05: Style the Currently Active Navigation Link
@@ -245,6 +245,15 @@ break.
   - Programming: h / h
   - English: h / h
   - Total: 
+- **Programming**
+  - **30 Days to Learn Laravel**
+    - 07: Autoloading, Namespaces, and Models
+  - **First Contributions JA**
+- **English**
+  - **TOEIC TEST1**
+    - Answer Part2 and Review
+    - Check the words I do not know
+  - **SepakBuddy**
 
 ## 2024/05/20
 - Study Time
