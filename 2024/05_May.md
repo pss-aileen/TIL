@@ -154,7 +154,7 @@ break.
   - english: 2.5h / 9.25h
   - today's total: 4.25h
 - First Contributions JA (0.25h)
-  - Thought about the project
+  - Considered about the project
 - 30 Days to Learn Laravel (1.5h)
   - Review 04: Make a Pretty Layout Using TailwindCSS
   - 05: Style the Currently Active Navigation Link
@@ -213,7 +213,7 @@ break.
 - Study Time
   - Programming: 2h / 426.75h
   - English: 1.25h / 11.75h
-  - Total: 
+  - Total: 3.25h
 - 30 Days to Learn Laravel (1.5h)
   - 06: View Data and Route Wildcards
     - `<?php if($type === 'a') : ?>` => `@if($type === 'a')`
@@ -241,79 +241,118 @@ break.
 
 
 ## 2024/05/19
-- Study Time
-  - Programming: h / h
-  - English: h / h
-  - Total: 
+- **Study Time**
+  - Programming: 1h / 427.75h
+  - English: 1h / 12.75h
+  - Total: 2h
+- **Programming**
+  - **First Contributions JA** (1h)
+    - Reviewed Desktop Design
+    - Checked the PR and the code roughly
+- **English**
+  - **TOEIC TEST1** (1h)
+    - Answered Part2 and Reviewed
+      - Checked the words I do not know
 
 ## 2024/05/20
 - Study Time
   - Programming: h / h
   - English: h / h
   - Total: 
+- **Programming**
+  - **30 Days to Learn Laravel**
+    - 07: Autoloading, Namespaces, and Models
+  - **ドットインストール**
+    - PHP関連したい
+- **English**
+  - **TOEIC TEST1**
+    - Answer Part3 and Review
+  - **SpeakBuddy**
 
 ## 2024/05/21
 - Study Time
   - Programming: h / h
   - English: h / h
   - Total: 
+- **Programming**
+- **English**
 
 ## 2024/05/22
 - Study Time
   - Programming: h / h
   - English: h / h
   - Total: 
+- **Programming**
+- **English**
 
 ## 2024/05/23
 - Study Time
   - Programming: h / h
   - English: h / h
   - Total: 
+- **Programming**
+- **English**
 
 ## 2024/05/24
 - Study Time
   - Programming: h / h
   - English: h / h
   - Total: 
+- **Programming**
+- **English**
 
 ## 2024/05/25 190/365
 - Study Time
   - Programming: h / h
   - English: h / h
   - Total: 
+- **Programming**
+- **English**
 
 ## 2024/05/26
 - Study Time
   - Programming: h / h
   - English: h / h
   - Total: 
+- **Programming**
+- **English**
 
 ## 2024/05/27
 - Study Time
   - Programming: h / h
   - English: h / h
   - Total: 
+- **Programming**
+- **English**
 
 ## 2024/05/28
 - Study Time
   - Programming: h / h
   - English: h / h
   - Total: 
+- **Programming**
+- **English**
 
 ## 2024/05/29
 - Study Time
   - Programming: h / h
   - English: h / h
   - Total: 
+- **Programming**
+- **English**
 
 ## 2024/05/30
 - Study Time
   - Programming: h / h
   - English: h / h
   - Total: 
+- **Programming**
+- **English**
 
 ## 2024/05/31
 - Study Time
   - Programming: h / h
   - English: h / h
+- **Programming**
+- **English**
   - Total: 
