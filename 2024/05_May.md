@@ -260,14 +260,18 @@ break.
   - English: h / h
   - Total: 
 - **Programming**
+  - **First Contributions JA** (0.75h)
+    - Checked Figma and reviewed
+    - Checked PR and commented
   - **30 Days to Learn Laravel**
     - 07: Autoloading, Namespaces, and Models
-  - **ドットインストール**
-    - PHP関連したい
 - **English**
-  - **TOEIC TEST1**
-    - Answer Part3 and Review
-  - **SpeakBuddy**
+  - **TOEIC TEST1** (0.5h)
+    - Answered and wrote down scripts for Part3
+- **Memo**
+  - ドットインストールのPHPを取り組みのに時間を割けるか不明。
+  - 
+
 
 ## 2024/05/21
 - Study Time
@@ -275,7 +279,9 @@ break.
   - English: h / h
   - Total: 
 - **Programming**
+  - **30 Days to Learn Laravel**
 - **English**
+  - - **SpeakBuddy**
 
 ## 2024/05/22
 - Study Time
