@@ -25,7 +25,7 @@
 break.
 
 ## 2024/05/12
-- Study Time
+- **Study Time**
   - 1.5h / 419.5h
 - Study Topics
   - restart my learning
@@ -53,7 +53,7 @@ break.
   - SpeakBuddy (AI Conversation App)
 
 ## 2024/05/13
-- Study Time
+- **Study Time**
   - programming: 0.5h / 420h
   - english: 1.5h / 1.5h
 ### 30 Days to Learn Laravel 30min
@@ -86,7 +86,7 @@ break.
 ### Created English Learing Repository
 
 ## 2024/05/14
-- Study Time
+- **Study Time**
   - programming: 1.5h / 421.5h
   - english: 1.25h / 2.75h
 - 30 Days tp Learn Laravel (0.5h)
@@ -119,7 +119,7 @@ break.
   - The Social Network on Netflix
 
 ## 2024/05/15 180/365
-- Study Time
+- **Study Time**
   - programming: 1.25h / 422.75h
   - english: 4h / 6.75h
 - 30 Days to Learn Laravel (0.75h)
@@ -149,7 +149,7 @@ break.
   - I scored between 690 and 830 points...! I have the potential to get around 700 points...!?
 
 ## 2024/05/16
-- Study Time
+- **Study Time**
   - programming: 1.75h / 424.5h
   - english: 2.5h / 9.25h
   - today's total: 4.25h
@@ -196,7 +196,7 @@ break.
 - SpeakBuddy (1.25h)
 
 ## 2024/05/17
-- Study Time
+- **Study Time**
   - Programming: 0.25h / 424.75h
   - English: 1.25h / 10.50h
   - Total: 1.5h
@@ -210,7 +210,7 @@ break.
 - Today, I was very tired..., I wrapperd up early than usual.
 
 ## 2024/05/18
-- Study Time
+- **Study Time**
   - Programming: 2h / 426.75h
   - English: 1.25h / 11.75h
   - Total: 3.25h
@@ -255,7 +255,7 @@ break.
       - Checked the words I do not know
 
 ## 2024/05/20
-- Study Time
+- **Study Time**
   - Programming: 1.25h / 429.0h
   - English: 0.5h / 13.25h
   - Total: 1.75h
@@ -296,17 +296,58 @@ break.
   - ポートフォリオとして載せれる、特に技術力を含んだ制作物が特段ないところが不安なので、そこを結局埋める何かが必要ということだけはわかる
 
 ## 2024/05/21
-- Study Time
+- **Study Time**
   - Programming: h / h
   - English: h / h
   - Total: 
 - **Programming**
+  - **dopochipochi** (2h)
+    - アジャイル開発の考え方を取り入れて、開発プロセスを考える: done
+    - フロントエンドフレームワークを取り入れて実装する方法を調べる: in progress
   - **30 Days to Learn Laravel**
+    - 07: Autoloading, Namespaces, and Models
+  - **アジャイル開発とは** (include dopochipochi time)
+    - [アジャイル開発入門！スクラムで実践するアジャイル開発のやり方と勉強法とは](https://www.youtube.com/watch?v=Jm3I6QXzjXw)
+    - *プロダクトバックログ作成、スプリント期間を決める、特定の日に進んだかどうかを確認する、できなかったら次での開発に活かす*
+    - *スプリント期間1週間でやってみる、金曜日の朝に進捗確認をする*
+    - 2種類の開発手順: ウォーターフォール or アジャイル
+    - アジャイル:
+      - スクラム
+      - XP
+      - リーン
+    - スプリント: 1週間単位
+      - 計画、開発、リリース
+      - 毎週毎週やっていく、チームによっては2週間を1スプリントとしたり
+    - プロダクトバックログの作成
+      - TODO、優先度、詳細的なリストを作る（ほへー）
+      - 工数は見積もらない
+      - 期限はあくまで希望
+      - 優先順位をつける
+      - 担当は決めない
+    - スクラムマスター: チームの生産性を最大化する役割
+      - 外敵から守る、環境整備、電球交換、恋愛相談も...あーなるほど....！
+    - スプリント計画
+      - 優先度が高いものをピックアップ
+      - タスクの工数を見積もる
+      - 今週のタスクを決定
+      - タスク工数の見積もり方
+        - 絶対的な見積もり苦手、相対的な見積もりがやりやすい
+        - なので、相対見積もりをする
+        - ログイン機能とカード決済機能で比べて、それぞれの中で相対的に見積もりする
+        - 5、8とかは日数ではない
+        - 1, 2, 3, 5, 8で工数を決める
+      - 進捗を確認
+        - 実装できたか、できなかったか
+        - 合計何ポイント分作業できるかを確認する
+        - ポイント付加を確認して、次の計画を確認する
+      - 金曜リリースは荷が重いので、曜日とか計画を考える
 - **English**
   - - **SpeakBuddy**
+  - **TOEIC TEST1** 
+    - Answer and write down scripts for Part3
 
 ## 2024/05/22
-- Study Time
+- **Study Time**
   - Programming: h / h
   - English: h / h
   - Total: 
@@ -314,7 +355,7 @@ break.
 - **English**
 
 ## 2024/05/23
-- Study Time
+- **Study Time**
   - Programming: h / h
   - English: h / h
   - Total: 
@@ -322,7 +363,7 @@ break.
 - **English**
 
 ## 2024/05/24
-- Study Time
+- **Study Time**
   - Programming: h / h
   - English: h / h
   - Total: 
@@ -330,7 +371,7 @@ break.
 - **English**
 
 ## 2024/05/25 190/365
-- Study Time
+- **Study Time**
   - Programming: h / h
   - English: h / h
   - Total: 
@@ -338,7 +379,7 @@ break.
 - **English**
 
 ## 2024/05/26
-- Study Time
+- **Study Time**
   - Programming: h / h
   - English: h / h
   - Total: 
@@ -346,7 +387,7 @@ break.
 - **English**
 
 ## 2024/05/27
-- Study Time
+- **Study Time**
   - Programming: h / h
   - English: h / h
   - Total: 
@@ -354,7 +395,7 @@ break.
 - **English**
 
 ## 2024/05/28
-- Study Time
+- **Study Time**
   - Programming: h / h
   - English: h / h
   - Total: 
@@ -362,7 +403,7 @@ break.
 - **English**
 
 ## 2024/05/29
-- Study Time
+- **Study Time**
   - Programming: h / h
   - English: h / h
   - Total: 
@@ -370,7 +411,7 @@ break.
 - **English**
 
 ## 2024/05/30
-- Study Time
+- **Study Time**
   - Programming: h / h
   - English: h / h
   - Total: 
@@ -378,7 +419,7 @@ break.
 - **English**
 
 ## 2024/05/31
-- Study Time
+- **Study Time**
   - Programming: h / h
   - English: h / h
 - **Programming**
