@@ -161,7 +161,7 @@ break.
     - `<a href="/" class="{{ true ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white'}}">Home</a>`
     - Paused at 12:19
     - determine: 決定する
-    - temporarily: 一時的に
+    - **temporarily**: 一時的に
     - otherwise: さもなければ、それ以外の場合は、別の方法で
     - should: 義務、可能性、推奨、〜するはずだ、〜するだろう
     - the trick: 効果的な方法
@@ -256,18 +256,44 @@ break.
 
 ## 2024/05/20
 - Study Time
-  - Programming: h / h
-  - English: h / h
-  - Total: 
+  - Programming: 1.25h / 429.0h
+  - English: 0.5h / 13.25h
+  - Total: 1.75h
 - **Programming**
-  - **30 Days to Learn Laravel**
+  - **First Contributions JA** (0.75h)
+    - Checked Figma and reviewed
+    - Checked PR and commented
+  - **30 Days to Learn Laravel** (0.5h)
+    - ほぼ、英語の勉強状態だった。最終的には英語で全てを理解できるようになることが目標なので、果てしない道に感じるが、頑張る。
     - 07: Autoloading, Namespaces, and Models
-  - **ドットインストール**
-    - PHP関連したい
+      - I'm going to dive right in: 今すぐ本題に入る
+        - dive in: 〜の中に飛び込む
+        - right: 今すぐ
+      - Because we have a bunch to do here: なぜなら、ここですることが沢山あるから
+        - **bunch**: たくさん、多くの、一団、群れ、束
+         - We have a bunch of tasks to complete today.
+         - A bunch of friends came over for dinner.
+         - He has a bunch of ideas for the project.
+      - temporaily: 一時的に、仮に（忘れがちな単語...）
+      - スケーラブル: 拡張性がない
+      - clearly, that doesn't scale at all: 明らかに、それらは全くスケーラブルではありません
+        - コードの管理が難しく、変更や拡張が困難という意味
+        - as well: 〜もまた、同様に、さらに
+          - too と比べると as well の方がフォーマル
+          - too と同じような感じで使える
+      - I am going to solve this problem in a very incremental way. : 私はこの問題を非常に段階的な方法で解決するつもりです
+        - **a incremental way**: 段階的な方法で
+      - So just bear with me and come along for the ride.: だから、ちょっと我慢して、一緒に付き合ってください。
+        - come along: ついてくる、一緒に来る
+        - for the ride: 直訳は乗り物のために
+      - explicit: 明示的な、はっきりとした
+        - Let's make that explicit by adding a return type.
 - **English**
-  - **TOEIC TEST1**
-    - Answer Part3 and Review
-  - **SpeakBuddy**
+  - **TOEIC TEST1** (0.5h)
+    - Answered and wrote down scripts for Part3
+- **Memo**
+  - ドットインストールのPHPを取り組みのに時間を割けるか不明。
+  - ポートフォリオとして載せれる、特に技術力を含んだ制作物が特段ないところが不安なので、そこを結局埋める何かが必要ということだけはわかる
 
 ## 2024/05/21
 - Study Time
@@ -275,7 +301,9 @@ break.
   - English: h / h
   - Total: 
 - **Programming**
+  - **30 Days to Learn Laravel**
 - **English**
+  - - **SpeakBuddy**
 
 ## 2024/05/22
 - Study Time
