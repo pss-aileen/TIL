@@ -34,17 +34,6 @@ break.
     - PHP入門 基礎文法 basic php grammar: 07/14
   - [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11/episodes/1)
     - 01: Hello Laravel 15min
-      - installed Laravel Herd
-      - https://herd.laravel.com/docs/1/getting-started/installation?ref=herd
-      - `cd ~/Herd`
-      - `laravel new example`: created new laravel project
-        - No starter kit
-        - Pest
-        - git: No
-        - SQLite
-      - `ls`
-      - `cd example`
-      - `example.test`: I can see a content in browser
   - Twilight on Netflix
     - The voice and subtitles are in English. 30min
     - A memo was moved to another repository (private).
@@ -57,23 +46,10 @@ break.
   - programming: 0.5h / 420h
   - english: 1.5h / 1.5h
 ### 30 Days to Learn Laravel 30min
-- words
-  - artisans: 職人, a worker in a skilled trade
-    - skilled trade: 熟練した職業
-  - expressive: 表現力豊かな
-  - syntax: 構文
-  - fingertips: 指先
-  - stick with: continue with something or someone, to remain loyal or commited to a particular choice or course of action
-    - I will stick with my current job because I enjoy it.
-    - give it a shot: try something or make an attempt at doing something
 #### Review 01: Hello, Laravel
   - [LARACON](https://laracon.us/)
     - the largest Laravel event of the year.
 #### 02: Your First Route and View
-  - "phpstorm": editor?
-  - Route return view
-  - The homework is creating a contact page. done.
-  - **In Laravel, there are many folders and files. However I do not need to know everything. I just focus on the files that I use.**
 ### first-contributions-ja
 - Checked the progress.
 ### Twilight on Netflix 1h
@@ -91,15 +67,7 @@ break.
   - english: 1.25h / 2.75h
 - 30 Days tp Learn Laravel (0.5h)
   - Review 02: Your First Route and View
-    - routes/web.php
-    - resources/views/welcome.blade.php
-    - "blade" is template engine
   - 03: Create a Layout File Using Laravel
-    - `<x-layout>contents</x-layout>`
-    - x-"layout" is depend on file names
-      - Components/layout.blade.php -> `<x-layout></x-layout>`
-      - Components/nav-link.blade.php -> `<x-nav-link></x-nav-link>`
-    - `<?php echo $slot ?>` = `{{ $slot }}`
 - First Contributions JA (1h)
   - Create SP Design
 - SpeakBuddy (1h)
@@ -126,18 +94,6 @@ break.
   - Review 03: Create a Layout File Using Laravel
     - Read my notes
   - 04: Make a Pretty Layout Using TailwindCSS
-    - pretty:
-      - かわいい、きれい
-      - 副詞 かなり、相当、pretty good, pretty much
-    - The `layout.blade.php` file includes `{{ $heading }}` , so I can write `<x-slot:heading></x-slot:heading>` in the `home.blade.php` file.
-    - `<x-test></x-test>` is the parent node.
-    - `<x-slot:heading></x-slot:heading>` is the child node..., I think.
-    - `x-ほにゃらら` がComponentsのファイル名
-    - layout.balde.phpの `{{ $slot }}` に記述したい場合は、home.blade.phpの `x-ほにゃらら` の中に記述する必要がある
-    - `{{ $slot }}` からはずれた場所にも内容を表示したければ、layout.blade.phpに `{{ $heading }}` のように記述し、home.blade.phpに `<x-slot:heading>` と記述する
-    - It was confusing for me, so I have to review it well tomorrow.
-      - English: I can use "Thoroughly" instead of "well".
-        - "Thoroughly" is more careful than "well".
 - First Contributions JA (0.5h)
 - SpeakBuddy (1h)
 - Twilight on Netflix (1h)
@@ -157,39 +113,8 @@ break.
   - Considered about the project
 - 30 Days to Learn Laravel (1.5h)
   - Review 04: Make a Pretty Layout Using TailwindCSS
+  - It was confusing for me, so I have to review it well tomorrow.
   - 05: Style the Currently Active Navigation Link
-    - `<a href="/" class="{{ true ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white'}}">Home</a>`
-    - Paused at 12:19
-    - determine: 決定する
-    - **temporarily**: 一時的に
-    - otherwise: さもなければ、それ以外の場合は、別の方法で
-    - should: 義務、可能性、推奨、〜するはずだ、〜するだろう
-    - the trick: 効果的な方法
-    - hardcoded: ベタ打ち
-    - represent: 示す、表す
-    - "In JavaScript, you can distinguish between a string and a number using the typeof operator."
-    - "Blade" is a template engine in Laravel
-    - "Directive" is a command that executes in a specific task.
-    - "Don't feel overwhelmed.": 気負わないでください、圧倒されないでください
-    - spit out: 出力する、表示する
-    - might be potentially passed in: 〜渡され離可能性がある、〜する可能性がある
-    - inspect: 調査する、検査する、点検する
-    - assume: 仮定する、想定する、引き受ける
-    - explicitly declare: 明示的に宣言する
-    - distinguish: 区別する、識別する
-    - probably: たぶん、おそらく
-    - how come: どうして？
-    - interpreted: 解釈する
-    - eloquent: 雄弁な、よく表して、
-    - hava a dedicated: 〜専用のものを持つ、専用の〜がある、
-    - dedicated: 専用の、特定の目的のために設けられた
-      - "Our application has a dedicated server for handling database requests.": 私たちのアプリケーションにはデータベースリクエストを処理する専用のサーバーがあります。
-    - step in: 立ち入る、参加する、介入する
-      - Somebody else will step in.
-    - Homework: Create the prop "type". I did.
-    - `:active="request()->is('/')"` で、 `:` をつけると、中身を `true`、`false` で判定してくれるようになる
-    - I do not understand `request()->is('/')` well.
-    - I can pass contents through props like `@props(['active' => false, 'type' => 'a'])`.
 - Chatted with ChatGPT (0.5h) 
 - TOEIC TEST1 (0.75)
   - Answer Part1 and Review 
@@ -216,18 +141,6 @@ break.
   - Total: 3.25h
 - 30 Days to Learn Laravel (1.5h)
   - 06: View Data and Route Wildcards
-    - `<?php if($type === 'a') : ?>` => `@if($type === 'a')`
-    - What is a wildcard?
-      - ワイルドカードは、コンピュータで検索するときに「ここにはどんな文字でもいいよ」という意味を持つ特別な記号です。例えば、アスタリスク（*）は「何でもいいよ」という意味で使われます。
-      - *, ?, [], -
-    - `$job = \Illuminate\Support\Arr::first($jobs, fn($job) => $job['id'] == $id);`
-      - I could not understand for now -> I understood !?
-      - This calls "Arr" Helper Class "first" method.
-      - > returns the first element of an array passing a given truth test:
-      - https://laravel.com/docs/11.x/helpers#method-array-first
-      - ヘルパーっていうんだね
-      - routes/web.php に配列を渡して表示する方法がなんとなくわかった
-    - `dd($job);` show a data.
   - 07: Autoloading, Namespaces, and Models
     - Just watched
 - Create My Laravel Projetct for a practice (0.5)
@@ -266,28 +179,6 @@ break.
   - **30 Days to Learn Laravel** (0.5h)
     - ほぼ、英語の勉強状態だった。最終的には英語で全てを理解できるようになることが目標なので、果てしない道に感じるが、頑張る。
     - 07: Autoloading, Namespaces, and Models
-      - I'm going to dive right in: 今すぐ本題に入る
-        - dive in: 〜の中に飛び込む
-        - right: 今すぐ
-      - Because we have a bunch to do here: なぜなら、ここですることが沢山あるから
-        - **bunch**: たくさん、多くの、一団、群れ、束
-         - We have a bunch of tasks to complete today.
-         - A bunch of friends came over for dinner.
-         - He has a bunch of ideas for the project.
-      - temporaily: 一時的に、仮に（忘れがちな単語...）
-      - スケーラブル: 拡張性がない
-      - clearly, that doesn't scale at all: 明らかに、それらは全くスケーラブルではありません
-        - コードの管理が難しく、変更や拡張が困難という意味
-        - as well: 〜もまた、同様に、さらに
-          - too と比べると as well の方がフォーマル
-          - too と同じような感じで使える
-      - I am going to solve this problem in a very incremental way. : 私はこの問題を非常に段階的な方法で解決するつもりです
-        - **a incremental way**: 段階的な方法で
-      - So just bear with me and come along for the ride.: だから、ちょっと我慢して、一緒に付き合ってください。
-        - come along: ついてくる、一緒に来る
-        - for the ride: 直訳は乗り物のために
-      - explicit: 明示的な、はっきりとした
-        - Let's make that explicit by adding a return type.
 - **English**
   - **TOEIC TEST1** (0.5h)
     - Answered and wrote down scripts for Part3
@@ -304,9 +195,9 @@ break.
   - **dopochipochi** (2h)
     - アジャイル開発の考え方を取り入れて、開発プロセスを考える: done
     - フロントエンドフレームワークを取り入れて実装する方法を調べる: in progress
-  - **30 Days to Learn Laravel**
+  - **30 Days to Learn Laravel** (0.5h + 0.5)
     - 07: Autoloading, Namespaces, and Models
-  - **アジャイル開発とは** (include dopochipochi time)
+  - **アジャイル開発とは** (included dopochipochi time)
     - [アジャイル開発入門！スクラムで実践するアジャイル開発のやり方と勉強法とは](https://www.youtube.com/watch?v=Jm3I6QXzjXw)
     - *プロダクトバックログ作成、スプリント期間を決める、特定の日に進んだかどうかを確認する、できなかったら次での開発に活かす*
     - *スプリント期間1週間でやってみる、金曜日の朝に進捗確認をする*
@@ -342,8 +233,8 @@ break.
         - ポイント付加を確認して、次の計画を確認する
       - 金曜リリースは荷が重いので、曜日とか計画を考える
 - **English**
-  - - **SpeakBuddy**
-  - **TOEIC TEST1** 
+  - **SpeakBuddy**
+  - **TOEIC TEST1** (0.5h)
     - Answer and write down scripts for Part3
 
 ## 2024/05/22
