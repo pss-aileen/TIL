@@ -1,18 +1,18 @@
 # 30 Days to Learn Laravel
 - website: https://laracasts.com/series/30-days-to-learn-laravel-11
-
-- Section 1: Baby Steps
-  - From 01 to 07
-- Section 2: Eloquent
-  - From 08 to 15
-- Section 3: Forms
-  - From 16 to 19
-- Section 4: Authentication
-  - From 20 to 23
-- Section 5: Diggin Deeper
-  - From 24 to 26
-- Section 6: Final Project
-  - From 27 to 30
+- index
+  - Section 1: Baby Steps
+    - From 01 to 07
+  - Section 2: Eloquent
+    - From 08 to 15
+  - Section 3: Forms
+    - From 16 to 19
+  - Section 4: Authentication
+    - From 20 to 23
+  - Section 5: Diggin Deeper
+    - From 24 to 26
+  - Section 6: Final Project
+    - From 27 to 30
 
 # 01: Hello Laravel
 
@@ -185,9 +185,30 @@
     - She is the heart of our team, so to speak.
   - extract: 分離する、取り去る
   - make sense: 理解できる、意味がわかる
+    - exsample: A sequence of failures led to the project's collapse."
 
 
 # 08: Introduction to Migrations
+- `laravel new testing`
+  - 新しくララベルのディレクトリを作る
+  - データベースを確認する
+- `php artisan`
+  - なんか色々な命令がある？
+  - 以下のようにコマンドを叩いていろいろ確認や何かしらの操作ができそう？
+- `php artisan db:show`
+  - SQLiteの情報が表示される
+- `php artisan migrate`
+- GUI "TablePlus"
+  - GUIはぐいーっていう
+  - Database management made easy らしい
+  - 色々なデータベースの種類がある SQLとかいろいろ
+  - データベースのURLを指定すると、情報が見れるっぽい
+  - なぜ、jobsというものがあるのか気になる....
+  - MySQLのphpMyAdmin的なものができる
+- 10:26までさっくり見た at 0:21
+- words
+  - sequences: 順序、連続
+  - migration: 移住、移動
 
 # 09: Meet Eloquent
 
