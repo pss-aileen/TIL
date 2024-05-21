@@ -1,6 +1,18 @@
 # 30 Days to Learn Laravel
 - website: https://laracasts.com/series/30-days-to-learn-laravel-11
 
+- Section 1: Baby Steps
+  - From 01 to 07
+- Section 2: Eloquent
+  - From 08 to 15
+- Section 3: Forms
+  - From 16 to 19
+- Section 4: Authentication
+  - From 20 to 23
+- Section 5: Diggin Deeper
+  - From 24 to 26
+- Section 6: Final Project
+  - From 27 to 30
 
 # 01: Hello Laravel
 
@@ -64,6 +76,10 @@
 
 # 05: Style the Currently Active Navigation Link
 
+- "Blade" is a template engine in Laravel
+  - a template engine:
+    - HTMLなどの静的なテンプレートファイルに動的なデータを埋め込むためのツール
+    - プログラムからHTMLを生成するのに使用され、データの表示を容易にする
 - `<a href="/" class="{{ true ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white'}}">Home</a>`
 - Homework: Create the prop "type". I did.
 - `:active="request()->is('/')"` で、 `:` をつけると、中身を `true`、`false` で判定してくれるようになる
@@ -78,7 +94,6 @@
   - hardcoded: ベタ打ち
   - represent: 示す、表す
   - "In JavaScript, you can distinguish between a string and a number using the typeof operator."
-  - "Blade" is a template engine in Laravel
   - "Directive" is a command that executes in a specific task.
   - "Don't feel overwhelmed.": 気負わないでください、圧倒されないでください
   - spit out: 出力する、表示する
@@ -113,7 +128,9 @@
   - routes/web.php に配列を渡して表示する方法がなんとなくわかった
 - `dd($job);` show a data.
 
+
 # 07: Autoloading, Namespaces, and Models
+
 - Autoloading: ?
 - Namespace: プログラム内での名前の衝突をしないようにしている
 - Models: Jobs クラスあたりのこと
@@ -146,16 +163,21 @@
   - presistence: 粘り強さ、持続性、データベースの「永続性」やプログラムの「状態保持」
   - Business Logic Tier: 
     > Business Logic Tier（ビジネスロジック層）」は、ソフトウェアアーキテクチャにおける層の一つで、ビジネスルールやビジネスロジックを含む部分を指します。これは、データの処理や計算、ルールの適用など、アプリケーションのコアとなる機能を実行する役割を担っています。
+    > 
     > ソフトウェアアーキテクチャは通常、以下の3層に分けられます：
+    > 
     > プレゼンテーション層（Presentation Tier）：ユーザーインターフェースやユーザーとのやり取りを担当する部分。
+    > 
     > ビジネスロジック層（Business Logic Tier）：ビジネスルールやデータの処理を担当する部分。
+    > 
     > データアクセス層（Data Access Tier）：データベースとのやり取りを担当する部分。
+    > 
     > ビジネスロジック層は、アプリケーションの機能の中心となる部分で、データの取得や保存、ビジネスルールの適用などを行います。この層を分離することで、アプリケーションの開発や保守が容易になり、プレゼンテーション層やデータアクセス層の変更があってもビジネスロジックに影響を与えずに済むようになります。
   - encapsulated: 「カプセル化された」や「封じ込められた」という意味
     - この用語は特にオブジェクト指向プログラミング（OOP）においてよく使われる
   - PSR-4 (PHP Standard Recommendation 4): は、PHPにおける自動ローディングの標準仕様
   - gibberish: 意味不明な言葉、ちんぷんかんぷん
-  - namespace: ログラム内で名前の衝突を避けるために使われる概念
+  - namespace: プログラム内で名前の衝突を避けるために使われる概念
     - 同じ名前のクラスや関数が異なる意味を持つ場合でも、それらを区別するための方法を提供する
   - convention: 習慣、規約、取り決め
     - coding conventions: コーディング規約、Naming Conventions: 命名規則
@@ -163,3 +185,36 @@
     - She is the heart of our team, so to speak.
   - extract: 分離する、取り去る
   - make sense: 理解できる、意味がわかる
+
+
+# 08: Introduction to Migrations
+
+# 09: Meet Eloquent
+
+# 10: Model Factories
+
+# 11: Two Key Eloquent Relatiopnship Types
+
+# 12: Pivot Tables and BelongsToMany Relationships
+
+# 13: Eager Loading and the N+1 Problem
+
+# 14: All You Need to Know About Pagination
+
+# 15: Understanding Database Seeders
+
+# 16: Forms and CSRF Explained with Examples
+
+# 17: Always Validate, Never Trust the User.
+
+# 18: Editing, Updating, and Deleting a Resource
+
+# 19: Routes Reloaded - 6 Essensial Tips
+
+# 20: Starter Kits, Breeze, and Middleware
+
+# 21: Make a Login and Registration System From Scratch: Part 1
+
+# 22: Make a Login and Registration System From Scratch: Part 2
+
+# 23: 6 Steps to Authorization Mastery

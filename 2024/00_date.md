@@ -1,1070 +1,1473 @@
 
-## 2024/06/01
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/02
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/03
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/04 200/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/05
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/06
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/07
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/08
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/09
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/10
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/11
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/12
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/13
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/14 210/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/15
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/16
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/17
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/18
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/19
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/20
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/21
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/22
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/23
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/24 220/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/25
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/26
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/27
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/28
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/29
-- 勉強時間
-  - ?h / ?h
-- 作業内容
-
-## 2024/06/30
-- 勉強時間
-  - ?h / ?h
-- 作業内容
 
 ## 2024/07/01
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/02
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/03
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/04 230/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/05
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/06
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/07
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/08
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/09
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/10
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/11
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/12
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/13
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/14 240/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/15
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/16
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/17
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/18
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/19
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/20
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/21
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/22
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/23
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/24 250/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/25
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/26
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/27
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/28
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/29
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/30
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/07/31
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/01
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/02
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/03 260/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/04
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/05
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/06
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/07
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/08
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/09
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/10
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/11
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/12
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/13 270/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/14
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/15
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/16
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/17
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/18
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/19
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/20
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/21
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/22
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/23 280/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/24
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/25
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/26
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/27
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/28
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/29
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/30
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/08/31
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/01
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/02 290/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/03
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/04
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/05
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/06
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/07
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/08
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/09
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/10
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/11
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/12 300/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/13
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/14
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/15
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/16
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/17
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/18
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/19
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/20
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/21
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/22 310/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/23
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/24
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/25
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/26
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/27
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/28
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/29
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/09/30
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/01
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/02 320/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/03
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/04
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/05
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/06
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/07
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/08
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/09
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/10
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/11
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/12 330/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/13
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/14
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/15
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/16
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/17
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/18
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/19
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/20
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/21
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/22 340/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/23
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/24
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/25
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/26
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/27
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/28
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/29
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/30
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/10/31
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/01 350/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/02
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/03
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/04
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/05
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/06
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/07
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/08
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/09
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/10
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/11 360/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/12
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/13
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/14
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/15
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/16 365/365
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/17
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/18
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/19
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/20
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/21
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/22
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/23
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/24
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/25
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/26
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/27
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/28
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/29
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/11/30
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/01
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/02
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/03
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/04
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/05
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/06
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/07
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/08
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/09
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/10
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/11
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/12
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/13
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/14
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/15
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/16
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/17
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/18
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/19
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/20
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/21
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/22
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/23
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/24
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/25
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/26
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/27
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/28
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/29
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/30
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**
 
 ## 2024/12/31
-- 勉強時間
-  - ?h / ?h
-- 作業内容
+- **Study Time**
+  - Programming:  / 
+  - English:  / 
+  - Total: 
+- **Programming**
+- **English**

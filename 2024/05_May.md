@@ -195,7 +195,7 @@ break.
   - **dopochipochi** (2h)
     - アジャイル開発の考え方を取り入れて、開発プロセスを考える: done
     - フロントエンドフレームワークを取り入れて実装する方法を調べる: in progress
-  - **30 Days to Learn Laravel** (0.5h + 0.5)
+  - **30 Days to Learn Laravel** (0.5h + 0.75)
     - 07: Autoloading, Namespaces, and Models
   - **アジャイル開発とは** (included dopochipochi time)
     - [アジャイル開発入門！スクラムで実践するアジャイル開発のやり方と勉強法とは](https://www.youtube.com/watch?v=Jm3I6QXzjXw)
