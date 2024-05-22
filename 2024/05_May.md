@@ -223,6 +223,10 @@ break.
   - English: h / h
   - Total: 
 - **Programming**
+  - **Laravel with React Challeng** (2.25h)
+    - Reactを使うイメージが浮かばなかったのでとりあえずやってみることにした
+    - とりあえずなんとか環境構築はできて、Reactの読み込みまでできた
+    - これを後にDockerでやれるようになったらいいな...？
 - **English**
   - **TOEIC TEST1**
     - Answer and write down scripts for Part3
