@@ -45,21 +45,21 @@ break.
 - **Study Time**
   - programming: 0.5h / 420h
   - english: 1.5h / 1.5h
-### 30 Days to Learn Laravel 30min
-#### Review 01: Hello, Laravel
-  - [LARACON](https://laracon.us/)
-    - the largest Laravel event of the year.
-#### 02: Your First Route and View
-### first-contributions-ja
-- Checked the progress.
-### Twilight on Netflix 1h
+- 30 Days to Learn Laravel 30min
+  - Review 01: Hello, Laravel
+    - [LARACON](https://laracon.us/)
+      - the largest Laravel event of the year.
+  - 02: Your First Route and View
+- first-contributions-ja
+  - Checked the progress.
+- Twilight on Netflix 1h
 - A memo was moved to another repository (private).
-### [ETS](https://englishteststore.net/)
+- [ETS](https://englishteststore.net/)
 - [Learn vs Study Test](https://englishteststore.net/index.php?option=com_content&view=article&id=14442:learn-vs-study-test&catid=260&Itemid=120)
   - Learn: through experiences
   - Study: through books or research
-### SpeakBuddy 30min
-### Created English Learing Repository
+- SpeakBuddy 30min
+- Created English Learing Repository
 
 ## 2024/05/14
 - **Study Time**
@@ -152,7 +152,6 @@ break.
   - Answer Part2 and Review
     - Just Listen to the questions and write down the scripts.
 
-
 ## 2024/05/19
 - **Study Time**
   - Programming: 1h / 427.75h
@@ -205,15 +204,18 @@ break.
 
 ## 2024/05/22
 - **Study Time**
-  - Programming: h / h
-  - English: h / h
+  - Programming: 0.25h / 432.50h
+  - English: 0h / 13.75h
   - Total: 
 - **Programming**
-  - **30 Days to Learn Laravel**
-- **English**
-  - **TOEIC TEST1**
-    - Answer and write down scripts for Part3
-  - **SpeakBuddy**
+  - **30 Days to Learn Laravel** (0.25)
+    - 08: Introduction to Migrations
+      - just watch and listen 
+- **Memo**
+  - やっぱりPHPの記述量が圧倒的に少ないので、PHP、最悪何も見ないあで掲示板やTODOリストを作れるようになったほうがいいかもしれない
+  - データベース周り、フレームワーク周りから逃げずに、粘り強く頑張ること
+  - [人類は気づいていた。この勉強の仕方が1番早いということを。 #新人プログラマ応援 - Qiita](https://qiita.com/Sicut_study/items/79838a4b8ec36bc3a961)
+  - 今日はまるい丸一日出てて作業できず。また明日頑張る。
 
 ## 2024/05/23
 - **Study Time**
@@ -222,6 +224,9 @@ break.
   - Total: 
 - **Programming**
 - **English**
+  - **TOEIC TEST1**
+    - Answer and write down scripts for Part3
+  - **SpeakBuddy**
 
 ## 2024/05/24
 - **Study Time**
