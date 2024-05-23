@@ -4,7 +4,9 @@
 - development
   - `npm run dev`
   - `php artisan serve`
-  - `mysql -u root -p` このあと root 入力
+  - `brew services start mysql` or `mysql.server start` 
+    - `brew services list`
+    - `mysql -u root -p`
   - メモ
     - これをDockerでできたらいいのかな...？
 
@@ -103,6 +105,28 @@
 - `SHOW TABLES;`
   - 色々はいっていたのでOKかな
 
+## 次の日以下でMySQLを起動したけどだめだったので、結果まとめ
+- 実際に必要なコマンド
+  - `brew services start mysql` or `mysql.server start` 
+  - `brew services list`
+  - `mysql -u root -p`
+    - パスワードに root を入力
+  - `SHOW DATABASES;` これで中身確認できる
+  - `USE practice_laravel_with_react;`
+  - `SHOW TABLES;`
+- 実行したコマンド
+  - `npm run dev`
+  - `php artisan serve`
+  - `mysql -u root -p` このあと root 入力
+  - → mysql動かず
+- やったころ
+  - 調べていると、MySQLはbrewでインストールされていたので、そちらで実行してみることに
+- `brew services start mysql`: 起動
+- `brew services list`: これで動いているか確認
+- `http://127.0.0.1:8000/` リロードしたらページが読み込まれた
+- もし、Homebrewとして動作させるのではなく、手動で起動させる場合は以下を使う
+  - `mysql.server start`: 昨日はこれで起動させていたかも...！忘れていた...！
+
 # React の表示
 welcome.blade.php
 
@@ -116,7 +140,7 @@ welcome.blade.php
   <title>TEST</title>
   
   @viteReactRefresh
-        @vite(['resources/css/app.css', 'resources/js/app.js'])
+  @vite(['resources/css/app.css', 'resources/js/app.js'])
 
 </head>
 <body>
@@ -129,7 +153,118 @@ welcome.blade.php
 
 これでやっとReact読み込めた
 なぜ、エラー起きてたのかさっぱり
+ただ、色々サーバー再起動しまくってたのがよかったのかも、再度読み込みなおした感じで
 
 # とりあえず、TODOアプリでも作ってみる
 
 - とりあえず、Componentsにいろいろベースを作ってみよう
+- と思ったけど、とりあえず表示させてみたいので、データベースにデータ入れて、表示させてみる
+
+# データベースにサンプルテーブルを作る
+
+ ```sql
+ CREATE TABLE test (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    task VARCHAR(255) NOT NULL,
+    status VARCHAR(50) NOT NULL
+);
+ ```
+
+ ```sql
+ INSERT INTO test (task, status) VALUES
+('Buy groceries', 'pending'),
+('Clean the house', 'pending'),
+('Finish the project report', 'in progress'),
+('Call mom', 'completed'),
+('Schedule doctor appointment', 'pending'),
+('Pay electricity bill', 'completed'),
+('Book flight tickets', 'pending'),
+('Prepare presentation', 'in progress'),
+('Read a book', 'pending'),
+('Go for a run', 'completed');
+ ```
+
+ ```sql
+ SELECT * FROM test;
+ ```
+
+# データベースの内容を表示させる手順を追ってやってみる
+
+ - `.env` を確認
+  - ```
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=practice_laravel_with_react
+    DB_USERNAME=root
+    DB_PASSWORD=root
+    ```
+- モデルの作成をする
+  - `php artisan make:model Test`
+  - これを実行すると `app/Models/Test.php` ができる
+  - とりあえずカスタマイズせずにすすむ
+    - もしかしたら ues の下に `protected $table = 'test';` が必要
+    - これはテーブルの名前を明示的に指定してるらしい
+- コントローラーの作成
+  - `php artisan make:controller TestController`
+  - これでデータを取得して、ビューに渡すコントロールを作るらしい
+  - `app/Http/Controllers/TestController.php`
+  - ↑これを少し編集する
+  - ```php
+    <?php
+
+      namespace App\Http\Controllers;
+
+      use App\Models\Test;
+      use Illuminate\Http\Request;
+
+      class TestController extends Controller
+      {
+          //
+          public function index()
+          {
+            // データベースからすべてのレコードを取得
+            $tests = Test::all();
+
+            // ビューにデータを渡して表示
+            return view('test.index', ['tests' => $tests]);
+          }
+      }
+    ```
+
+## Reactと接続のためにAPIを流くる必要があった
+
+- APIルートの設定
+  - routes/api.php
+  ```php
+  <?php
+
+  use Illuminate\Support\Facades\Route;
+  use App\Http\Controllers\TestController;
+
+  Route::get('/tests', [TestController::class, 'index']);
+  ```
+- CROSの設定
+  - `composer require fruitcake/laravel-cors`
+  - エラー吐いた
+    > Use the option --with-all-dependencies (-W) to allow upgrades, downgrades and removals for packages currently locked to specific versions.
+    > You can also try re-running composer require with an explicit version constraint, e.g. "composer require fruitcake/laravel-cors:*" to figure out if any version is installable, or "composer require fruitcake/laravel-cors:^2.1" if you know which you need.
+  - `composer require fruitcake/laravel-cors --with-all-dependencies`
+  - エラー
+    > You can also try re-running composer require with an explicit version constraint, e.g. "composer require fruitcake/laravel-cors:*" to figure out if any version is installable, or "composer require fruitcake/laravel-cors:^2.1" if you know which you need.
+- 色々調べているとこちらにたどりついた
+- [Laravel 10にアップグレードするときに、fruitcake/laravel-corsを削除するだけで大​​丈夫ですか?](https://laracasts.com/discuss/channels/code-review/is-it-ok-to-just-remove-fruitcakelaravel-cors-while-upgrading-to-laravel-10)
+- ここまでのまとめ
+  - `fruitcake/laravel-cors` こやつは Laravel11ではサポートされていない
+  - Laravel 10ですでに必要なくなっていた
+    - なぜなら、Laravel10でCROSサポートが組み込まれているからだった
+
+## 上記でうまくいかなかったので、以下をやってみた
+- `TestController`でAPIルートでjson形式で返すように記述
+- `npm install axios`
+- 色々書いたけど、うまくいかない、調べて以下に辿り着いた
+- [Error CORS policy no 'Access-Control-Allow-Origin' with Laravel 11](https://laracasts.com/discuss/channels/laravel/error-cors-policy-no-access-control-allow-origin-with-laravel-11)
+- `php artisan make:middleware Cors`
+  - これをするとファイルはできたが、よくわからん
+  - ↑のサイトを確認しながら設定をしたほうがいいかも
+  - 次回で
