@@ -219,20 +219,22 @@ break.
 
 ## 2024/05/23
 - **Study Time**
-  - Programming: h / h
-  - English: h / h
-  - Total: 
+  - Programming: 5.25h / 437.75h
+  - English: 0.25h / 14.0h
+  - Total: 5.50h
 - **Programming**
-  - **Laravel with React Challeng** (2.25h + 1h)
+  - **Laravel with React Challeng** (2.25h + 1h = 3.25h)
     - Reactを使うイメージが浮かばなかったのでとりあえずやってみることにした
     - とりあえずなんとか環境構築はできて、Reactの読み込みまでできた
     - これを後にDockerでやれるようになったらいいな...？
-  - **30 Days to Learn Laravel**
-    - 上は一旦行き詰まりそうなので、こちらを少し進めてもいいかも
+  - **First Contributions JA** (2h)
+    - SP版デザインカンプ作成
 - **English**
-  - **TOEIC TEST1**
+  - **TOEIC TEST1** (0.25h)
     - Answer and write down scripts for Part3
-  - **SpeakBuddy**
+- **Memo**
+  - リポジトリの数が、公開しているもので中途半端なものはprivateにした。
+  - 英語金センテンス見てたら瞬時にわからなくてめっちゃ落ち込んだ。めげたけどがんばる。
 
 ## 2024/05/24
 - **Study Time**
