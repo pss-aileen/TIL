@@ -238,11 +238,14 @@ break.
 
 ## 2024/05/24
 - **Study Time**
-  - Programming: h / h
-  - English: h / h
-  - Total: 
+  - Programming: 3h / 440.75h
+  - English: 0h / 14.0h
+  - Total: 3h
 - **Programming**
+  - **First Contributions JA** (3h)
+    - SP版デザインカンプ修正
 - **English**
+  - なし
 
 ## 2024/05/25 190/365
 - **Study Time**
@@ -250,7 +253,17 @@ break.
   - English: h / h
   - Total: 
 - **Programming**
+  - **Laravel with React Challeng**
+    - 作業時間 MAX2時間ぐらいで、英語メインで
+  - **30 Days to Learn Laravel**
+    - 作業時間 MAX30分で
 - **English**
+  - **TOEIC TEST1**
+    - Answer and write down scripts for Part3
+    - 復習できてなさすぎるので比重大きくして取り組む
+  - 金のセンテンス
+- **Memo**
+  - TOEICまで1ヶ月きったので、英語メインで。復習が追いついていない。
 
 ## 2024/05/26
 - **Study Time**
