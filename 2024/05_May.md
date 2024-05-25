@@ -249,13 +249,13 @@ break.
 
 ## 2024/05/25 190/365
 - **Study Time**
-  - Programming: h / h
-  - English: h / h
-  - Total: 
+  - Programming: 6h / 446.75h
+  - English: 1.75h / 15.75h
+  - Total: 7.75h
 - **Programming**
   - **my-portfolio** (1h)
     - Figmaでデザイン作成
-  - **First Contributions JA**
+  - **First Contributions JA** (5h)
     - ヒーローエリア実装
 - **English**
   - **TOEIC TEST1** (0.5h + 1.25h)
