@@ -253,17 +253,18 @@ break.
   - English: h / h
   - Total: 
 - **Programming**
-  - **Laravel with React Challeng**
-    - 作業時間 MAX2時間ぐらいで、英語メインで
-  - **30 Days to Learn Laravel**
-    - 作業時間 MAX30分で
+  - **my-portfolio** (1h)
+    - Figmaでデザイン作成
+  - **First Contributions JA**
+    - ヒーローエリア実装
 - **English**
-  - **TOEIC TEST1**
+  - **TOEIC TEST1** (0.5h + 1.25h)
     - Answer and write down scripts for Part3
     - 復習できてなさすぎるので比重大きくして取り組む
-  - 金のセンテンス
+  - 金のセンテンス&ターゲット1900 (1h)
 - **Memo**
   - TOEICまで1ヶ月きったので、英語メインで。復習が追いついていない。
+  - Laravel with React Challeng これはしばしお休み。
 
 ## 2024/05/26
 - **Study Time**
