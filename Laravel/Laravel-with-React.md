@@ -232,7 +232,7 @@ welcome.blade.php
       }
     ```
 
-## Reactと接続のためにAPIを流くる必要があった
+## Reactと接続のためにAPIを作る必要があった
 
 - APIルートの設定
   - routes/api.php
