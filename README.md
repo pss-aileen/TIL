@@ -11,6 +11,10 @@ This image was made with [My Octocat](https://myoctocat.com/)
 ---
 
 ```javascript
+const studyStartDay = "2023/11/18";
+```
+
+```javascript
 const ProgrammingStudyTime = [
   {
     period: "2023/11/18~2023/12/31",
@@ -45,29 +49,13 @@ const ProgrammingStudyTime = [
 ];
 ```
 
+```javascript
+const EnglishStudyTime = [
+  {
+    period: "2024/05/01~2024/05/31",
+    hoursPerMonth: "??",
+    // hoursTotal: "??",
+  },
+];
+```
 
-## Study Time
-### Programming
-- 2023/11/18〜12/31 => 116.75h / 116.75h
-- January => 93.75h / 210.50h
-- February => 95.25h / 306.25h
-- March => 90.50h / 396.75h
-- April => 21.25h / 418.0h
-- May => 
-- June => 
-- July => 
-- August => 
-- September => 
-- October => 
-- November => 
-- December => 
-
-### English
-- May => 
-- June => 
-- July => 
-- August => 
-- September => 
-- October => 
-- November => 
-- December => 
