@@ -268,15 +268,30 @@ break.
 
 ## 2024/05/26
 - **Study Time**
-  - Programming: h / h
-  - English: h / h
-  - Total: 
+  - Programming: 4.75h / 451.50h
+  - English: 3.5h / 19.25h
+  - Total: 8.25h
 - **Programming**
   - **First Contributions JA** (0.5h)
     - ヒーローエリア実装の修正
+  - **my-portfolio** (4.25h)
+    - とりあえずさっくりデザイン完了、あとはFigmaのコンポーネント集を参考に軽く作成
+    - 環境構築: done
+    - 管理画面作成: in progress
+    - FigmaでTailwindCSSのデザインをどうやったらできるのか色々調べた
+    - https://tailwindcss.com/resources
+      - [Heroicons](https://heroicons.com/)
+        - 今回のプロジェクトで使ってみることにする、かっこいいので
+      - [Hero Patterns | Free repeatable SVG background patterns for your web projects](https://heropatterns.com/)
+      - [Headless UI - Unstyled, fully accessible UI components](https://headlessui.com/)
+        - ReactとかVueで使えるコンポーネント
+        - とりあえず参考にする
 - **English**
-  - **金のセンテンス** (h)
+  - **金のセンテンス** (0.75h)
     - 単語ひたすら覚える
+  - **TOEIC TEST1** (2h + 0.75)
+    - Part3 ディクテーション、答え合わせ、シャドーイング等: done
+    - Part4 ディクテーション、答え合わせ、シャドーイング等: Q71-79 done
 
 ## 2024/05/27
 - **Study Time**
@@ -284,7 +299,15 @@ break.
   - English: h / h
   - Total: 
 - **Programming**
+  - **First Contributions JA** (0.5h)
+    - プルリクの確認
 - **English**
+  - **金のセンテンス**
+    - 単語ひたすら覚える 朝30分、夜30分はする
+  - **TOEIC TEST1**
+    - Part4 ディクテーション、答え合わせ、シャドーイング等: Q80-
+- **Memo**
+  - 1つのセクションのディクテーションから答え合わせ、シャドーイングまで20分程度
 
 ## 2024/05/28
 - **Study Time**
@@ -292,6 +315,8 @@ break.
   - English: h / h
   - Total: 
 - **Programming**
+  - **First Contributions JA**
+    - 絵文字の不具合について色々確認
 - **English**
 
 ## 2024/05/29
