@@ -272,7 +272,11 @@ break.
   - English: h / h
   - Total: 
 - **Programming**
+  - **First Contributions JA** (0.5h)
+    - ヒーローエリア実装の修正
 - **English**
+  - **金のセンテンス** (h)
+    - 単語ひたすら覚える
 
 ## 2024/05/27
 - **Study Time**
