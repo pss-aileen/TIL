@@ -2,13 +2,19 @@
 
 <img width="160" src="assets/octcat.png" alt="TIL" />
 
-# TIL 
-Today I Learn and Study Log.
-
 This image was made with [My Octocat](https://myoctocat.com/)
 </div>
 
 ---
+
+```javascript
+/*-------------------------------------
+ | TIL
+ | Today I Learn and Study Log.
+ *------------------------------------*/
+
+// If you want to check the monthly reports, go to the annual folders.
+```
 
 ```javascript
 const studyStartDay = "2023/11/18";
