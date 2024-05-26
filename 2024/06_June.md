@@ -1,11 +1,14 @@
 ## Todo
 - **Programming**
   - [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
-  - [【Laravel実践】WEBアプリを作りながらLravelを学ぶ【＃1環境構築編】 - YouTube](https://www.youtube.com/watch?v=6R-HokpNex8)
-    - 30 Days が終わった後にこちらで知識固める
+  - my-portfolio
+    - 5月からはじめたポートフォリオサイトを引き続き作り続ける
 - **English**
   - TOEICに向けて追い込み
-  - TOEIC受ける
+  - 公式と金のセンテンス、文法をひたすらめくって、言って覚える
+  - TOEIC公式練習問題2を本番2週間前ぐらいにする
+  - 毎日3時間ぐらいできれば理想だけど、忙しくなるのでできるかな...
+  - 6月末初TOEIC受験
 
 ---
 
