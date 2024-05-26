@@ -21,46 +21,50 @@ const studyStartDay = "2023/11/18";
 ```
 
 ```javascript
-const ProgrammingStudyTime = [
+const programmingStudyTime2023 = [
   {
-    period: "2023/11/18~2023/12/31",
-    hoursPerMonth: 116.75,
-    // hoursTotal: 116.75,
-  },
+    period: "2023",
+    hoursTotal: 116.75,
+  }
+];
+```
+
+```javascript
+const programmingStudyTime2024 = [
   {
-    period: "2024/01/01~2024/01/31",
+    period: "January 2024",
     hoursPerMonth: 93.75,
     // hoursTotal: 210.50,
   },
   {
-    period: "2024/02/01~2024/02/29",
+    period: "February 2024",
     hoursPerMonth: 95.25,
     // hoursTotal: 306.25,
   },
   {
-    period: "2024/03/01~2024/03/31",
+    period: "March 2024",
     hoursPerMonth: 90.50,
     // hoursTotal: 396.75,
   },
   {
-    period: "2024/04/01~2024/04/31",
+    period: "April 2024",
     hoursPerMonth: 21.25,
     // hoursTotal: 418.00,
   },
   {
-    period: "2024/05/01~2024/05/31",
-    hoursPerMonth: "??",
-    // hoursTotal: "??",
+    period: "May 2024",
+    hoursPerMonth: null,
+    // hoursTotal: null,
   },
 ];
 ```
 
 ```javascript
-const EnglishStudyTime = [
+const englishStudyTime2024 = [
   {
-    period: "2024/05/01~2024/05/31",
-    hoursPerMonth: "??",
-    // hoursTotal: "??",
+    period: "May 2024",
+    hoursPerMonth: null,
+    // hoursTotal: null,
   },
 ];
 ```
