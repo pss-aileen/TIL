@@ -10,6 +10,23 @@ This image was made with [My Octocat](https://myoctocat.com/)
 
 ---
 
+```javascript
+
+const ProgrammingStudyTimeIn2024 = {
+  {
+    period: "2023/11/18〜12/31",
+    hoursPerMonth: 116.75,
+    hoursTotal: 116.75,
+  },
+  {
+    period: "January",
+    hoursPerMonth: 93.75,
+    hoursTotal: 
+  },
+};
+
+```
+
 ## Study Time
 ### Programming
 - 2023/11/18〜12/31 => 116.75h / 116.75h
