@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="320" src="assets/octcat.png" alt="TIL" />
+<img width="160" src="assets/octcat.png" alt="TIL" />
 
 # TIL 
 Today I Learn and Study Log.
