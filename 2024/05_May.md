@@ -4,16 +4,19 @@
   - [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
 
 ## English
-- ~~Take a practice TOEIC test (only part 1) using 公式TOEIC Listening & Reading 問題集 10.~~
-- Review a practice TOEIC test.
-- Watch "Twilight" with English Subtitles: (Because I love it!)
-  - Look up all words that I do not know.
-  - Take notes on expression that I do not understand.
-- Watch "The Social Network" on Netflix
-  - ChatGPT told me that this movie teaches me words used in the IT area....
-- Practice a conversation through SpeakBuddy.
-- TARGET 1900
-  - Check the pronunciations of all words in the wordbook.
+- [x] Take a practice TOEIC test (only part 1) using 公式TOEIC Listening & Reading 問題集 10.
+- [ ] Review a practice TOEIC test.
+- [ ] ~~Watch "Twilight" with English Subtitles: (Because I love it!)~~
+  - ~~Look up all words that I do not know.~~
+  - ~~Take notes on expression that I do not understand.~~
+  - 映画見てるどころじゃなかったので延期
+- [ ] ~~Watch "The Social Network" on Netflix~~
+  - ~~ChatGPT told me that this movie teaches me words used in the IT area....~~
+  - こちらも同じく見てる暇なかった
+- [x] Practice a conversation through SpeakBuddy.
+- [ ] ~~TARGET 1900~~
+  - ~~Check the pronunciations of all words in the wordbook.~~
+  - 金のセンテンスを優先することになったので延期、というか同時進行
 
 ## I am planning to...
 - After learning Laravel, I want to develop my own wordbook.
