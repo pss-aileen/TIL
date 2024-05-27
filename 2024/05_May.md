@@ -1,26 +1,25 @@
-# What I will do in this month.
-## Programming
-- Learn Laravel
-  - [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
-
-## English
-- [x] Take a practice TOEIC test (only part 1) using 公式TOEIC Listening & Reading 問題集 10.
-- [ ] Review a practice TOEIC test.
-- [ ] ~~Watch "Twilight" with English Subtitles: (Because I love it!)~~
-  - ~~Look up all words that I do not know.~~
-  - ~~Take notes on expression that I do not understand.~~
-  - 映画見てるどころじゃなかったので延期
-- [ ] ~~Watch "The Social Network" on Netflix~~
-  - ~~ChatGPT told me that this movie teaches me words used in the IT area....~~
-  - こちらも同じく見てる暇なかった
-- [x] Practice a conversation through SpeakBuddy.
-- [ ] ~~TARGET 1900~~
-  - ~~Check the pronunciations of all words in the wordbook.~~
-  - 金のセンテンスを優先することになったので延期、というか同時進行
-
-## I am planning to...
-- After learning Laravel, I want to develop my own wordbook.
-  - It is okay to take much time to develop.
+## TODO
+- **Programming**
+  - [ ] Learn Laravel
+    - [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
+  - [x] First Contributions JA
+    - 再度参加、頑張る
+  - [ ] my-portfolio
+    - 地道に実装していく
+- **English**
+  - [x] Take a practice TOEIC test (only part 1) using 公式TOEIC Listening & Reading 問題集 10.
+  - [x] Practice a conversation through SpeakBuddy.
+  - [ ] Review a practice TOEIC test.
+  - [ ] ~~Watch "Twilight" with English Subtitles: (Because I love it!)~~
+    - ~~Look up all words that I do not know.~~
+    - ~~Take notes on expression that I do not understand.~~
+    - 映画見てるどころじゃなかったので延期
+  - [ ] ~~Watch "The Social Network" on Netflix~~
+    - ~~ChatGPT told me that this movie teaches me words used in the IT area....~~
+    - こちらも同じく見てる暇なかった
+  - [ ] ~~TARGET 1900~~
+    - ~~Check the pronunciations of all words in the wordbook.~~
+    - 金のセンテンスを優先することになったので延期、というか同時進行
 
 ---
 
@@ -340,7 +339,10 @@ break.
     - 前日の残りの実装
     - パーツをコンポーネントに分ける
 - **English**
-  - 
+  - **金の文法**
+  - **金のセンテンス**
+  - **TOEIC TEST1**
+    - Part4 ディクテーション、答え合わせ、シャドーイング等: Q89-
   - **SpeakBuddy**
 
 ## 2024/05/29
