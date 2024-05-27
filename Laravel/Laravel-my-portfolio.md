@@ -41,4 +41,7 @@
 - 要するに、おそらくblade-iconsをインストールして、アイコンのパッケージをインストールして、それの設定をしないと表示されないのだろうと思った
 - `php artisan vendor:publish --tag=blade-heroicons-config`
   - これで設定ファイルが作られる
+
+# 画像
+- とりあえず public/images/img~ で
 - 
