@@ -1,23 +1,25 @@
-# What I will do in this month.
-## Programming
-- Learn Laravel
-  - [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
-
-## English
-- ~~Take a practice TOEIC test (only part 1) using 公式TOEIC Listening & Reading 問題集 10.~~
-- Review a practice TOEIC test.
-- Watch "Twilight" with English Subtitles: (Because I love it!)
-  - Look up all words that I do not know.
-  - Take notes on expression that I do not understand.
-- Watch "The Social Network" on Netflix
-  - ChatGPT told me that this movie teaches me words used in the IT area....
-- Practice a conversation through SpeakBuddy.
-- TARGET 1900
-  - Check the pronunciations of all words in the wordbook.
-
-## I am planning to...
-- After learning Laravel, I want to develop my own wordbook.
-  - It is okay to take much time to develop.
+## TODO
+- **Programming**
+  - [ ] Learn Laravel
+    - [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
+  - [x] First Contributions JA
+    - 再度参加、頑張る
+  - [ ] my-portfolio
+    - 地道に実装していく
+- **English**
+  - [x] Take a practice TOEIC test (only part 1) using 公式TOEIC Listening & Reading 問題集 10.
+  - [x] Practice a conversation through SpeakBuddy.
+  - [ ] Review a practice TOEIC test.
+  - [ ] ~~Watch "Twilight" with English Subtitles: (Because I love it!)~~
+    - ~~Look up all words that I do not know.~~
+    - ~~Take notes on expression that I do not understand.~~
+    - 映画見てるどころじゃなかったので延期
+  - [ ] ~~Watch "The Social Network" on Netflix~~
+    - ~~ChatGPT told me that this movie teaches me words used in the IT area....~~
+    - こちらも同じく見てる暇なかった
+  - [ ] ~~TARGET 1900~~
+    - ~~Check the pronunciations of all words in the wordbook.~~
+    - 金のセンテンスを優先することになったので延期、というか同時進行
 
 ---
 
@@ -325,20 +327,20 @@ break.
 
 ## 2024/05/28
 - **Study Time**
-  - Programming: h / h
-  - English: h / h
-  - Total: 
+  - Programming: 1.75h / 455.00h
+  - English: 2.50h / 25.50h
+  - Total: 4.25h
 - **Programming**
-  - **First Contributions JA**
-    - 作業時間1時間目処
-    - セクションの内容を記載する、吹き出しカードコンポーネントの実装開始（遅くとも今週中に完成させたい）
-  - **my-portfolio**
-    - 作業時間1時間目処
-    - 前日の残りの実装
-    - パーツをコンポーネントに分ける
+  - **my-portfolio** (1.75h)
+    - 前日の残りの実装: done
+    - SidebarとTopbarをコンポーネントに分けた
+    - コンテンツの作成した
+    - layout.blade.php を使いまわせるように？拡張できるようにした
 - **English**
-  - 
-  - **SpeakBuddy**
+  - **金のセンテンス** (0.5h + 1h = 1.5h)
+    - Book: ~066
+  - **TOEIC TEST1** (1h)
+    - Part4 ディクテーション、答え合わせ、シャドーイング等: Q89-94
 
 ## 2024/05/29
 - **Study Time**
@@ -346,7 +348,20 @@ break.
   - English: h / h
   - Total: 
 - **Programming**
+  - **First Contributions JA**
+    - プルリク「ボタンをコンポーネント化し、URLリンクを追加」確認する
+    - セクションの内容を記載する、吹き出しカードコンポーネントの実装開始（遅くとも今週中に完成させたい）
+  - **my-portfolio**
+    - 続き、コントロールして、max1時間程度でおさめよう...コンポーネント化して、あとでわからなくならないように努める
 - **English**
+  - **金の文法**
+    - Book: p.47~
+  - **金のセンテンス**
+    - Book: 067 ~ ??
+  - **TOEIC TEST1** (1h)
+    - Part4 ディクテーション、答え合わせ、シャドーイング等: Q95
+  - **SpeakBuddy**
+    - 1レッスンする、めげるな...！
 
 ## 2024/05/30
 - **Study Time**
@@ -354,9 +369,6 @@ break.
   - English: h / h
   - Total: 
 - **Programming**
-  - **my-portfolio**
-    - レイアウト.blade.php 的なものを作成
-    - ページを増やす
 - **English**
 
 ## 2024/05/31

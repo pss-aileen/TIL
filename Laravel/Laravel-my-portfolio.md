@@ -44,4 +44,7 @@
 
 # 画像
 - とりあえず public/images/img~ で
-- 
+
+# レイアウトの拡張
+- [Blade テンプレート - Laravel 11.x - Web 職人のための PHP フレームワーク](https://laravel.com/docs/11.x/blade#extending-a-layout)
+- layout.blade.phpからページを作る方法
