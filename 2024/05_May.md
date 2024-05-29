@@ -344,16 +344,33 @@ break.
 
 ## 2024/05/29
 - **Study Time**
+  - Programming: 4.50h / 459.50h
+  - English: 0h / 25.50h
+  - Total: 4.50h
+- **Programming**
+  - **First Contributions JA** (3.75h)
+    - プルリク「ボタンをコンポーネント化し、URLリンクを追加」確認する: done
+    - セクションの内容を記載する、吹き出しカードコンポーネントの実装開始（遅くとも今週中に完成させたい）: 70%ぐらい
+      - 結局やりはじめたら止まらなくなって結構やってしまった。制御力...！
+  - **my-portfolio** (0.75h)
+    - サイドバーナビコンポーネント化: 80%
+- **English**
+  - nothing
+
+## 2024/05/30
+- **Study Time**
   - Programming: h / h
   - English: h / h
   - Total: 
 - **Programming**
   - **First Contributions JA**
-    - プルリク「ボタンをコンポーネント化し、URLリンクを追加」確認する
-    - セクションの内容を記載する、吹き出しカードコンポーネントの実装開始（遅くとも今週中に完成させたい）
+    - 1時間以内にとどめたい...！
+    - Image の エラー問題を解決する
+    - 変数名をもっとリファクタリングできないかロジックを考え直す
   - **my-portfolio**
-    - 続き、コントロールして、max1時間程度でおさめよう...コンポーネント化して、あとでわからなくならないように努める
+    - navコンポーネントの内容整理
 - **English**
+  - 英語をする...！
   - **金の文法**
     - Book: p.47~
   - **金のセンテンス**
@@ -362,14 +379,6 @@ break.
     - Part4 ディクテーション、答え合わせ、シャドーイング等: Q95
   - **SpeakBuddy**
     - 1レッスンする、めげるな...！
-
-## 2024/05/30
-- **Study Time**
-  - Programming: h / h
-  - English: h / h
-  - Total: 
-- **Programming**
-- **English**
 
 ## 2024/05/31
 - **Study Time**

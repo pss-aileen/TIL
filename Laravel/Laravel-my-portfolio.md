@@ -48,3 +48,49 @@
 # レイアウトの拡張
 - [Blade テンプレート - Laravel 11.x - Web 職人のための PHP フレームワーク](https://laravel.com/docs/11.x/blade#extending-a-layout)
 - layout.blade.phpからページを作る方法
+
+# サイドバーのリンクをコンポーネント化してみた
+- リンクのアイコンをURLによって切り替えたいが、切り替える方法がわからなかった
+- とりあえずGPTにきいてみた結果
+
+> `sidebar.blade.php` ファイルのコードをもっとすっきりさせるためには、いくつかのリファクタリングを行うことが効果的です。ここでは、重複するコードを減らし、可読性を向上させる方法を提案します。
+> 
+> ### 1. リンク定義の共通化
+> `x-sidebar-nav-link` コンポーネントに対する各リンクの設定が似ているため、この部分を共通化することでコードの重複を減らすことができます。たとえば、各リンクのアイコンやラベルをデータ駆動で生成するように変更します。
+> 
+> ### 2. データ駆動のアプローチ
+> リンクの情報（href、アクティブの条件、アイコン、テキスト）を配列またはオブジェクトとして定義し、ループを使用して各リンクを生成します。これにより、新しいリンクを追加する際にはデータの追加のみで済み、マークアップは変更不要になります。
+> 
+> ### リファクタリング後の `sidebar.blade.php`:
+> 
+> ```blade.php
+> @php
+> $links = [
+>     [
+>         'href' => './dashboard',
+>         'active' => "request()->is('admin/dashboard')",
+>         'icon' => 'heroicon-o-home',
+>         'text' => 'Dashboard',
+>     ],
+>     [
+>         'href' => './contact',
+>         'active' => "request()->is('admin/contact')",
+>         'icon' => 'heroicon-o-envelope',
+>         'text' => 'Contact',
+>     ],
+> ];
+> @endphp
+> 
+> <ul class="mt-8 flex flex-col gap-2">
+>     @foreach ($links as $link)
+>         <li>
+>             <x-sidebar-nav-link :href="$link['href']" :active="$link['active']">
+>                 <x-dynamic-component :component="$link['icon']" class="w-6 group-hover:text-indigo-600 {{ $link['active'] ? '' : 'text-zinc-400' }}"/>
+>                 <span>{{ $link['text'] }}</span>
+>             </x-sidebar-nav-link>
+>         </li>
+>     @endforeach
+> </ul>
+> ```
+> 
+> このコードでは、新しいリンクを追加する際に `$links` 配列に新たなエントリを追加するだけで対応できます。また、`x-dynamic-component` を使用して動的にアイコンを表示していますが、こちらは必要に応じてカスタマイズしてください。この方法でコードの冗長性が減り、将来的なメンテナンスも容易になります。
