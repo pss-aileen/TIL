@@ -369,6 +369,8 @@ break.
     - 変数名をもっとリファクタリングできないかロジックを考え直す
   - **my-portfolio**
     - navコンポーネントの内容整理
+  - **Vue 公式サイト Tutorial** (0.5h)
+    - 概要を知りたくて
 - **English**
   - 英語をする...！
   - **金の文法**
@@ -379,6 +381,13 @@ break.
     - Part4 ディクテーション、答え合わせ、シャドーイング等: Q95~97
   - **SpeakBuddy**
     - 1レッスンする、めげるな...！
+- **Memo**
+  - [Laravel 11 : Install and use vuejs and vue router in laravel - YouTube](https://www.youtube.com/watch?v=-bJL00w5Mig)
+    - Laravel11とVueをうまいこと使ってなんかできそうなの発見
+  - https://daisyui.com/
+    - かわいいから使いたい
+  - https://headlessui.com/v1
+    - より、スマートな感じ
 
 ## 2024/05/31
 - **Study Time**
