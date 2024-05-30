@@ -359,28 +359,29 @@ break.
 
 ## 2024/05/30
 - **Study Time**
-  - Programming: h / h
-  - English: h / h
+  - Programming: 0.75h / 460.25h
+  - English: 0.5h / 25.50h
   - Total: 
 - **Programming**
-  - **First Contributions JA**
-    - 1時間以内にとどめたい...！
-    - Image の エラー問題を解決する
-    - 変数名をもっとリファクタリングできないかロジックを考え直す
-  - **my-portfolio**
-    - navコンポーネントの内容整理
+  - **別PCにいろいろインストール** (0.75h)
+- **English**
+  - **TOEIC TEST1** (0.5)
+    - Part4 ディクテーション、答え合わせ、シャドーイング等: Q95-97
+  - **金のセンテンス** (0.25)
+
+## 2024/05/31
+- **Study Time**
+  - Programming: 1.25h / h
+  - English: h / h
+  - Total
+- **Programming**
   - **Vue 公式サイト Tutorial** (0.5h)
     - 概要を知りたくて
+  - **Node.js、パッケージマネージャーのインストール** (0.75h)
 - **English**
-  - 英語をする...！
-  - **金の文法**
-    - Book: p.47~
-  - **金のセンテンス**
-    - Book: 067 ~ ??
+  - **金のセンテンス** (0.25 +)
   - **TOEIC TEST1** (0.25 + )
     - Part4 ディクテーション、答え合わせ、シャドーイング等: Q95~97
-  - **SpeakBuddy**
-    - 1レッスンする、めげるな...！
 - **Memo**
   - [Laravel 11 : Install and use vuejs and vue router in laravel - YouTube](https://www.youtube.com/watch?v=-bJL00w5Mig)
     - Laravel11とVueをうまいこと使ってなんかできそうなの発見
@@ -394,9 +395,20 @@ break.
   - Programming: h / h
   - English: h / h
 - **Programming**
+  - **First Contributions JA**
+    - 1時間以内にとどめたい...！
+    - Image の エラー問題を解決する
+    - 変数名をもっとリファクタリングできないかロジックを考え直す
   - **my-portfolio**
+    - navコンポーネントの内容整理
     - コンテンツの作成
       - dashboardはほぼ作り込まなくて良い...一旦
       - contactの表示はきちんと作る（一覧と個別ページ）
 - **English**
-  - Total: 
+  - **金の文法**
+    - Book: p.47~
+  - **金のセンテンス**
+    - Book: 067 ~ ??
+  - **TOEIC TEST1**
+    - Part4 ディクテーション、答え合わせ、シャドーイング等: Q98-
+  - **SpeakBuddy**
