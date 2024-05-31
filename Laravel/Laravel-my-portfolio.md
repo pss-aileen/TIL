@@ -94,3 +94,69 @@
 > ```
 > 
 > このコードでは、新しいリンクを追加する際に `$links` 配列に新たなエントリを追加するだけで対応できます。また、`x-dynamic-component` を使用して動的にアイコンを表示していますが、こちらは必要に応じてカスタマイズしてください。この方法でコードの冗長性が減り、将来的なメンテナンスも容易になります。
+
+# 他のPCでクローン、環境設定
+
+```sh
+npm install
+composer install
+```
+
+これで
+
+```sh
+php artisan serve
+```
+
+とするが、画面が500
+
+解決策を探したい
+
+## 解決へのステップ
+- [php - Setup Laravel project after cloning - Stack Overflow](https://stackoverflow.com/questions/38437072/setup-laravel-project-after-cloning)
+- .env.exampleというものを.envに変更
+- php artisan key:generate
+- php artisan serve
+- これで一通りサーバーはOK
+- 次はデーターベースがないと言われた
+
+> Database file at path [/Users/USERNAME/Herd/my-portfolio/database/database.sqlite] does not exist. Ensure this is an absolute path to the database.
+
+前のPCから、SQLのファイルを移動させた
+
+> SQLSTATE[HY000]: General error: 1 no such table: sessions
+
+テーブルが存在しないとかで、以下を実行した
+
+```sh
+php artisan make:migration create_sessions_table --create=sessions
+```
+
+```sh
+php artisan migrate
+```
+
+これをしたら無事にページは表示された
+
+...と思ったら、そもそもブランチが違っていて、見たいデータがみれていなかった....
+
+## ブランチを切り替えて確認
+
+```sh
+npm install
+composer install
+```
+
+これをして、
+
+```sh
+php artisan serve
+npm run dev
+```
+
+としたら、無事にページが表示された。
+
+## 要するに...？
+- `.env` の設定をせよ
+- データベースの設定をせよ
+- npm, composer install をせよ
