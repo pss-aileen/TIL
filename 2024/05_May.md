@@ -404,23 +404,11 @@ break.
 
 ## 2024/05/31
 - **Study Time**
-  - Programming: h / h
-  - English: h / h
+  - Programming: 1h / 462.50h
+  - English: 0.25h / 26.25h
 - **Programming**
-  - **First Contributions JA**
-    - 1時間以内にとどめたい...！
-    - Image の エラー問題を解決する
-    - 変数名をもっとリファクタリングできないかロジックを考え直す
-  - **my-portfolio**
-    - navコンポーネントの内容整理
-    - コンテンツの作成
-      - dashboardはほぼ作り込まなくて良い...一旦
-      - contactの表示はきちんと作る（一覧と個別ページ）
+  - **my-portfolio** (1h)
+    - 別PCでのクローン、設定等: done
 - **English**
-  - **金の文法**
-    - Book: p.47~
-  - **金のセンテンス**
-    - Book: 067 ~ ??
-  - **TOEIC TEST1**
-    - Part4 ディクテーション、答え合わせ、シャドーイング等: Q98-
-  - **SpeakBuddy**
+  - **金のセンテンス** (0.25)
+    - App

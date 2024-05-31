@@ -49,10 +49,15 @@ const programmingStudyTime2024 = [
   {
     period: "April 2024",
     hoursPerMonth: 21.25,
-    // hoursTotal: 418.00,
+    // hoursTotal: 417.50,
   },
   {
     period: "May 2024",
+    hoursPerMonth: 45,
+    // hoursTotal: 462.5,
+  },
+    {
+    period: "June 2024",
     hoursPerMonth: null,
     // hoursTotal: null,
   },
@@ -63,6 +68,11 @@ const programmingStudyTime2024 = [
 const englishStudyTime2024 = [
   {
     period: "May 2024",
+    hoursPerMonth: 26.25,
+    // hoursTotal: 26.25,
+  },
+  {
+    period: "June 2024",
     hoursPerMonth: null,
     // hoursTotal: null,
   },

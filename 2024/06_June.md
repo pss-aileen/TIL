@@ -4,6 +4,7 @@
     - こちら優先で作業すすめる
   - my-portfolio
     - 5月からはじめたポートフォリオサイトを引き続き作り続ける
+    - の、予定だが、やっぱり難しそうなので、firstのあとにやってく同時進行はしない
   - [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
 - **English**
   - TOEICに向けて追い込み
@@ -20,15 +21,26 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
+  - **First Contributions JA**
+    - プルリスト確認、コメント
+    - 変数名、CSSのリファクタリング
 - **English**
+  - **金の文法**
+    - Book: p.47~
+  - **金のセンテンス**
+    - Book: 067 ~ ??
+    - App
+  - **TOEIC TEST1**
+    - Part4 ディクテーション、答え合わせ、シャドーイング等: Q98-
+  - **SpeakBuddy**
 
 ## 2024/06/02
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -36,7 +48,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -44,7 +56,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -52,7 +64,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -60,7 +72,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -68,7 +80,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -76,7 +88,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -84,7 +96,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -92,7 +104,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -100,7 +112,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -108,7 +120,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -116,7 +128,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -124,7 +136,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -132,7 +144,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -140,7 +152,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -148,7 +160,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -156,7 +168,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -164,7 +176,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -172,7 +184,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -180,7 +192,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -188,7 +200,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -196,7 +208,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -204,7 +216,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -212,7 +224,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -220,7 +232,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -228,7 +240,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -236,7 +248,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -244,7 +256,7 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
 
@@ -252,6 +264,6 @@
 - **Study Time**
   - Programming:  / 
   - English:  / 
-  - Total: 
+  - Total:  / 
 - **Programming**
 - **English**
