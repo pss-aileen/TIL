@@ -1,15 +1,15 @@
 ## TODO
 - **Programming**
-  - [ ] Learn Laravel
+  - [x] Learn Laravel
     - [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
   - [x] First Contributions JA
     - 再度参加、頑張る
-  - [ ] my-portfolio
-    - 地道に実装していく
+  - [x] my-portfolio
+    - 地道に実装している
 - **English**
   - [x] Take a practice TOEIC test (only part 1) using 公式TOEIC Listening & Reading 問題集 10.
   - [x] Practice a conversation through SpeakBuddy.
-  - [ ] Review a practice TOEIC test.
+  - [x] Review a practice TOEIC test. -> やれる範囲でがんばった
   - [ ] ~~Watch "Twilight" with English Subtitles: (Because I love it!)~~
     - ~~Look up all words that I do not know.~~
     - ~~Take notes on expression that I do not understand.~~
@@ -20,6 +20,18 @@
   - [ ] ~~TARGET 1900~~
     - ~~Check the pronunciations of all words in the wordbook.~~
     - 金のセンテンスを優先することになったので延期、というか同時進行
+
+## Done
+- **Programming**
+  - 30 Days to Learn Laravel: 01~08
+  - Tried to create a project with Laravel and React
+  - Tried to create my portfolio with Laravel
+  - Restarted First Contributions JA (collaborative project)
+- **English**
+  - Took a practice TOEIC TEST 1
+  - Reviewed a practice test (Q01~Q98?)
+  - Bought and Tried to remember 金のフレーズ, to solve 金の文法 problems
+  - Watched Twilight Movie with English Subtitle
 
 ---
 
@@ -371,16 +383,16 @@ break.
 
 ## 2024/05/31
 - **Study Time**
-  - Programming: 1.25h / h
-  - English: h / h
-  - Total
+  - Programming: 1.25h / 461.50h
+  - English: 0.50h / 26.00h
+  - Total: 
 - **Programming**
   - **Vue 公式サイト Tutorial** (0.5h)
     - 概要を知りたくて
   - **Node.js、パッケージマネージャーのインストール** (0.75h)
 - **English**
-  - **金のセンテンス** (0.25 +)
-  - **TOEIC TEST1** (0.25 + )
+  - **金のセンテンス** (0.25)
+  - **TOEIC TEST1** (0.25)
     - Part4 ディクテーション、答え合わせ、シャドーイング等: Q95~97
 - **Memo**
   - [Laravel 11 : Install and use vuejs and vue router in laravel - YouTube](https://www.youtube.com/watch?v=-bJL00w5Mig)
