@@ -29,6 +29,9 @@
   - **my-portfolio** (1)
     - 管理画面の実装: done
     - Prettierの導入: done
+  - **ドットインストール** (0.75h)
+    - PHP入門 基礎文法編 07~14/14 done
+    - PHP入門 制御構造編 15/15 done
 - **English**
   - **金の文法**
     - Book: p.47~
