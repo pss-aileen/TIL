@@ -160,3 +160,12 @@ npm run dev
 - `.env` の設定をせよ
 - データベースの設定をせよ
 - npm, composer install をせよ
+
+
+# Prettier の導入
+
+[How to set up Prettier On a Laravel App, Linting Tailwind Class Order and More | MattStauffer.com](https://mattstauffer.com/blog/how-to-set-up-prettier-on-a-laravel-app-to-lint-tailwind-class-order-and-more/)
+
+- ただのprettierだけでなく、bladeとか、phpのプラグインもいれる必要がある。tailwind以外にも
+
+- php での prettier: [PHPでもコード整形ツール「Prettier」を使いたい時 #PHP - Qiita](https://qiita.com/AkiraTameto/items/4cefe2608b03f396c7cd)

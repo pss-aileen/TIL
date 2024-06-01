@@ -14,27 +14,46 @@
   - 6月末初TOEIC受験
 
 ## Done
-- 
+- **Programmin**
+  - **ドットインストール**
+    - PHPの基礎を復習
+    - PHP入門 基礎文法編 done
+    - PHP入門 制御構造編 done
+- **English**
+  - **TOEIC**
+    - 
+  - **Phonics**
 ---
 
 ## 2024/06/01
 - **Study Time**
-  - Programming:  / 
-  - English:  / 
-  - Total:  / 
+  - Programming: 5.00h / 5.00h
+  - English: 3.00h / 3.00h
+  - Total: 8.00h / 8.00h 
 - **Programming**
-  - **First Contributions JA**
-    - プルリスト確認、コメント
-    - 変数名、CSSのリファクタリング
+  - **First Contributions JA** (1.25)
+    - プルリスト確認、コメント: done
+    - 変数名、CSSのリファクタリングなど: done
+  - **my-portfolio** (1h)
+    - 管理画面の実装: done
+    - Prettierの導入: done
+  - **ドットインストール** (0.75h)
+    - PHP入門 基礎文法編 07~14/14 done
+    - PHP入門 制御構造編 15/15 done
+  - いろいろ作業 (2h)
+    - TypeScript使って遊べる環境開発した
+    - 設定を触っていたらやっぱりReactかVue入れた方がいいなと感じたので、どこかで
 - **English**
-  - **金の文法**
-    - Book: p.47~
-  - **金のセンテンス**
-    - Book: 067 ~ ??
-    - App
-  - **TOEIC TEST1**
-    - Part4 ディクテーション、答え合わせ、シャドーイング等: Q98-
-  - **SpeakBuddy**
+  - **金のセンテンス** (0.5)
+    - Book: 067 ~ 094
+  - **TOEIC TEST1** (2h)
+    - Part4: ディクテーション、答え合わせ、シャドーイング等 Q98-Q100
+    - Part5: ディクテーション、答え合わせ、シャドーイング等 Q101-120
+  - **フォニックス・発音系** (0.5)
+    - 歌で練習
+    - ショートストーリーの音読
+- **Memo**
+  - ポモドーロタイマー最強だったので、英語はそれで
 
 ## 2024/06/02
 - **Study Time**
@@ -43,6 +62,9 @@
   - Total:  / 
 - **Programming**
 - **English**
+  - **金のセンテンス**
+  - **TOEIC TEST1**
+  - **SpeakBuddy**
 
 ## 2024/06/03
 - **Study Time**

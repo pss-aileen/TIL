@@ -97,6 +97,24 @@
           "tags": ["ドットインストール", "JavaScript", "React"]
         }
       ]
+    },
+    {
+      "date": "2024-06",
+      "studyTime": {
+        "programming": null,
+        "english": null
+      },
+      "doneList": {
+        "programming": [
+          {
+            "content": "",
+            "tags": [""]
+          }
+        ],
+        "english": [
+
+        ]
+      }
     }
   ]
 }
