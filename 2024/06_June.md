@@ -23,9 +23,12 @@
   - English:  / 
   - Total:  / 
 - **Programming**
-  - **First Contributions JA**
-    - プルリスト確認、コメント
-    - 変数名、CSSのリファクタリング
+  - **First Contributions JA** (1.25)
+    - プルリスト確認、コメント: done
+    - 変数名、CSSのリファクタリングなど: done
+  - **my-portfolio** (1)
+    - 管理画面の実装: done
+    - Prettierの導入: done
 - **English**
   - **金の文法**
     - Book: p.47~
