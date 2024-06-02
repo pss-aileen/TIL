@@ -48,7 +48,7 @@
     - Book: 067 ~ 094
   - **TOEIC TEST1** (2h)
     - Part4: ディクテーション、答え合わせ、シャドーイング等 Q98-Q100
-    - Part5: ディクテーション、答え合わせ、シャドーイング等 Q101-120
+    - Part5: ディクテーション、答え合わせ、シャドーイング等 Q101-121
   - **フォニックス・発音系** (0.5)
     - 歌で練習
     - ショートストーリーの音読
@@ -57,14 +57,24 @@
 
 ## 2024/06/02
 - **Study Time**
-  - Programming:  / 
-  - English:  / 
-  - Total:  / 
+  - Programming: 2.00h / 7.00h
+  - English:  1.50h / 4.50h
+  - Total: 3.50h / 11.50h 
 - **Programming**
+  - **First Contributions JA** (0.5)
+    - レビューの修正: done
+  - **practice-typescript-apps** (1.5h)
+    - simple-modal
 - **English**
-  - **金のセンテンス**
-  - **TOEIC TEST1**
-  - **SpeakBuddy**
+  - **TOEIC TEST1** (1.0)
+    - Part5: ディクテーション、答え合わせ、シャドーイング等 Q101-130
+    - シャドーイング強化
+  - **フォニックス・発音** (0.5)
+    - 歌練習
+    - その他ストーリーシャドーイング
+- **Memo**
+  - For such a small company, their market influence is quite impressive.
+  - そのような小さな会社にしては、市場への影響力はかなり印象的です。
 
 ## 2024/06/03
 - **Study Time**
