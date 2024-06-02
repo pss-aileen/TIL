@@ -82,6 +82,8 @@
   - English:  / 
   - Total:  / 
 - **Programming**
+  - **practice-typescript-apps** (2.25h)
+    - simple-modal: OOPで実装できた
 - **English**
 
 ## 2024/06/04 200/365
