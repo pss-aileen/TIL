@@ -94,7 +94,14 @@
   - English:  / 
   - Total:  / 
 - **Programming**
+  - **First Contributions JA** 
+    - プルリク確認
 - **English**
+  - 午前中に単語やって、午後TOEIC
+  - **金のセンテンス** (1h)
+    - Q105-123
+  - **TOEIC TEST1** 
+    - Part6: ディクテーション、答え合わせ、シャドーイング等
 
 ## 2024/06/05
 - **Study Time**
