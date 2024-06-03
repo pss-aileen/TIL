@@ -78,11 +78,15 @@
 
 ## 2024/06/03
 - **Study Time**
-  - Programming:  / 
-  - English:  / 
-  - Total:  / 
+  - Programming: 2.25h / 9.25h
+  - English: 0.5h / 5.00h
+  - Total: 2.75h / 14.25h 
 - **Programming**
+  - **practice-typescript-apps** (2.25h)
+    - simple-modal: OOPで実装できた
 - **English**
+  - **金のセンテンス** (0.5)
+    - 知らない単語チェック、シャドーイング: 095-104
 
 ## 2024/06/04 200/365
 - **Study Time**

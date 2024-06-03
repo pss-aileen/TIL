@@ -59,3 +59,8 @@ button?.addEventListener("click", () => {
 この例では、`getElementById`で取得した要素が`HTMLButtonElement`型であることを TypeScript に伝えるために、`as HTMLButtonElement`を使用して型キャストしています。また、`button?.`のように、オプションチェーン演算子`?.`を使用しています。これにより、`button`が`null`でない場合のみ、`addEventListener`メソッドが呼び出されます。
 
 これをふまえると、TypeScript が何をするものなのかの再認識が必要かも。
+
+
+## ビルドがうまくいかな
+- https://stackoverflow.com/questions/77507195/multiple-app-output-directories-required-for-vite-vue-3-setup
+- これで複数のvite.configがあればよさそう。後調査
