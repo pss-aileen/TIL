@@ -109,6 +109,8 @@
 - **Programming**
   - **First Contributions JA** 
     - プルリク確認
+  - **Intro to Vue3**
+    - 公式サイト見たり、動画見たりすこし学習
 - **English**
   - **TOEIC TEST1** 
     - Part6: ディクテーション、答え合わせ、シャドーイング等
