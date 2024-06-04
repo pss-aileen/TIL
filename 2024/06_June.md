@@ -90,18 +90,14 @@
 
 ## 2024/06/04 200/365
 - **Study Time**
-  - Programming:  / 
-  - English:  / 
-  - Total:  / 
+  - Programming: 0 / 9.25h
+  - English: 1h / 6.00h
+  - Total: 15.25 / 14.25h
 - **Programming**
-  - **First Contributions JA** 
-    - プルリク確認
 - **English**
   - 午前中に単語やって、午後TOEIC
   - **金のセンテンス** (1h)
     - Q105-123
-  - **TOEIC TEST1** 
-    - Part6: ディクテーション、答え合わせ、シャドーイング等
 - **Memo**
   - 人より学びのスピードが遅くて悲しくなることも多々あるが、1ヶ月お休みしてたこともあるが、勉強しはじめて200日がたった。もうとっくの前に折り返し地点をすぎていた。頑張っている。
 
@@ -111,7 +107,11 @@
   - English:  / 
   - Total:  / 
 - **Programming**
+  - **First Contributions JA** 
+    - プルリク確認
 - **English**
+  - **TOEIC TEST1** 
+    - Part6: ディクテーション、答え合わせ、シャドーイング等
 
 ## 2024/06/06
 - **Study Time**
