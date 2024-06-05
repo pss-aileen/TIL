@@ -1,0 +1,355 @@
+[
+  {
+    "date": "2024-01-31",
+    "tasks": [
+      {
+        "id": "p-others",
+        "detail": ["1月の勉強時間合計"],
+        "time": 93.75
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-02-31",
+    "tasks": [
+      {
+        "id": "p-others",
+        "detail": ["2月の勉強時間合計"],
+        "time": 95.25
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-03-31",
+    "tasks": [
+      {
+        "id": "p-others",
+        "detail": ["3月の勉強時間合計"],
+        "time": 90.5
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-04-31",
+    "tasks": [
+      {
+        "id": "p-others",
+        "detail": ["4月の勉強時間合計"],
+        "time": 21.25
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-05-31",
+    "tasks": [
+      {
+        "id": "p-others",
+        "detail": ["5月の勉強時間合計"],
+        "time": 45
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-01",
+    "tasks": [
+      {
+        "id": "p-p-first-contributions",
+        "detail": ["プルリスト確認、コメント", "変数名、CSS のリファクタリングなど"],
+        "time": 1.25
+      },
+      {
+        "id": "p-p-my-portfolio",
+        "detail": ["管理画面の実装", "Prettier の導入"],
+        "time": 1
+      },
+      {
+        "id": "p-dotinstall",
+        "detail": ["PHP 入門 基礎文法編: 07/14", "PHP 入門 制御構造編 15/15"],
+        "time": 0.75
+      },
+      {
+        "id": "p-p-typescript-apps",
+        "detail": [
+          "TypeScript 使って遊べる環境開発した",
+          "設定を触っていたらやっぱり React か Vue 入れた方がいいなと感じたので、どこかで"
+        ],
+        "time": 2
+      },
+      {
+        "id": "e-toeic-gold-sentence",
+        "detail": ["Book: 067 ~ 094"],
+        "time": 0.5
+      },
+      {
+        "id": "e-toeic-official-practice-book",
+        "detail": [
+          "Part4: ディクテーション、答え合わせ、シャドーイング等 Q98-Q100",
+          "Part5: ディクテーション、答え合わせ、シャドーイング等 Q101-121"
+        ],
+        "time": 2
+      },
+      {
+        "id": "e-others",
+        "detail": ["フォニックスの歌で発音練習", "ショートストーリーの音読"],
+        "time": 0.5
+      }
+    ],
+    "memo": ["ポモドーロタイマー最強だったので、英語はそれで勉強すれば良いかも"]
+  },
+  {
+    "date": "2024-06-02",
+    "tasks": [
+      {
+        "id": "p-p-first-contributions",
+        "detail": ["レビューの修正: done"],
+        "time": 0.5
+      },
+      {
+        "id": "p-p-typescript-apps",
+        "detail": ["simple-modalの実装"],
+        "time": 1.5
+      },
+      {
+        "id": "e-toeic-official-practice-book",
+        "detail": ["Part5: ディクテーション、答え合わせ、シャドーイング等 Q101-130", "シャドーイング強化"],
+        "time": 1.0
+      },
+      {
+        "id": "e-others",
+        "detail": ["フォニックスの歌で発音練習", "ショートストーリーの音読"],
+        "time": 0.5
+      }
+    ],
+    "memo": [
+      "For such a small company, their market influence is quite impressive.（そのような小さな会社にしては、市場への影響力はかなり印象的です。）"
+    ]
+  },
+  {
+    "date": "2024-06-03",
+    "tasks": [
+      {
+        "id": "p-p-typescript-apps",
+        "detail": ["simple-modal: OOP で実装できた"],
+        "time": 2.25
+      },
+      {
+        "id": "e-toeic-gold-sentence",
+        "detail": ["知らない単語チェック、シャドーイング: 095-104"],
+        "time": 0.5
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-04",
+    "tasks": [
+      {
+        "id": "e-toeic-gold-sentence",
+        "detail": ["Q105-123"],
+        "time": 1
+      }
+    ],
+    "memo": [
+      "人より学びのスピードが遅くて悲しくなることも多々あるが、1 ヶ月お休みしてたこともあるが、勉強しはじめて 200 日がたった。もうとっくの前に折り返し地点をすぎていた。頑張っている。"
+    ]
+  },
+  {
+    "date": "2024-06-05",
+    "tasks": [
+      {
+        "id": "p-vue-intro-to-vue3",
+        "detail": ["公式サイト見たり、動画見たりすこし学習"],
+        "time": 0.5
+      },
+      {
+        "id": "p-p-practice-vue",
+        "detail": [
+          "とりあえず触りたかったのでドキュメントや Intro to Vue3 みながら作業",
+          "Vue と daisyUI を使って、簡単なページを作ってみた、これぞしたいことといった感じだった"
+        ],
+        "time": 3.5
+      },
+      {
+        "id": "e-toeic-gold-sentence",
+        "detail": ["Q124-129"],
+        "time": 0.5
+      },
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-06",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-07",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-08",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-09",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-10",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-11",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-12",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-13",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-14",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-15",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-16",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-17",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-18",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-19",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2024-06-20",
+    "tasks": [
+      {
+        "id": "null",
+        "detail": ["null"],
+        "time": null
+      }
+    ],
+    "memo": [""]
+  }
+]
