@@ -249,3 +249,9 @@ export default {
 
 - そもそも、jsonはimportでもってこれる...わざわざ `fetch` しなくていい...今更
 - と、考えたらめちゃくちゃ楽しくなってきたぞ...！
+
+# ビルドについて
+
+- https://ja.vitejs.dev/guide/static-deploy
+- buildしたのをローカルでプレビューするのに npm run previewする
+- https://zenn.dev/snowcait/articles/80f646e0d70495
