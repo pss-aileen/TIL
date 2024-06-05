@@ -8,7 +8,7 @@ import Stats from "./Stats.vue";
       <div class="">
         <div class="text-center">
           <h1 class="text-8xl font-extrabold">
-            <span class="bg-clip-text text-transparent bg-gradient-to-r from-pink-500 via-violet-500 to-sky-500">
+            <span class="bg-clip-text text-transparent bg-gradient-to-r from-pink-500 via-yellow-500 to-cyan-500">
               Today I Learn.
             </span>
           </h1>
