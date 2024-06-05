@@ -1,0 +1,120 @@
+{
+  "studyLogs": [
+    {
+      "date": "2023",
+      "studyTime": {
+        "programming": 116.75,
+        "english": null
+      },
+      "doneList": [
+        {
+          "content": "Tried to use Notion as a programming note.",
+          "tags": ["tips"]
+        },
+        {
+          "content": "JavaScriptで学ぶWebアプリ開発の必須知識〜Node.js・Web API・Ajax・async/await〜 33%",
+          "tags": ["JavaScript", "Udemy"]
+        },
+        {
+          "content": "【Three.js入門】モダンな3Dフロントエンド技術を習得して周りのエンジニアと差をつけよう！ 20%",
+          "tags": ["JavaScript", "Udemy", "Three.js"]
+        },
+        {
+          "content": "【無料のプチ講座】最新Blender3.3で3DCGデビューしよう！ 完走",
+          "tags": ["Blender", "Udemy"]
+        },
+        {
+          "content": "【Node.js入門】Node.jsとMongoDBを連携してTodoアプリを1から構築してみよう 59%",
+          "tags": ["JavaScript", "Udemy"]
+        },
+        {
+          "content": "Simple Profile Image Generator",
+          "tags": ["Project"]
+        },
+        {
+          "content": "超JavaScript完全パック2023 64/372",
+          "tags": ["JavaScript", "Udemy"]
+        }
+      ]
+    },
+    {
+      "date": "2024-01",
+      "studyTime": {
+        "programming": 93.75,
+        "english": null
+      },
+      "doneList": [
+        {
+          "content": "JavaScriptでカレンダーを作ろう: done",
+          "tags": ["ドットインストール", "JavaScript"]
+        },
+        {
+          "content": "JavaScript 日時操作編: done",
+          "tags": ["ドットインストール", "JavaScript"]
+        },
+        {
+          "content": "project-github-commit-message",
+          "tags": ["project", "JavaScript"]
+        },
+        {
+          "content": "JavaScriptでスロットマシンを作ろう: done",
+          "tags": ["ドットインストール", "JavaScript"]
+        },
+        {
+          "content": "JavaScript タイマー編: done",
+          "tags": ["ドットインストール", "JavaScript"]
+        },
+        {
+          "content": "JavaScriptで数字タッチゲームを作ろう: done",
+          "tags": ["ドットインストール", "JavaScript"]
+        },
+        {
+          "content": "【Node.js入門】Node.jsとMongoDBを連携してTodoアプリを1から構築してみよう 完走",
+          "tags": [""]
+        },
+        {
+          "content": "Adobe Firefly を使ってみる",
+          "tags": [""]
+        },
+        {
+          "content": "project-typing-game タイピングゲームを作ろうとしたが断念",
+          "tags": [""]
+        },
+        {
+          "content": "JavaScriptでタイピングゲームを作ろう: 08/11",
+          "tags": [""]
+        },
+        {
+          "content": "practice-news-page: ログイン機能なしのお知らせ管理画面、一覧を作成",
+          "tags": ["JavaScript", "mongoDB"]
+        },
+        {
+          "content": "React入門 23/23: done",
+          "tags": ["ドットインストール", "JavaScript", "React"]
+        },
+        {
+          "content": "ReactでTodo管理アプリ 20/20: done",
+          "tags": ["ドットインストール", "JavaScript", "React"]
+        }
+      ]
+    },
+    {
+      "date": "2024-06",
+      "studyTime": {
+        "programming": null,
+        "english": null
+      },
+      "doneList": {
+        "programming": [
+          {
+            "content": "",
+            "tags": [""]
+          }
+        ],
+        "english": [
+
+        ]
+      }
+    }
+  ]
+}
