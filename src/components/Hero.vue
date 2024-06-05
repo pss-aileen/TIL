@@ -3,7 +3,7 @@ import Stats from "./Stats.vue";
 </script>
 
 <template>
-  <div class="hero min-h-[64vh] bg-base-200">
+  <div class="hero min-h-[80vh] bg-base-200">
     <div class="hero-content">
       <div class="">
         <div class="text-center">

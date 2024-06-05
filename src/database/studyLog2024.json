@@ -181,6 +181,11 @@
         "time": 3.5
       },
       {
+        "id": "p-p-til",
+        "detail": ["practice-vueであらかた固まったので、TILに移動。"],
+        "time": 4
+      },
+      {
         "id": "e-toeic-gold-sentence",
         "detail": ["Q124-129"],
         "time": 0.5
@@ -191,7 +196,7 @@
         "time": null
       }
     ],
-    "memo": [""]
+    "memo": ["Vueで勉強時間を表示させられるようになった。楽しい。"]
   },
   {
     "date": "2024-06-06",
