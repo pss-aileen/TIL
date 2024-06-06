@@ -133,10 +133,12 @@
 ## 2024/06/06
 
 - **Study Time**
-  - Programming: /
+  - Programming: 1.5 /
   - English: /
   - Total: /
 - **Programming**
+  - **First Contributions JA** (1.5)
+    - プルリク確認
 - **English**
 
 ## 2024/06/07
