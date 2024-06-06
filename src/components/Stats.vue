@@ -11,7 +11,7 @@ const thisMonth = today.getMonth() + 1;
 // console.log(thisMonth);
 
 const diffTime = Math.abs(today - specifiedDate);
-const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24) + 1);
+const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
 
 let totalTime = 0;
 let monthlyTotalTime = 0;

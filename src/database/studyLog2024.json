@@ -204,12 +204,12 @@
     "date": "2024-06-06",
     "tasks": [
       {
-        "id": "null",
-        "detail": ["null"],
-        "time": null
+        "id": "p-p-first-contributions",
+        "detail": ["Aboutセクションプルリク確認"],
+        "time": 1.5
       }
     ],
-    "memo": ["プルリクの確認、英語関係頑張る"]
+    "memo": ["今日はずっと体調がわるかったけど頑張った"]
   },
   {
     "date": "2024-06-07",
