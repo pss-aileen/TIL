@@ -22,8 +22,7 @@
     - PHP 入門 基礎文法編 done
     - PHP 入門 制御構造編 done
 - **English**
-  - **TOEIC**
-    -
+  - ## **TOEIC**
   - **Phonics**
 
 ---
@@ -127,14 +126,19 @@
     - Q124-129
   - **TOEIC TEST1**
     - Part6: ディクテーション、答え合わせ、シャドーイング等
+- **Memo**
+  - Vue を使って、楽しく TIL を表示するページを作ったけど、目的は勉強を続ける、やりやすくする、メモをするといった役割なので json で表示させたりメモをとるのは苦痛だと感じた
+  - やめたくないなぁ...
 
 ## 2024/06/06
 
 - **Study Time**
-  - Programming: /
+  - Programming: 1.5 /
   - English: /
   - Total: /
 - **Programming**
+  - **First Contributions JA** (1.5)
+    - プルリク確認
 - **English**
 
 ## 2024/06/07
