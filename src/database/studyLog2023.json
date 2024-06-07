@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2023-11-18",
+    "tasks": [
+      {
+        "id": "p-others",
+        "detail": ["Start day"],
+        "time": 0
+      }
+    ],
+    "memo": [""]
+  },
+  {
+    "date": "2023-12-31",
+    "tasks": [
+      {
+        "id": "p-others",
+        "detail": ["2023年の勉強時間全ての合計"],
+        "time": 116.75
+      }
+    ],
+    "memo": [""]
+  }
+]
