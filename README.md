@@ -1,29 +1,81 @@
-# practice-vue
+<div align="center">
 
-This template should help get you started developing with Vue 3 in Vite.
+<img width="160" src="assets/octcat.png" alt="TIL" />
 
-## Recommended IDE Setup
+This image was made with [My Octocat](https://myoctocat.com/)
+</div>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+---
 
-## Customize configuration
+```javascript
+/*-------------------------------------
+ | TIL
+ | Today I Learn and Study Log.
+ *------------------------------------*/
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+// If you want to check the monthly reports, go to the annual folders.
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
+```javascript
+const studyStartDay = "2023/11/18";
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
+```javascript
+const programmingStudyTime2023 = [
+  {
+    period: "2023",
+    hoursTotal: 116.75,
+  }
+];
 ```
+
+```javascript
+const programmingStudyTime2024 = [
+  {
+    period: "January 2024",
+    hoursPerMonth: 93.75,
+    // hoursTotal: 210.50,
+  },
+  {
+    period: "February 2024",
+    hoursPerMonth: 95.25,
+    // hoursTotal: 306.25,
+  },
+  {
+    period: "March 2024",
+    hoursPerMonth: 90.50,
+    // hoursTotal: 396.75,
+  },
+  {
+    period: "April 2024",
+    hoursPerMonth: 21.25,
+    // hoursTotal: 417.50,
+  },
+  {
+    period: "May 2024",
+    hoursPerMonth: 45,
+    // hoursTotal: 462.5,
+  },
+    {
+    period: "June 2024",
+    hoursPerMonth: null,
+    // hoursTotal: null,
+  },
+];
+```
+
+```javascript
+const englishStudyTime2024 = [
+  {
+    period: "May 2024",
+    hoursPerMonth: 26.25,
+    // hoursTotal: 26.25,
+  },
+  {
+    period: "June 2024",
+    hoursPerMonth: null,
+    // hoursTotal: null,
+  },
+];
+```
+

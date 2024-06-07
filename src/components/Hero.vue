@@ -12,7 +12,9 @@ import Stats from "./Stats.vue";
               Today I Learn.
             </span>
           </h1>
-          <p class="py-6">Record my thoughts and memo, and study time. My memo is on GitHub.</p>
+          <p class="py-6">
+            Record my thoughts and memo, and study time. My memo is on GitHub.<br />⛑️ Under Constructions 🚧
+          </p>
         </div>
 
         <Stats />
