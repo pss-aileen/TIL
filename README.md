@@ -4,8 +4,6 @@
 
 memos in https://github.com/pss-aileen/TIL/tree/main/documents
 
----
-
 ![til](documents/assets/til-image.png)
 
 </div>
@@ -21,6 +19,7 @@ memos in https://github.com/pss-aileen/TIL/tree/main/documents
 
 - JavaScript
 - Vue
+- Tailwind CSS
 - daisyUI
 
 ### 実装機能
@@ -32,8 +31,12 @@ memos in https://github.com/pss-aileen/TIL/tree/main/documents
 
 ### これから実装したいこと
 
+とにかく、頑張ったことを視覚化したい...！
+
 - [ ] 日付の左に、2023/11/18 から何日目かを表示する
 - [ ] 勉強したもの、プロジェクトごとのログを確認できるようにする
 - [ ] 月毎のレポートをページを作る（何を何時間作業したかのログ）
 - [ ] 月毎の振り返りレポートのコメント json を作る
-- [ ]
+- [ ] スマホでの見た目の調整
+- [ ] 先月の勉強時間と、今月の勉強時間が何時間多いか比較（6月10日だったら、5月10日までの合計と比較）
+- [ ] 
