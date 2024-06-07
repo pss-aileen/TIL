@@ -144,10 +144,15 @@
 ## 2024/06/07
 
 - **Study Time**
-  - Programming: /
+  - Programming: 2h /
   - English: /
   - Total: /
 - **Programming**
+  - **First Contributions JA** (1h)
+    - プルリク確認、修正
+  - **practice-typescript-apps** (1h)
+    - simple-modal
+    - mainにプッシュしたら自動でデプロイできるように設定した。最高🍻
 - **English**
 
 ## 2024/06/08
