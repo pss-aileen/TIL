@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="160" src="_memo/assets/octcat.png" alt="TIL" />
+<img width="160" src="documents/assets/octcat.png" alt="TIL" />
 
 This image was made with [My Octocat](https://myoctocat.com/)
 </div>
