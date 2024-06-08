@@ -189,11 +189,6 @@
         "id": "e-toeic-gold-sentence",
         "detail": ["Q124-129"],
         "time": 0.5
-      },
-      {
-        "id": "null",
-        "detail": ["null"],
-        "time": null
       }
     ],
     "memo": [
@@ -234,10 +229,21 @@
         "id": "p-others",
         "detail": ["ロジカルシンキングについての情報を集めて、整理した"],
         "time": 0.5
+      },
+      {
+        "id": "p-p-first-contributions",
+        "detail": ["Aboutセクションプルリク確認、マージ"],
+        "time": 0.5
+      },
+      {
+        "id": "e-toeic-gold-sentence",
+        "detail": ["単語チェック、シャドーイング: 130-134", "英文予想、読み上げ: 001-027"],
+        "time": 0.5
       }
     ],
     "memo": ["結論、理由、具体例！"]
   },
+
   {
     "date": "2024-06-09",
     "tasks": [
