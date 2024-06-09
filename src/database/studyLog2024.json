@@ -249,8 +249,13 @@
     "tasks": [
       {
         "id": "p-p-first-contributions",
-        "detail": ["プルリクの確認"],
-        "time": 0.5
+        "detail": [
+          "プルリクの確認",
+          "タッチアイコンの画像角丸なし作成",
+          "ローンチにまつわる記載確認",
+          "faviconのmaskableについて調査"
+        ],
+        "time": 3
       },
       {
         "id": "o-job-hunting",
@@ -258,12 +263,14 @@
         "time": 4
       },
       {
-        "id": "p-others",
-        "detail": ["null"],
-        "time": null
+        "id": "p-p-typescript-apps",
+        "detail": ["Random Quote: 非同期処理の復習"],
+        "time": 1
       }
     ],
-    "memo": [""]
+    "memo": [
+      "就活に関する情報をまとめなおした。先が長いと感じた。適当にささささ〜とやってしまうので、1つ1つのコードを理解しながらすすむことを意識してやっていく。"
+    ]
   },
   {
     "date": "2024-06-10",
