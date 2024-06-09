@@ -1,5 +1,16 @@
 ## Todo
 
+[ref](../../documents/00_TopicsToLearn/README.md)
+
+- Figma to Website using Bootstrap: https://www.figma.com/community/file/1009459550594687156
+- practice-typescript-apps
+  - issueにあるやつを2つはやりたい
+
+<details>
+  <summary>
+    old plan
+  </summary>
+
 - **Programming**
   - first-contributions-ja
     - こちら優先で作業すすめる
@@ -22,10 +33,11 @@
     - PHP 入門 基礎文法編 done
     - PHP 入門 制御構造編 done
 - **English**
-  - ## **TOEIC**
+  - **TOEIC**
   - **Phonics**
 
----
+</details>
+
 
 ## 2024/06/01
 
@@ -109,10 +121,6 @@
 
 ## 2024/06/05
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
   - **First Contributions JA**
     - プルリク確認
@@ -152,12 +160,12 @@
     - プルリク確認、修正
   - **practice-typescript-apps** (1h)
     - simple-modal
-    - mainにプッシュしたら自動でデプロイできるように設定した。最高🍻
+    - main にプッシュしたら自動でデプロイできるように設定した。最高 🍻
 - **English**
 
 ## 2024/06/08
 
-- とりあえず、これからメモと計画はこっちでかいて、最後にjsonに追加していく。続けばいいな...。
+- とりあえず、これからメモと計画はこっちでかいて、最後に json に追加していく。続けばいいな...。
 - 「エンジニアが知っておきたい思考の整理術」を購入。言語化力とか、論理的思考力が本当に欠落しているので買ってみた...。
 
 - **Programming**
@@ -167,198 +175,82 @@
 
 ## 2024/06/09
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
+  - 金フレする、ひたすら音読
+- **Memo**
+- どのジャンルでもいいからといった会社選びでいこうとしたけど、それだと無限にやることがある
+- Laravel、PHP でバックエンド...と思ったけどどれも果てしない
+- 全部はてしなくて、総合的にじわじわ底上げをしている感覚だと、永遠にたどりつかない
+- 現状の目標を整理しなおす必要がある
+  - 「教えてもらう気」は捨てる、でもわからないことは聞く
+  - 情報を 1 つ 1 つ確認して、覚えていく、TIL にきちんと結論やまとめを残して見返せるようにしておく
+  - 求人情報でもとめられているものを確認する、自分はどうやったら戦えるのか考える
 
 ## 2024/06/10
+- リーダブルコードを時々読む
+- 息抜きに本を読もう
+- ひとまず、TypeScriptのプロジェクトをすすめる
+- Figma To Bootstrap
+- なんか計画的にやろうと考えすぎて、今からやるそれが正しいかを悩みがちだと感じたので、とりあえずTypeScirptやりつつ、FigmaToBootstrapで経験を増やそう
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/11
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/12
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/13
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/14 210/365
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/15
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/16
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/17
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/18
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/19
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/20
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/21
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/22
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/23
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/24 220/365 全てお休みで OKDAY
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/25 全てお休みで OKDAY
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/26
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/27
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/28
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/29
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
 
 ## 2024/06/30
 
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
-- **Programming**
-- **English**
