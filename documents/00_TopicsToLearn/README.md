@@ -75,3 +75,10 @@
 ## Resources
 - [Flowrift - Banner](https://flowrift.com/c/banner)
 - [Figma and Html Templates for Ecommerce, Services, Medical, Legal and more - Page 1 - figma and free](https://www.captain-design.com/templates/page/1?type=figma&license=free)
+
+---
+
+# Table Of Content
+
+- [FigmaからWebページのコーディング練習ができるサイト](./FimgaToWebSiteResources.md)
+- [採用で求められている事柄の調査](./recruit-responsibilities.md)

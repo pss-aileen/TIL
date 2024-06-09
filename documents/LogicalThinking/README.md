@@ -18,4 +18,6 @@
 
 ---
 
+# Table Of Content
+
 - [【超入門】ロジカルシンキング難しすぎて実践できない人向け 論理的思考術](./intro-logical-thinking-very-simple.md)
