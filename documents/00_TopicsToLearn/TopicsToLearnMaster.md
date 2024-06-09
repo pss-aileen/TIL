@@ -25,7 +25,6 @@
 目的: 実践的、ベテランになるために、即戦力になるために
 
 - [ ] TODO List(Basic CRUD)
-- [ ]
 
 <details>
 <summary>なぜ、TypeScriptと作るのか？</summary>
@@ -72,3 +71,7 @@
 ## 試したいAPI
 
 - [cheatsnake/emojihub: 😺 A simple & free HTTP API with emojis for your cool apps](https://github.com/cheatsnake/emojihub)
+
+## Resources
+- [Flowrift - Banner](https://flowrift.com/c/banner)
+- [Figma and Html Templates for Ecommerce, Services, Medical, Legal and more - Page 1 - figma and free](https://www.captain-design.com/templates/page/1?type=figma&license=free)

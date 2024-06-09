@@ -1,5 +1,16 @@
 ## Todo
 
+[ref](../../documents/00_TopicsToLearn/TopicsToLearnMaster.md)
+
+- Figma to Website using Bootstrap: https://www.figma.com/community/file/1009459550594687156
+- practice-typescript-apps
+  - issueにあるやつを2つはやりたい
+
+<detals>
+  <summary>
+    old plan
+  </summary>
+
 - **Programming**
   - first-contributions-ja
     - こちら優先で作業すすめる
@@ -13,6 +24,8 @@
   - TOEIC 公式練習問題 2 を本番 2 週間前ぐらいにする
   - 毎日 3 時間ぐらいできれば理想だけど、忙しくなるのでできるかな...
   - 6 月末初 TOEIC 受験
+
+</detals>
 
 ## Done
 
@@ -108,6 +121,7 @@
   - 人より学びのスピードが遅くて悲しくなることも多々あるが、1 ヶ月お休みしてたこともあるが、勉強しはじめて 200 日がたった。もうとっくの前に折り返し地点をすぎていた。頑張っている。
 
 ## 2024/06/05
+
 - **Programming**
   - **First Contributions JA**
     - プルリク確認
@@ -147,12 +161,12 @@
     - プルリク確認、修正
   - **practice-typescript-apps** (1h)
     - simple-modal
-    - mainにプッシュしたら自動でデプロイできるように設定した。最高🍻
+    - main にプッシュしたら自動でデプロイできるように設定した。最高 🍻
 - **English**
 
 ## 2024/06/08
 
-- とりあえず、これからメモと計画はこっちでかいて、最後にjsonに追加していく。続けばいいな...。
+- とりあえず、これからメモと計画はこっちでかいて、最後に json に追加していく。続けばいいな...。
 - 「エンジニアが知っておきたい思考の整理術」を購入。言語化力とか、論理的思考力が本当に欠落しているので買ってみた...。
 
 - **Programming**
@@ -161,100 +175,120 @@
   - 金フレやる
 
 ## 2024/06/09
-- **Programming**
-  - 
+
+- ## **Programming**
 - **English**
   - 金フレする、ひたすら音読
 - **Memo**
 - どのジャンルでもいいからといった会社選びでいこうとしたけど、それだと無限にやることがある
-- Laravel、PHPでバックエンド...と思ったけどどれも果てしない
+- Laravel、PHP でバックエンド...と思ったけどどれも果てしない
 - 全部はてしなくて、総合的にじわじわ底上げをしている感覚だと、永遠にたどりつかない
 - 現状の目標を整理しなおす必要がある
   - 「教えてもらう気」は捨てる、でもわからないことは聞く
-  - 情報を1つ1つ確認して、覚えていく、TILにきちんと結論やまとめを残して見返せるようにしておく
+  - 情報を 1 つ 1 つ確認して、覚えていく、TIL にきちんと結論やまとめを残して見返せるようにしておく
   - 求人情報でもとめられているものを確認する、自分はどうやったら戦えるのか考える
 
-
 ## 2024/06/10
+
 - **Programming**
 - **English**
 
 ## 2024/06/11
+
 - **Programming**
 - **English**
 
 ## 2024/06/12
+
 - **Programming**
 - **English**
 
 ## 2024/06/13
+
 - **Programming**
 - **English**
 
 ## 2024/06/14 210/365
+
 - **Programming**
 - **English**
 
 ## 2024/06/15
+
 - **Programming**
 - **English**
 
 ## 2024/06/16
+
 - **Programming**
 - **English**
 
 ## 2024/06/17
+
 - **Programming**
 - **English**
 
 ## 2024/06/18
+
 - **Programming**
 - **English**
 
 ## 2024/06/19
+
 - **Programming**
 - **English**
 
 ## 2024/06/20
+
 - **Programming**
 - **English**
 
 ## 2024/06/21
+
 - **Programming**
 - **English**
 
 ## 2024/06/22
+
 - **Programming**
 - **English**
 
 ## 2024/06/23
+
 - **Programming**
 - **English**
 
 ## 2024/06/24 220/365 全てお休みで OKDAY
+
 - **Programming**
 - **English**
 
 ## 2024/06/25 全てお休みで OKDAY
+
 - **Programming**
 - **English**
 
 ## 2024/06/26
+
 - **Programming**
 - **English**
 
 ## 2024/06/27
+
 - **Programming**
 - **English**
 
 ## 2024/06/28
+
 - **Programming**
 - **English**
 
 ## 2024/06/29
+
 - **Programming**
 - **English**
 
 ## 2024/06/30
+
 - **Programming**
 - **English**

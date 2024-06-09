@@ -1,11 +1,11 @@
 # WebAPI
 
-## WebAPI のとは
+## WebAPI とは
 
 - [Introduction to web APIs - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
 -
 
-### What is RESTFul API
+## What is RESTFul API
 
 ref: [RESTful API とは? - RESTful API の説明 - AWS](https://aws.amazon.com/jp/what-is/restful-api/?nc1=h_ls)
 
@@ -23,7 +23,5 @@ RESTful API は、2 つのコンピュータシステムがインターネット
 ## 資料
 
 - [今すぐ使える無料 WebAPI まとめ #初心者 - Qiita](https://qiita.com/kazuki_tachikawa/items/7b2fead2a9698d1c15e8)
-
----
 
 [^1]: システムやユーザー間での情報や操作をやりとりするための境界や手段のこと
