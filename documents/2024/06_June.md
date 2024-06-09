@@ -6,7 +6,7 @@
 - practice-typescript-apps
   - issueにあるやつを2つはやりたい
 
-<detals>
+<details>
   <summary>
     old plan
   </summary>
@@ -25,7 +25,7 @@
   - 毎日 3 時間ぐらいできれば理想だけど、忙しくなるのでできるかな...
   - 6 月末初 TOEIC 受験
 
-</detals>
+</details>
 
 ## Done
 
@@ -176,7 +176,7 @@
 
 ## 2024/06/09
 
-- ## **Programming**
+- **Programming**
 - **English**
   - 金フレする、ひたすら音読
 - **Memo**
@@ -189,106 +189,68 @@
   - 求人情報でもとめられているものを確認する、自分はどうやったら戦えるのか考える
 
 ## 2024/06/10
+- リーダブルコードを時々読む
+- 息抜きに本を読もう
+- ひとまず、TypeScriptのプロジェクトをすすめる
+- Figma To Bootstrap も
 
-- **Programming**
-- **English**
 
 ## 2024/06/11
 
-- **Programming**
-- **English**
 
 ## 2024/06/12
 
-- **Programming**
-- **English**
 
 ## 2024/06/13
 
-- **Programming**
-- **English**
 
 ## 2024/06/14 210/365
 
-- **Programming**
-- **English**
 
 ## 2024/06/15
 
-- **Programming**
-- **English**
 
 ## 2024/06/16
 
-- **Programming**
-- **English**
 
 ## 2024/06/17
 
-- **Programming**
-- **English**
 
 ## 2024/06/18
 
-- **Programming**
-- **English**
 
 ## 2024/06/19
 
-- **Programming**
-- **English**
 
 ## 2024/06/20
 
-- **Programming**
-- **English**
 
 ## 2024/06/21
 
-- **Programming**
-- **English**
 
 ## 2024/06/22
 
-- **Programming**
-- **English**
 
 ## 2024/06/23
 
-- **Programming**
-- **English**
 
 ## 2024/06/24 220/365 全てお休みで OKDAY
 
-- **Programming**
-- **English**
 
 ## 2024/06/25 全てお休みで OKDAY
 
-- **Programming**
-- **English**
 
 ## 2024/06/26
 
-- **Programming**
-- **English**
 
 ## 2024/06/27
 
-- **Programming**
-- **English**
 
 ## 2024/06/28
 
-- **Programming**
-- **English**
 
 ## 2024/06/29
 
-- **Programming**
-- **English**
 
 ## 2024/06/30
 
-- **Programming**
-- **English**
