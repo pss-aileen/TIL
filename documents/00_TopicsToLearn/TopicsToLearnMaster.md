@@ -3,17 +3,15 @@
 ## basic HTML skills with Figma
 
 目的: Figma から Web サイトを作れるようになること
-（色、レイアウト、
 
 - [ ] Figma to Website using Bootstrap
-- [ ] Figma to Website without framework
+- [ ] Figma to Website with React and Bootstrap (Try: React Bootstrap) JavaScript OK
 
 ## TypeScriot Only Project
 
 目的: TypeScript に慣れる
 目的: Bootstrap に慣れる
 
-- https://www.100jsprojects.com/projects
 - pick up from [100 js projects](https://www.100jsprojects.com/projects)
 - or create by myself
 - [ ] [Testimonial Slider Project details](https://www.100jsprojects.com/project/testimonial-slider)
@@ -26,6 +24,9 @@
 
 目的: 実践的、ベテランになるために、即戦力になるために
 
+- [ ] TODO List(Basic CRUD)
+- [ ]
+
 <details>
 <summary>なぜ、TypeScriptと作るのか？</summary>
 
@@ -34,13 +35,13 @@
 - TypeScript で市場価値をあげるため？本当にそうなのか？
   - TypeScript はよく書かれている、ベテラン勢としてはいつか必要になる
   - 即戦力になるには必要
+  </details>
 
-</details>
-
-## MERN
+## MERN ?
 
 目的: もとめられる React、Node、MongoDB を使った技術を習得するため
 
+- [ ] TODO List(Basic CRUD)
 - [ ] ShinCode MERN Udemy 講座
 - [ ] それか自分で作る
 
@@ -51,7 +52,7 @@
 
 <details>
 
-<summary>~~なぜ、PriotiryLowなのか？~~ -> ~~再検討の余地あり~~ -> 再検討済み、きちんとやる</summary>
+<summary>なぜ、PriotiryLowなのか？ -> 再検討の余地あり -> 再検討済み、きちんとやることにした</summary>
 
 - なんとなく、ドキュメント見れば使えるようになりそうな気がするから
 - ナビゲーションやメニューのアニメーションは JQuery
@@ -59,4 +60,15 @@
 - でも、そうなると、ベーシックなサイトの動きは JQuery を使って実装できたほうがいい、では習得できるようになったほうがいいかも
 </details>
 
-- [ ] よく見るやつをJQueryで実装する
+- [ ] よく見るやつを JQuery で実装する
+
+## その他
+
+- [ ] API Auth を使ったものの実装
+- https://developer.mozilla.org/ja/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
+- jsonをかえすAPI
+  - https://sbfl.net/blog/2018/08/25/nodejs-express-webapi/
+
+## 試したいAPI
+
+- [cheatsnake/emojihub: 😺 A simple & free HTTP API with emojis for your cool apps](https://github.com/cheatsnake/emojihub)
