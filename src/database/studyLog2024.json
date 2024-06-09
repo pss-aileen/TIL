@@ -248,6 +248,16 @@
     "date": "2024-06-09",
     "tasks": [
       {
+        "id": "p-p-first-contributions",
+        "detail": ["プルリクの確認"],
+        "time": 0.5
+      },
+      {
+        "id": "o-job-hunting",
+        "detail": ["業界調査、求められている技術まとめ", "今後学習する内容、目標の再設定"],
+        "time": 1
+      },
+      {
         "id": "null",
         "detail": ["null"],
         "time": null

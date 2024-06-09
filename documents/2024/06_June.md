@@ -108,11 +108,6 @@
   - 人より学びのスピードが遅くて悲しくなることも多々あるが、1 ヶ月お休みしてたこともあるが、勉強しはじめて 200 日がたった。もうとっくの前に折り返し地点をすぎていた。頑張っている。
 
 ## 2024/06/05
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
   - **First Contributions JA**
     - プルリク確認
@@ -166,199 +161,100 @@
   - 金フレやる
 
 ## 2024/06/09
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
+  - 
 - **English**
+  - 金フレする、ひたすら音読
+- **Memo**
+- どのジャンルでもいいからといった会社選びでいこうとしたけど、それだと無限にやることがある
+- Laravel、PHPでバックエンド...と思ったけどどれも果てしない
+- 全部はてしなくて、総合的にじわじわ底上げをしている感覚だと、永遠にたどりつかない
+- 現状の目標を整理しなおす必要がある
+  - 「教えてもらう気」は捨てる、でもわからないことは聞く
+  - 情報を1つ1つ確認して、覚えていく、TILにきちんと結論やまとめを残して見返せるようにしておく
+  - 求人情報でもとめられているものを確認する、自分はどうやったら戦えるのか考える
+
 
 ## 2024/06/10
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/11
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/12
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/13
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/14 210/365
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/15
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/16
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/17
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/18
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/19
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/20
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/21
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/22
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/23
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/24 220/365 全てお休みで OKDAY
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/25 全てお休みで OKDAY
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/26
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/27
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/28
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/29
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
 
 ## 2024/06/30
-
-- **Study Time**
-  - Programming: /
-  - English: /
-  - Total: /
 - **Programming**
 - **English**
