@@ -1,6 +1,6 @@
 ## Todo
 
-[ref](../../documents/00_TopicsToLearn/TopicsToLearnMaster.md)
+[ref](../../documents/00_TopicsToLearn/README.md)
 
 - Figma to Website using Bootstrap: https://www.figma.com/community/file/1009459550594687156
 - practice-typescript-apps
@@ -25,8 +25,6 @@
   - 毎日 3 時間ぐらいできれば理想だけど、忙しくなるのでできるかな...
   - 6 月末初 TOEIC 受験
 
-</details>
-
 ## Done
 
 - **Programmin**
@@ -35,10 +33,11 @@
     - PHP 入門 基礎文法編 done
     - PHP 入門 制御構造編 done
 - **English**
-  - ## **TOEIC**
+  - **TOEIC**
   - **Phonics**
 
----
+</details>
+
 
 ## 2024/06/01
 
@@ -192,7 +191,8 @@
 - リーダブルコードを時々読む
 - 息抜きに本を読もう
 - ひとまず、TypeScriptのプロジェクトをすすめる
-- Figma To Bootstrap も
+- Figma To Bootstrap
+- なんか計画的にやろうと考えすぎて、今からやるそれが正しいかを悩みがちだと感じたので、とりあえずTypeScirptやりつつ、FigmaToBootstrapで経験を増やそう
 
 
 ## 2024/06/11
