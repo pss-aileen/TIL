@@ -16,7 +16,6 @@
 - https://www.100jsprojects.com/projects
 - pick up from [100 js projects](https://www.100jsprojects.com/projects)
 - or create by myself
-
 - [ ] [Testimonial Slider Project details](https://www.100jsprojects.com/project/testimonial-slider)
 
 ## React Project with JavaScript
@@ -52,7 +51,7 @@
 
 <details>
 
-<summary>~~なぜ、PriotiryLowなのか？ -> 再検討の余地あり~~ -> 再検討済み、きちんとやる</summary>
+<summary>~~なぜ、PriotiryLowなのか？~~ -> ~~再検討の余地あり~~ -> 再検討済み、きちんとやる</summary>
 
 - なんとなく、ドキュメント見れば使えるようになりそうな気がするから
 - ナビゲーションやメニューのアニメーションは JQuery
