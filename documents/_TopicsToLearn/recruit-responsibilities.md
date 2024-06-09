@@ -2,6 +2,24 @@
 
 フロントエンドだけで調査。
 
+- https://roadmap.sh/ ここで知識を確認していこう
+- https://flowrift.com/c/banner
+- https://www.100jsprojects.com/
+- Figmaのデザイン： https://dev.to/emmanx/free-figma-ui-designs-for-frontend-practice-3ak2
+  - 確定で使っていいやつ: https://www.figma.com/community/file/849342658995967505
+  - https://www.figma.com/community/file/1009459550594687156
+
+## 体系的に学ぶは危険だ
+- 永遠にチュートリアルから抜け出せないので、体系的に学ぶのはさらっとでいい
+- そこからひたすらコードを書く
+- そうなるとどうすればいいか？
+  - HTML使って、BootStrapになれる
+  - JQueryで実装できるものが何か調査して実装する
+  - TypeScriptを使いながらReactの実装
+  - TypeScript, React, MongoDBを使っての実装 MERN?（ShinCode氏のやつを仕上げるべき...）
+  - Node.jsはまだつかいきれていないので体系的に学んだほうがいい
+
+
 ## 結論、これをせよ
 
 上から順番に...
@@ -101,6 +119,8 @@
 TODO: React と相性の良いテストライブラリの調査
 
 - Jest + React testing Library: 1
+  - Jest is a JavaScript Testing Framework with a focus on simplicity.
+  - It works with projects using: Babel, TypeScript, Node, React, Angular, Bue
 - Mocha: 1
 - Jasmine: 1
 
@@ -204,3 +224,9 @@ TODO: React と相性の良いテストライブラリの調査
 - Proficient with ReactJS framework and its core principles such as components,
 - Experience working with front-end testing frameworks (e.g. Mocha, Jasmine) is a plus.
 - Frameworks : Knowledge on J2EE – Spring Boot, Hibernate Restful or Any Web framework
+
+## メモ
+- https://www.uopeople.edu/
+  - オンライン大学、どうしても必要そうだったら
+  - https://www.uopeople.edu/
+  - https://www.uopeople.edu/
