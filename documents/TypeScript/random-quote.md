@@ -1,5 +1,8 @@
 # Random Quote
 
+- 名前は Random Quotes or Random Quote?
+  - 1つのランダムな引用だけなので「Random Quote」単数系
+
 ## 学びたいこと
 
 - 非同期処理の復習
@@ -52,3 +55,9 @@ p1.then(
   - ただ、引数として渡す関数が、単一の引数を受け取る場合、`()` を省略できる
   - `.then((res) => res.json())` は、引数としてうけとったあと、`.json()` としなければいけないので、`(res)` とする必要があった
   - でも `console.log` はただ、関数を実行するだけなので、`console.log` だけでいい...?
+
+## Bootstrap の導入
+
+- 今回はひとまずCDNで。
+- TypeScriptとbootstrapの時にちゃんと組み込む
+- Bootstrap少し難しいかも、Tailwind CSSとは全然別物な感覚

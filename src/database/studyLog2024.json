@@ -276,12 +276,17 @@
     "date": "2024-06-10",
     "tasks": [
       {
-        "id": "null",
-        "detail": ["null"],
-        "time": null
+        "id": "p-p-typescript-apps",
+        "detail": ["Random Quote: Bootstrap導入、CSSフレームワークの調査、まとめ"],
+        "time": 0.75
+      },
+      {
+        "id": "p-p-first-contributions",
+        "detail": ["apple-touch-iconが領域いっぱいに表示されない問題の調査と解決"],
+        "time": 2.75
       }
     ],
-    "memo": [""]
+    "memo": ["ファビコン画像にアルファチャンネルが含まれていないか確認すべし。"]
   },
   {
     "date": "2024-06-11",
