@@ -292,6 +292,11 @@
     "date": "2024-06-11",
     "tasks": [
       {
+        "id": "p-p-first-contributions",
+        "detail": ["apple-touch-iconが領域いっぱいに表示されない問題の調査"],
+        "time": 1
+      },
+      {
         "id": "null",
         "detail": ["null"],
         "time": null
