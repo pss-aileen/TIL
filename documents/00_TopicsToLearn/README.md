@@ -1,8 +1,5 @@
 # Topics To Learn
 
-
-# Big Todo
-
 ## basic HTML skills with Figma
 
 目的: Figma から Web サイトを作れるようになること
