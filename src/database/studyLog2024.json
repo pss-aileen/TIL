@@ -297,9 +297,9 @@
         "time": 1
       },
       {
-        "id": "null",
-        "detail": ["null"],
-        "time": null
+        "id": "p-p-typescript-apps",
+        "detail": ["Rando Quote: 実装完了、実装した内容について解説追加", "TypeScriptを体系的に学べるリソース探し"],
+        "time": 1
       }
     ],
     "memo": [""]
