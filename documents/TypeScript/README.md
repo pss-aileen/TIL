@@ -17,7 +17,7 @@
 
 ---
 
-# Table Of Content
+## Table Of Content
 - [TypeScript Basic](./typeScript-basic.md)
 - my-typescript-apps
   - [Practice TypeScript Apps](./practice-typescript-apps.md)

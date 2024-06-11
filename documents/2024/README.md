@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > 2024/06/09思うこと: 1000時間超えたら時間測るのやめる！
 
-# Table Of Content
+## Table Of Content
 
 - [2024年1月](./01_January.md)
 - [2024年2月](./02_February.md)
