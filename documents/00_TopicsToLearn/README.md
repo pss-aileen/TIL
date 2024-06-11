@@ -1,4 +1,4 @@
-# Topics To Learn Master Page
+# Topics To Learn
 
 ## basic HTML skills with Figma
 
@@ -78,7 +78,7 @@
 
 ---
 
-# Table Of Content
+## Table Of Content
 
 - [FigmaからWebページのコーディング練習ができるサイト](./FimgaToWebSiteResources.md)
 - [採用で求められている事柄の調査](./recruit-responsibilities.md)

@@ -292,12 +292,27 @@
     "date": "2024-06-11",
     "tasks": [
       {
-        "id": "null",
-        "detail": ["null"],
-        "time": null
+        "id": "p-p-first-contributions",
+        "detail": ["apple-touch-iconが領域いっぱいに表示されない問題の調査"],
+        "time": 1
+      },
+      {
+        "id": "p-p-typescript-apps",
+        "detail": ["Rando Quote: 実装完了、実装した内容について解説追加", "TypeScriptを体系的に学べるリソース探し"],
+        "time": 1
+      },
+      {
+        "id": "p-w3s-bootstrap5",
+        "detail": [
+          "全体像を把握するためにチュートリアルをやることにした",
+          ".container、.container-fluid、colとかrowとかが沢山。"
+        ],
+        "time": 1
       }
     ],
-    "memo": [""]
+    "memo": [
+      "本当に計画的に物事をすすめることが苦手だと実感した。学ぶべきトピックが多すぎる時にどうすればいいのか...。1つ1つ取り組むしかないとは思うが、やっぱり果てしなく感じる。"
+    ]
   },
   {
     "date": "2024-06-12",

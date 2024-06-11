@@ -45,16 +45,9 @@ const logs = ref(reversedArray);
         </tr>
       </thead>
       <tbody v-for="(log, index) in logs">
-        <tr v-if="index === 0">
-          <td>
-            {{ log.date }}
-          </td>
-          <td :class="log.time > 3 ? 'text-primary' : ''">{{ log.time }}h</td>
-          <td>{{ log.memo }}</td>
-        </tr>
-        <tr v-else>
+        <tr>
           <td>{{ log.date }}</td>
-          <td :class="log.time > 3 ? 'text-primary' : ''">{{ log.time }}h</td>
+          <td :class="log.time >= 3 ? 'text-primary' : ''">{{ log.time }}h</td>
           <td>{{ log.memo }}</td>
         </tr>
       </tbody>

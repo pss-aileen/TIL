@@ -47,6 +47,10 @@
       {
         "id": "p-vue-intro-to-vue3",
         "name": "Intro to Vue3"
+      },
+      {
+        "id": "p-w3s-bootstrap5",
+        "name": "W3SChools Bootstrap 5 Tutorial"
       }
     ],
     "Others": [
