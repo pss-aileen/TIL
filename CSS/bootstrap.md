@@ -30,3 +30,7 @@
 - Sassで色々カスタムできる
   - > Bootstrap utilizes Sass for a modular and customizable architecture.
     - utilize: 利用する、役立たせる
+
+## Study Resources
+
+- [総合実習：LPを作ってみよう【図解たっぷりBootstrap5入門】 | Skillhub[スキルハブ]](https://skillhub.jp/courses/230/lessons/1650)

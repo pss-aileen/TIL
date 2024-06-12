@@ -214,6 +214,17 @@
 
 ## 2024/06/13
 
+- todos
+  - 以下のどっちかで簡単そうなテンプレートを探して、それみながら模写模写
+  - [総合実習：LPを作ってみよう【図解たっぷりBootstrap5入門】 | Skillhub[スキルハブ]](https://skillhub.jp/courses/230/lessons/1650)
+  - [Bootstrap 5 Templates - Free Bootstrap Themes for Responsive & Optimized HTML5 Websites](https://themewagon.com/theme-framework/bootstrap-5/)
+- done
+  - Bootstrap 最初のプロジェクトはこちらで練習を
+    - [Creative - Free Bootstrap 5 HTML5 Personal Portfolio Website Template - ThemeWagon](https://themewagon.com/themes/free-bootstrap-5-html-5-personal-portfolio-website-template-creative/)
+    - ヒーローエリアぐらいまでなんとなく
+- memo
+  - Bootstrapのサイトにはチートシートがあるのでわからなくなっても調べやすい
+
 
 ## 2024/06/14 210/365
 
