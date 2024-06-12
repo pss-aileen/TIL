@@ -1,5 +1,6 @@
 # W3School Bootstrap Tutotial
 
+[Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/index.php)
 
 ## 02: Get Started
 - `.container`: a responsive fixed width container
@@ -43,7 +44,7 @@ TODO: Gridなじみがないのでちゃんと理解する
 ### Grid Classes
 
 ## 04: Bootstrap 5 Text/Typegraphy
-TODO: abbr途中
+
 - `.h1` to `.h6`
 - `.display-1` to `.display-6`
   - hとdisplayの違いが現段階ではよくわからない
@@ -55,7 +56,69 @@ TODO: abbr途中
 - `<abbr>` （略語を囲む）
   - `<abbr title="World Health Organization">WHO</abbr>`
   - 下にドット線をひいてくれる
+- `<blockquote>`, `.blockquote`, `.blockquote-footer`
+- `<dl>`
+  - デフォルトスタイルは取り除かれている
+  - `<code>`
+    - 色がついて、フォントがかわる
+- `<kbd>`: keyboard
+  - 背景黒、白テキストに
+- `<pre>`: The Preformatted Text element
+  - そのまま表示されるやつ、等幅フォント、block
+
+## 05: Bootstrap 5 Colors
+
+### Color
+
+```html
+.text-muted
+.text-primary
+.text-success
+.text-info
+.text-warning
+.text-danger
+.text-secondary
+.text-white
+.text-dark
+.text-body <!--default-->
+<!--opacity 50% color-->
+.text-black-50
+.text-white-50
+```
+
+### Background Color
+
+```html
+.bg-primary
+.bg-success
+.bg-ifno
+.bg-warning
+.bg-danger
+.bg-seconday
+.bg-dark
+.bg-light
+```
+
+↑これらに `text-` とつけて、 `.text-bg-primay` のようにすると、適切な文字色が設定されるって。
+
+## 06: Bootstrap 5 Tables
+
+```html
+<!-- 最低限、tableは必要。そのたは装飾、table + table-striped とか -->
+.table
+.table-striped
+.table-bordered
+.table-hover
+.table-dark
+.table-dark と .table-striped を組み合わせられる
+.table-borderless
+```
+
+### Contextual Classes
+TODO: 次ここ
 
 
 ## words
 - "pad the content inside of them": 内部にコンテンツを**埋め込む
+- "atleast then you have to specify a proper"
+  - 少なくとも適切な値を設定する必要がある
