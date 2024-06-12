@@ -117,10 +117,109 @@ TODO: Gridなじみがないのでちゃんと理解する
 ```
 
 ### Contextual Classes
-TODO: 次ここ
 
+TODO: 次ここ
+```
+.table-primary
+.table-success
+.table-danger
+.table-info
+.table-warning
+.table-active
+.table-secondary
+.table-light
+.table-right
+```
+
+これらを、 `<tr>` や `<thead>` につけて背景色を変えることができる
+
+### Small table
+
+```html
+<table class="table table-bordered table-sm">
+```
+このようにすると、`table` の余白が半分になる、テーブルが小さくなる
+
+### Responsive Tables
+
+```html
+<div class="table-responsive">
+  <table class="table table-bordered">
+```
+こうすると、tableが横スクロールするようになって、小さいデバイスで列がぎゅっとなることを防ぐ
+
+TODO: 復習
+
+- `.table-responsive`: 常に横スクロール可
+- `.table-responsive-{something}`
+- `sm`: 576px以下の時に横スクロールできるようになる
+- `md`: 768px以下の時に横スクロールできるようになる
+- `lg`: 992px以下の時に横スクロールできるようになる
+- `xl`: 1200px以下の時に横スクロールできるようになる
+- `xxl`: 1400px以下の時に横スクロールできるようになる
+
+例えば、タブレットサイズとスマホサイズで横スクロールさせたいなら `.table-responsive-md` をつけること。
+
+## 07: Images
+
+### 3種類の装飾
+
+角を丸めたり、円にしたり、ボーダーをつけてサムネイルのようにすることができる
+
+角丸
+```html
+<img src="cinqueterre.jpg" class="rounded" alt="Cinque Terre">
+```
+
+円
+```html
+<img src="cinqueterre.jpg" class="rounded-circle" alt="Cinque Terre">
+```
+
+Thumbnail: 薄いボーダーと白い余白
+```html
+<img src="cinqueterre.jpg" class="img-thumbnail" alt="Cinque Terre">
+```
+
+### 位置指定の仕方
+
+左右に移動させたい時は `float` を使う。機能としては当たりまえに `float`。
+
+```html
+<img src="paris.jpg" class="float-start">
+<img src="paris.jpg" class="float-end">
+```
+
+センターにしたい場合あは、`display: block` にして、`margin: 0 auto` とする。
+
+```html
+<img src="paris.jpg" class="mx-auto d-block">
+```
+
+### 画像のサイズを画面に応じて自動で拡大縮小するには
+
+画像をレスポンシブに対応するには、`.img-fluid` をつける。
+`max-width: 100%` で、`height: auto;`
+
+## 08: *Jumbotron*
+
+Jumbotron is a very large video screen like those used in sports stadium... from [Jumbotron | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/jumbotron)
+
+大きな余白のあるボックス
+特別な情報やコンテンツに注目が集まるようにつくられたもの
+
+ただ、これは Bootstrap 5 ではサポートされていないらしい...
+ただ、以下の様なタグをいれれば同じようになるとのこと。
+
+```html
+<div class="mt-4 p-5 bg-primary text-white rounded">
+  <h1>Jumbotron Example</h1>
+  <p>Lorem ipsum...</p>
+</div>
+```
 
 ## words
 - "pad the content inside of them": 内部にコンテンツを**埋め込む
 - "atleast then you have to specify a proper"
   - 少なくとも適切な値を設定する必要がある
+- contextual: 文脈上の
