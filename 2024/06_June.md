@@ -221,12 +221,19 @@
 - done
   - Bootstrap 最初のプロジェクトはこちらで練習を
     - [Creative - Free Bootstrap 5 HTML5 Personal Portfolio Website Template - ThemeWagon](https://themewagon.com/themes/free-bootstrap-5-html-5-personal-portfolio-website-template-creative/)
-    - ヒーローエリアぐらいまでなんとなく
+    - ヒーローエリアの次のエリアまで少しやった
+    - カスタマイズをしなければいけないようなので、そのあたりのお学習に手を伸ばす必要がありそう
 - memo
   - Bootstrapのサイトにはチートシートがあるのでわからなくなっても調べやすい
+  - 今日は疲れた
+  - First Contributions JA スターが増えたり、プルリク出してくれる人がいてうれしい
 
 
 ## 2024/06/14 210/365
+
+- todos
+  - Bootstrap続き
+    - とりあえずカスタマイズしたほうがいいかな、と思うけどCDNでやれる範囲で組んでみる
 
 
 ## 2024/06/15
