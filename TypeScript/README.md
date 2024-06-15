@@ -19,7 +19,3 @@
 
 ## Table Of Content
 - [TypeScript Basic](./typeScript-basic.md)
-- my-typescript-apps
-  - [Practice TypeScript Apps](./practice-typescript-apps.md)
-  - [Random Quote](./random-quote.md)
-  - [Simple Modal](./simple-modal.md)
