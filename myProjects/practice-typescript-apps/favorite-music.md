@@ -85,3 +85,4 @@ fetch("https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
 ### .envの設定
 
 - [GitHub Actions でのシークレットの使用 - GitHub Docs](https://docs.github.com/ja/actions/security-guides/using-secrets-in-github-actions#creating-secrets-for-a-repository)
+- GitHub Actions の Secret はちょっと危険そう [安全にGitHub Actions Secretを扱う](https://zenn.dev/hph/articles/3f592fd96fa927)
