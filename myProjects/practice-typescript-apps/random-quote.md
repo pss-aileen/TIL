@@ -263,3 +263,48 @@ interface PaintOptions {
   yPos?: number;
 }
 ```
+## ビルド用の設定
+
+```js
+// vite.config.js
+import { resolve } from "path";
+import { defineConfig } from "vite";
+
+export default defineConfig({
+  base: "./",
+  build: {
+    rollupOptions: {
+      input: {
+        main: resolve(__dirname, "index.html"),
+        commitMessageGenerator: resolve(__dirname, "commit-message-generator/index.html"),
+        simpleModal: resolve(__dirname, "simple-modal/index.html"),
+        randomQuote: resolve(__dirname, "random-quote/index.html"),
+      },
+    },
+  },
+});
+
+```
+
+### Viteの設定
+
+- コマンドで vite を実行すると、 Vite はこのコンフィルファイルを自動的に見つけて読み込もうとする。
+  - 解決する、見つけ出す
+- `rollupOptions` とは？
+  - rollup.jsをしたオプション
+  - rollup.js: The JavaScript module bundler
+  - [Rollup](https://rollupjs.org/)
+- input
+  - バンドルのエントリーポイント
+  - 配列もしくはオブジェクト配列で設定されたら、それぞれ別のかたまりで出力される
+  - `main: resolve(__dirname, "index.html"),`
+    - これの `main` は名前で、assetsのファイル名に使われる
+    - フォルダは、今回の場合だと、`simpleModal: resolve(__dirname, "simple-modal/index.html"),`
+    - こちらのようにした場合は、simple-modalがそのままディレクトリになる
+
+
+
+
+## words
+- config: 設定
+- chunks: 大きいかたまり
