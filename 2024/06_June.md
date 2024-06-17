@@ -257,6 +257,13 @@
 
 ## 2024/06/17
 
+- done
+  - JavaScriptだけでTodoリスト復習
+  - node.jsでシンプルサーバーの作成
+- memo
+  - retrieve: 取得する
+  - [ちいさな Web ブラウザを作ってみよう](https://browserbook.shift-js.info/)
+  - [Node.js — Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 
 ## 2024/06/18
 
