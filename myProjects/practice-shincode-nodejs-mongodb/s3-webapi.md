@@ -138,7 +138,7 @@ URLからはGETしかできないので、postmanでbodyなどを記入して送
 
 [Download Postman | Get Started for Free](https://www.postman.com/downloads/)
 
-URLからはGETしかできないので、postmanでbodyなどを記入して送信できるかのチェックをする
+**URLからはGETしかできないので、postmanでbodyなどを記入して送信できるかのチェックをする**
 
 最終的に、こういったGETとかDELETEのルーティングを作って、そこでmongoDBと接続して、データを消したり追加したりすることを組み込めば、フロントエンドでURLたたいて？操作ができる。
 
