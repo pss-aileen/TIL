@@ -258,12 +258,24 @@
 ## 2024/06/17
 
 - done
-  - JavaScriptだけでTodoリスト復習
-  - node.jsでシンプルサーバーの作成
+  - implement a TODO CRUD app with JavaScript for review
+  - build a simple server with Node.js (YouTube Video)
 - memo
   - retrieve: 取得する
   - [ちいさな Web ブラウザを作ってみよう](https://browserbook.shift-js.info/)
   - [Node.js — Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+  - [Express ウェブフレームワーク (Node.js/JavaScript) - ウェブ開発を学ぶ | MDN](https://developer.mozilla.org/ja/docs/Learn/Server-side/Express_Nodejs)
+    - MDNで概要を学べそう
+  - [Build Your Own Spotify Music Player with Node.js & Express - Full Tutorial! - YouTube](https://www.youtube.com/watch?v=TN1uvgAyxE0)
+    - Spotifyのトークン周りがわかりそう
+  - イラスト図解式 この一冊で全部わかるWeb技術の基本 第2版 6/28発売
+  - もしかして、node.jsつかって、何かテキスト生成したりができる...？
+  - [How to Create a CRUD API – NodeJS and Express Project for Beginners](https://www.freecodecamp.org/news/create-crud-api-project/)
+  - https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/
+  - [Node.js / Express Course - Build 4 Projects - YouTube](https://www.youtube.com/watch?v=qwfE7fSVaZM)
+  - [CRUD API Tutorial – Node, Express, MongoDB - YouTube](https://www.youtube.com/watch?v=_7UQPve99r4)
+  - [CRUD User Management System – Nodejs, Express, MongoDB & EJS (Reupload) - YouTube](https://www.youtube.com/watch?v=PAm_QcN6Ffs)
+  - [初心者向け Node.js フルコース |完全なオールインワン チュートリアル | 7時間 - YouTube](https://www.youtube.com/watch?v=f2EqECiTBL8)
 
 ## 2024/06/18
 
