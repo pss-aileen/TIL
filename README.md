@@ -33,7 +33,7 @@
   - [Web API](./myProjects/practice-shincode-nodejs-mongodb/s3-webapi.md)
 - [practice-shincode-mern](./myProjects/practice-shincode-mern/)
 - [practice-typescript-apps](./myProjects/practice-typescript-apps/)
-  - [Favocite Music](./myProjects/practice-typescript-apps/favorite-music.md)
+  - [Favorite Music](./myProjects/practice-typescript-apps/favorite-music.md)
   - [Simple Modal](./myProjects/practice-typescript-apps/simple-modal.md)
   - [Random Quote](./myProjects/practice-typescript-apps/random-quote.md)
 
