@@ -345,10 +345,23 @@
     - https://github.com/Catevika/react-portfolio-website_egator
   - 動きが良い
     - https://github.com/jramke/motion-swiper
+
 ## 2024/06/22
 
+- done
+  - practice-swiper
+    - team: done
+    - features: in progress
+- memo
+  - React、TypeScript、Bootstrap、ここをはずしてはいけない
+  - なんでこうなったか？→Spotifyを使うのに.envやら色々必要でバックエンドをさわる必要があったから
+  - 路線をフロントエンドに戻す
 
 ## 2024/06/23
+
+- do
+  - toeic
+  - 本借りに行く
 
 
 ## 2024/06/24 220/365 全てお休みで OKDAY
