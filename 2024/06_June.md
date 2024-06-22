@@ -339,8 +339,12 @@
     - 全ページのpoint流し読み
     - ポイントがまとめられているのでめちゃくちゃ理解しやすい、何がなんなのか、イメージしやすい
 - memo
-  - 
-
+  - 小さな部品
+    - https://github.com/ecemgo/mini-samples-great-tricks
+  - かわいい
+    - https://github.com/Catevika/react-portfolio-website_egator
+  - 動きが良い
+    - https://github.com/jramke/motion-swiper
 ## 2024/06/22
 
 
