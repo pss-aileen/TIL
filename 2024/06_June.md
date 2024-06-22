@@ -310,6 +310,7 @@
   - 知的生産術
     - 気になる箇所チェック
     - 何項目か読んだ 
+  - くもんの読解力を高めるロジカル国語小学6年生: 01
 - memo
   - [GitHubに日々の人生を記録（管理）する - 日記、じぶんリリースノート、簡易的な個人スクラムによるふりかえりなど - このすみノート](https://www.konosumi.net/entry/2019/10/15/070000#%E3%81%98%E3%81%B6%E3%82%93%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88)
   - [じぶん Release Notes 0.29.5 - よしたく blog](https://yoshitaku-jp.hatenablog.com/entry/2019/10/01/230000)
@@ -324,11 +325,26 @@
 ## 2024/06/21
 
 - todo
-  - ひたすら本を読む、まとめる
+  - エンジニアの知的生産術読み進める
+  - くもんの読解力を高めるロジカル国語小学6年生: 02
+  - practice-api-with-nodejs-express: 仕上げる
 - done
+  - くもんの読解力を高めるロジカル国語小学6年生: 02
+    - 結構意味不明な文章が多々ある
+    - 自分の能力が悪いのか、設問の文章がおかしいのかわからない...
+    - もっと解説があるものが望ましいかも
+  - practice-api-with-nodejs-express: done
+    - エラーハンドリング方法を学んで、後日追加する（値がなかった場合とか、まちがった値が入力された場合とか）
+  - 図解 Web技術のしくみ
+    - 全ページのpoint流し読み
+    - ポイントがまとめられているのでめちゃくちゃ理解しやすい、何がなんなのか、イメージしやすい
 - memo
-
-
+  - 小さな部品
+    - https://github.com/ecemgo/mini-samples-great-tricks
+  - かわいい
+    - https://github.com/Catevika/react-portfolio-website_egator
+  - 動きが良い
+    - https://github.com/jramke/motion-swiper
 ## 2024/06/22
 
 
