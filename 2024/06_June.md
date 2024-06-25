@@ -32,9 +32,11 @@
     - PHP の基礎を復習
     - PHP 入門 基礎文法編 done
     - PHP 入門 制御構造編 done
+  - 
 - **English**
   - **TOEIC**
-  - **Phonics**
+    - 受けた。頑張った。結果出てないけどリスニングまずい感じ。リーディングは大丈夫
+    - 試験対策なんてしなくてもわかるぐらいになれたらなぁ
 
 </details>
 
@@ -385,9 +387,42 @@
 
 ## 2024/06/25 全てお休みで OKDAY
 
+- done & what i learn
+  - じぶんリリースノートの作成
+    - 自分のいたらない点から逃げなかった
+  - 小6国語をひとつひとつわかりやすく
+    - 02: 三字熟語・四字熟語の組み立てを知ろう
+      - 熟語は、何がどうなっているのかを意識すれば、どういう構成（組み立て）かわかる
+      - 上下同じなのか、上の単語が下の単語を説明しているのか、それぞれ別の意味なのか
+      - 大成功（大きな成功）
+      - 消防車（消防の車）
+      - 大中小（大きいの、中くらいの、小さいの）
+      - 天気予報（天気の予報）
+      - 春夏秋冬（春、夏、秋、冬）
+- memo
+  - 自分リリースノートをかくために色々みた
+    - [「#じぶんリリースノート」の人気タグ記事一覧｜note ――つくる、つながる、とどける。](https://note.com/hashtag/%E3%81%98%E3%81%B6%E3%82%93%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88)
+    - [じぶん Release Notes (ver 0.30.10) - stefafafan の fa は3つです](https://blog.stenyan.jp/entry/2024/05/01/174736#f-e27e4c93)
+      - リリースノートのverは年齢と月でやっているらしい、なるほどー
+    - [ブログズミ: 「自分リリースノート」を一年書いてみた](https://srz-zumix.blogspot.com/2021/10/blog-post.html)
+      - KPT
+      - [KPTとは？やり方やメリット、効果を最大限に高める3つのコツ](https://meetsmore.com/product-services/talent-management/media/93642#:~:text=%E3%80%8CKPT%28%E3%82%B1%E3%83%97%E3%83%88%29%E3%80%8D%E3%81%A8,%E6%96%BD%E7%AD%96%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%B0%8E%E3%81%8D%E5%87%BA%E3%81%97%E3%81%BE%E3%81%99%E3%80%82)
+  - [GitHub のリリースノートを活用して、じぶんリリースノートを素早く作成する - hene.dev](https://hene.dev/blog/2024/01/14/quickly-create-your-own-release-notes-with-github-release-notes)
+  - [How to Edit, Customize, and Override Bootstrap CSS to Suit Your Brand](https://blog.hubspot.com/website/how-to-override-bootstrap-css)
+
 
 ## 2024/06/26
 
+- plan
+  - Web技術の仕組み: 目次、気になるところ書き出し、読む
+  - データベースの仕組み: 目次、気になるところ書き出し、読む
+  - ネットワークのしくみと技術がしっかりわかる: 目次、気になるところ書き出し
+  - 小6国語をひとつひとつわかりやすく: 1 単元
+  - できた！中学国語 文法 （中学基礎がため100%） : 1 単元
+  - 高校入試 中学3年間の総復習 英語: 1 単元
+- what i learn
+- memo
+  - 単元: ある主題を中有進に行う学習活動のひとまとまり
 
 ## 2024/06/27
 

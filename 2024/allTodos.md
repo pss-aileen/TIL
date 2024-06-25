@@ -6,11 +6,11 @@
 
 以下をベースにこまごやって試すこと、ひととおり終わればOK。
 
-- [ ] Bootstrap 5 を体系的に学ぶ
+- [x] Bootstrap 5 を体系的に学ぶ
   - [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/)
   - わからなくてもいいのでざーーーーっと進んで何がどうなっているのか学ぶ
   - reason: ドキュメント見ても全くわからないため
-  - result: 
+  - result: Tutorialを少しやった。まだあまり試せてないけどなんとなくわかった
 - [ ] TypeScript を体系的に学ぶ
   - [Execute Program](https://www.executeprogram.com/)
   - reason: ドキュメント見ても全くわからないため
