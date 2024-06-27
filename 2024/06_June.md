@@ -454,9 +454,23 @@
 
 ## 2024/06/27
 
-- plan
-  - 高校入試 中学3年間の総復習 英語: 2日目 進行形・未来を表す表現
+- do
   - 小6国語をひとつひとつわかりやすく: 04 同じ部分で同じ音の漢字を書き分けよう
+    - 広狭（こうきょう）: 広さと狭さ、また広さの程度。
+    - 深浅（しんせん）: 深いことと浅いこと。深さ。
+  - 高校入試 中学3年間の総復習 英語: 2日目 進行形・未来を表す表現
+    - 短母音: 音を伸ばしたり重ねたりせず，短く「ア・イ・ウ・エ・オ」と読む母音 [英語表現|短母音とは何か|中学英語|定期テスト対策サイト](https://benesse.jp/kyouiku/teikitest/chu/english/english/c00327.html)
+  - practice-bootstrap
+    - profile done
+    - Exampleのコードを作り替えながらプロフィールを作成
+    - container、col、rowなどなど、様々なクラスの使い方をざっくり確認 -> Bootstrap の example なので安心して見れる
+    - しばらくExampleを作り替えて感覚を掴むのが良いかも
+    - bootstrapをかいていると、さっさとReact使えばよくないか？とも思った。
+- memo
+  - [You Don't Need Next.js | ドクセル](https://www.docswell.com/s/ashphy/KM1NQ6-you-dont-need-nextjs#p1)
+  - [Next.jsの複雑化について思うこと｜昭和のオッサン](https://note.com/masa_tec_note/n/n4795ca19d67f)
+  - [90+ React Projects with Source Code [2024] - GeeksforGeeks](https://www.geeksforgeeks.org/reactjs-projects/)
+  - [Top 15 React Projects with Source Code in 2024 - ZEGOCLOUD](https://www.zegocloud.com/blog/react-projects)
 
 ## 2024/06/28
 
