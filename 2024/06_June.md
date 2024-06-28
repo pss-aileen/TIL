@@ -471,9 +471,20 @@
   - [Next.jsの複雑化について思うこと｜昭和のオッサン](https://note.com/masa_tec_note/n/n4795ca19d67f)
   - [90+ React Projects with Source Code [2024] - GeeksforGeeks](https://www.geeksforgeeks.org/reactjs-projects/)
   - [Top 15 React Projects with Source Code in 2024 - ZEGOCLOUD](https://www.zegocloud.com/blog/react-projects)
+  - bootstrap 今のレベル
+    - なんだかんだほぼ書いたことなかったので、ぱっと何を書けばいいかわからない、ベースの形すらわからない、プロパティが出てこない
 
 ## 2024/06/28
 
+- plan
+  - 小6国語をひとつひとつわかりやすく:
+  - 高校入試 中学3年間の総復習 英語:
+- do
+  - practice-react-bootstrap
+    - react久しぶりにやろうとしたら記憶ゼロだったので react tic toc toe 復習
+    - 眠すぎて頭にはいってこなかった、また明日
+- memo
+  - 体調がすこぶる悪い、今日無理
 
 ## 2024/06/29
 
