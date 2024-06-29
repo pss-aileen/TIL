@@ -476,9 +476,6 @@
 
 ## 2024/06/28
 
-- plan
-  - 小6国語をひとつひとつわかりやすく:
-  - 高校入試 中学3年間の総復習 英語:
 - do
   - practice-react-bootstrap
     - react久しぶりにやろうとしたら記憶ゼロだったので react tic toc toe 復習
@@ -488,6 +485,35 @@
 
 ## 2024/06/29
 
+- plan
+  - 小6国語をひとつひとつわかりやすく:
+  - 高校入試 中学3年間の総復習 英語:
+- do
+  - practice-react-bootstrap
+    - React Tic Toc Toe
+      - sliceは配列のコピーを作る
+    - シンプルに `useState` など一旦触らず、サイトとしてコンポーネントを使い回す方法を学んだ
+    - bootstrap の時と、react-bootstrap で比較した
+    - 結局自分でコンポーネント作ったりした方が早そう...。とりあえずBootstrapを使いこなす方向で
+- memo
+  - 模写
+    - https://bootstrapmade.com/website-templates/
+    - サイトをまともにきちんと作れることが大事
+    - まず、Bootstrapを使って1pまるっと作れるようになる
+      - https://bootstrapmade.com/demo/KnightOne/
+    - その次に複数ページ
+      - https://bootstrapmade.com/demo/Kelly/
+    - それができれば
+  - https://mdbootstrap.com/
+  - https://loading.io/color/feature/Bootstrap/
+  - https://github.com/bum/bootstrap-color
+  - bootstrap 5 videos
+    - https://www.youtube.com/watch?v=w2zix0oYyE8
+    - https://www.youtube.com/watch?v=oF28ns9eVdc
+    - https://www.youtube.com/watch?v=UgfjTV5pEC4
+  - https://startbootstrap.com/theme/freelancer
+    -https://getavataaars.com/?accessoriesType=Blank&avatarStyle=Circle&clotheColor=White&clotheType=ShirtScoopNeck&eyeType=Default&eyebrowType=Default&facialHairType=Blank&hairColor=BlondeGolden&mouthType=Eating&skinColor=Pale&topType=LongHairStraight
+  - https://github.com/startbootstrap/startbootstrap-creative
 
 ## 2024/06/30
 
