@@ -485,9 +485,6 @@
 
 ## 2024/06/29
 
-- plan
-  - 小6国語をひとつひとつわかりやすく:
-  - 高校入試 中学3年間の総復習 英語:
 - do
   - practice-react-bootstrap
     - React Tic Toc Toe
@@ -517,3 +514,21 @@
 
 ## 2024/06/30
 
+- plan
+  - 小6国語をひとつひとつわかりやすく:
+  - 高校入試 中学3年間の総復習 英語:
+  - practice-react-bootstrap
+    - cretive 模写続き
+    - sassの導入も可能であればやってみる
+  - 文章の基本を読みながら自分リリースノートの文章修正
+- done
+  - Web技術の基本、しくみの本を読んだ
+    - リクエスト、レスポンスはただデータのやりとりするだけではなくて、その前後に接続の確認、切断の確認をしている
+  - 6月の振り返り
+  - first-controbutions-ja
+    - プルリク確認
+- memo
+  - [5分でわかるReact Hooks #JavaScript - Qiita](https://qiita.com/ushi_osushi/items/98d1bc4a83265a764084)
+  - [フロントエンドの新規開発でNext.jsの採用を見送った話 - バイセル Tech Blog](https://tech.buysell-technologies.com/entry/adventcalendar2023-12-10)
+  - [List Vite at the same level as SSR frameworks as a way to start a new React project · Issue #5797 · reactjs/react.dev](https://github.com/reactjs/react.dev/issues/5797)
+  - [Why I Won't Use Next.js | Epic Web Dev](https://www.epicweb.dev/why-i-wont-use-nextjs)
