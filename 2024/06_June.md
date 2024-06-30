@@ -417,21 +417,118 @@
   - Web技術の仕組み: 目次、気になるところ書き出し、読む
   - データベースの仕組み: 目次、気になるところ書き出し、読む
   - ネットワークのしくみと技術がしっかりわかる: 目次、気になるところ書き出し
-  - 小6国語をひとつひとつわかりやすく: 1 単元
-  - できた！中学国語 文法 （中学基礎がため100%） : 1 単元
-  - 高校入試 中学3年間の総復習 英語: 1 単元
+  - できた！中学国語 文法 （中学基礎がため100%） : 1 単元 → やっぱり小6国語終わった後で
 - what i learn
+  - 高校入試 中学3年間の総復習 英語: 1日目 be 動詞・一般動詞
+    - some は肯定文、any は否定文や疑問文で使われること
+    - ただし、some は何かをお願いするときや提供するとき、疑問文でも使われる
+    - ex: Do you want some chips?
+  - 小6国語をひとつひとつわかりやすく: 03 類義語ってどんなもの？
+    - 「手段」は具体的な道具や技術のこと。
+      - 成功するための手段を考える
+      - その問題を解決する手段が見つからない
+    - 「方法」は物事を行うための体系的な手順やプロセスのこと。
+      - そのプロジェクトを成功させる方法を考える
+      - 効果的な学習方法を探す
+  - 図解まるわかり Web技術のしくみ
+    - 海外のサイトのフィルタリングは、ISP（インターネットサービスプロバイダー）で行われている
+    - WebアプリとWebシステムの違いの共通認識はないので、動的な仕組みを取り入れたWebサイトのこと、と覚えておけばOK
+  - practice-swiper
+    - seasons: 自分で実装した。簡単なものであれば自分でもできると際確認。
+    - news: 模写ある程度できた、マージ済み。
+      - `slidesPerView: "auto",` と `.swiper-slide` の横幅がキーポイント
+      - jQueryでアニメーションをする方法を調査した: おわこんおわこん聞く気がするけど、githubは最近も動いている
 - memo
   - 単元: ある主題を中有進に行う学習活動のひとまとまり
+  - 次回から月ごとにブランチを作って、そこに1ヶ月分のやったことをコミット
+  - 最終的にはそれを7月末でコミットして、リリースノートに内容をまとめれば、何を学んだのか- 目瞭然になりそう、復習もしやすそう。
+  - 自分用のポモドーロタイマー欲しい
+  - 具体的な勉強のまとめは別フォルダ、ファイルにまとめる
+  - ざっくりとした概要をここの what i learn に書いて、復習する
+  - Web技術の仕組み
+    - Web独自の仕組み、Webシステムの開発、セキュリティと運用をメインに明日以降読む
+  - Webの基本的な技術についての本を多数借りたので、重要な項目がなんなのかすごくわかった、重複しているものは特に理解すべきなんだなと思った
+  - 考えるのやだなーって思うものがくると、すぐに他のこと調べたりするのでそこから戻ってくる必要がある。
+  - **考えるのやだなーは、手をうごかすのでなく、見本のコードなどを紙に書いて構造を理解するのがいいかも**
+  - [ディープロ DPro / エンジニアのプロのスタートラインに立つならディープロ | 独学でプログラマーになるために必要な行動指針](https://diveintocode.jp/blogs/DIVEINTOCODE/SelfEducationCompass)
 
 ## 2024/06/27
 
+- do
+  - 小6国語をひとつひとつわかりやすく: 04 同じ部分で同じ音の漢字を書き分けよう
+    - 広狭（こうきょう）: 広さと狭さ、また広さの程度。
+    - 深浅（しんせん）: 深いことと浅いこと。深さ。
+  - 高校入試 中学3年間の総復習 英語: 2日目 進行形・未来を表す表現
+    - 短母音: 音を伸ばしたり重ねたりせず，短く「ア・イ・ウ・エ・オ」と読む母音 [英語表現|短母音とは何か|中学英語|定期テスト対策サイト](https://benesse.jp/kyouiku/teikitest/chu/english/english/c00327.html)
+  - practice-bootstrap
+    - profile done
+    - Exampleのコードを作り替えながらプロフィールを作成
+    - container、col、rowなどなど、様々なクラスの使い方をざっくり確認 -> Bootstrap の example なので安心して見れる
+    - しばらくExampleを作り替えて感覚を掴むのが良いかも
+    - bootstrapをかいていると、さっさとReact使えばよくないか？とも思った。
+- memo
+  - [You Don't Need Next.js | ドクセル](https://www.docswell.com/s/ashphy/KM1NQ6-you-dont-need-nextjs#p1)
+  - [Next.jsの複雑化について思うこと｜昭和のオッサン](https://note.com/masa_tec_note/n/n4795ca19d67f)
+  - [90+ React Projects with Source Code [2024] - GeeksforGeeks](https://www.geeksforgeeks.org/reactjs-projects/)
+  - [Top 15 React Projects with Source Code in 2024 - ZEGOCLOUD](https://www.zegocloud.com/blog/react-projects)
+  - bootstrap 今のレベル
+    - なんだかんだほぼ書いたことなかったので、ぱっと何を書けばいいかわからない、ベースの形すらわからない、プロパティが出てこない
 
 ## 2024/06/28
 
+- do
+  - practice-react-bootstrap
+    - react久しぶりにやろうとしたら記憶ゼロだったので react tic toc toe 復習
+    - 眠すぎて頭にはいってこなかった、また明日
+- memo
+  - 体調がすこぶる悪い、今日無理
 
 ## 2024/06/29
 
+- do
+  - practice-react-bootstrap
+    - React Tic Toc Toe
+      - sliceは配列のコピーを作る
+    - シンプルに `useState` など一旦触らず、サイトとしてコンポーネントを使い回す方法を学んだ
+    - bootstrap の時と、react-bootstrap で比較した
+    - 結局自分でコンポーネント作ったりした方が早そう...。とりあえずBootstrapを使いこなす方向で
+- memo
+  - 模写
+    - https://bootstrapmade.com/website-templates/
+    - サイトをまともにきちんと作れることが大事
+    - まず、Bootstrapを使って1pまるっと作れるようになる
+      - https://bootstrapmade.com/demo/KnightOne/
+    - その次に複数ページ
+      - https://bootstrapmade.com/demo/Kelly/
+    - それができれば
+  - https://mdbootstrap.com/
+  - https://loading.io/color/feature/Bootstrap/
+  - https://github.com/bum/bootstrap-color
+  - bootstrap 5 videos
+    - https://www.youtube.com/watch?v=w2zix0oYyE8
+    - https://www.youtube.com/watch?v=oF28ns9eVdc
+    - https://www.youtube.com/watch?v=UgfjTV5pEC4
+  - https://startbootstrap.com/theme/freelancer
+    -https://getavataaars.com/?accessoriesType=Blank&avatarStyle=Circle&clotheColor=White&clotheType=ShirtScoopNeck&eyeType=Default&eyebrowType=Default&facialHairType=Blank&hairColor=BlondeGolden&mouthType=Eating&skinColor=Pale&topType=LongHairStraight
+  - https://github.com/startbootstrap/startbootstrap-creative
 
 ## 2024/06/30
 
+- plan
+  - 小6国語をひとつひとつわかりやすく:
+  - 高校入試 中学3年間の総復習 英語:
+  - practice-react-bootstrap
+    - cretive 模写続き
+    - sassの導入も可能であればやってみる
+  - 文章の基本を読みながら自分リリースノートの文章修正
+- done
+  - Web技術の基本、しくみの本を読んだ
+    - リクエスト、レスポンスはただデータのやりとりするだけではなくて、その前後に接続の確認、切断の確認をしている
+  - 6月の振り返り
+  - first-controbutions-ja
+    - プルリク確認
+- memo
+  - [5分でわかるReact Hooks #JavaScript - Qiita](https://qiita.com/ushi_osushi/items/98d1bc4a83265a764084)
+  - [フロントエンドの新規開発でNext.jsの採用を見送った話 - バイセル Tech Blog](https://tech.buysell-technologies.com/entry/adventcalendar2023-12-10)
+  - [List Vite at the same level as SSR frameworks as a way to start a new React project · Issue #5797 · reactjs/react.dev](https://github.com/reactjs/react.dev/issues/5797)
+  - [Why I Won't Use Next.js | Epic Web Dev](https://www.epicweb.dev/why-i-wont-use-nextjs)
