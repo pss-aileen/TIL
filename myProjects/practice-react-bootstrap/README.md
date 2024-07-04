@@ -1,3 +1,0 @@
-- [JavaScript · Bootstrap v5.3](https://getbootstrap.com/docs/5.3/getting-started/javascript/#usage-with-javascript-frameworks)
-  - これによると、React などでの Bootstrap JavaScript は互換性がないとのこと
-  - そのため、React だったら、React Bootstrap を使う必要がある
