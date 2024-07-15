@@ -96,7 +96,10 @@ $primary: #c2410c;
 ## つまずいたポイント
 
 - `node_modules` の bootstrap を `@import` する方法
-  - 結果: `"../node_modules/bootstrap/scss/...` だったところ、` "./../../node_modules/bootstrap/scss...` とすることで解決
+  - 解決策: `"../node_modules/bootstrap/scss/...` だったところ、` "./../../node_modules/bootstrap/scss...` とすることで解決
+- 事案: Bootstrap の公式の config をコピペするとエラーで読み込めなかった
+  - 原因: `const path = require('path')`
+  - 解決策: `import { resolve } from "path";`
 
 ## 参考
 
