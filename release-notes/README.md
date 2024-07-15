@@ -9,9 +9,9 @@
 ## Bootstrap
 
 - [x] コンポーネントで練習 -> practice-bootstrap & practice-react-bootstrap
-- [ ] CDNを使わない開発
-- [ ] モバイルファーストからのレスポンシブWebサイト
-- [ ] カルーセルなどを使ったWebサイト
+- [x] CDNを使わない開発
+- [x] モバイルファーストからのレスポンシブWebサイト
+- [x] カルーセルなどを使ったWebサイト
 - [ ] ダークモードに対応したWebサイト
 
 ### 参考
