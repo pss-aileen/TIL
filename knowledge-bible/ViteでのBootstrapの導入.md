@@ -14,14 +14,14 @@
 **package.json**
 
 ```json
-  "devDependencies": {
-    "sass": "^1.77.8",
-    "vite": "^5.3.1"
-  },
-  "dependencies": {
-    "@popperjs/core": "^2.11.8",
-    "bootstrap": "^5.3.3"
-  }
+"devDependencies": {
+  "sass": "^1.77.8",
+  "vite": "^5.3.1"
+},
+"dependencies": {
+  "@popperjs/core": "^2.11.8",
+  "bootstrap": "^5.3.3"
+}
 ```
 
 **vite.config.js**
@@ -95,7 +95,7 @@ $primary: #c2410c;
 
 - `node_modules` の bootstrap を `@import` する方法
   - 解決策: `"../node_modules/bootstrap/scss/...` だったところ、` "./../../node_modules/bootstrap/scss...` とすることで解決
-- 事案: Bootstrap の公式の config をコピペするとエラーで読み込めなかった
+- Bootstrap の公式の config をコピペするとエラーで読み込めなかった
   - 原因: `const path = require('path')`
   - 解決策: `import { resolve } from "path";`
 
