@@ -8,7 +8,7 @@ The summary of what I learn every month. I list all the things I did, review eve
 
 - [v2024.6.0](./release-notes/2024-06.md)
 - [v2024.7.0](./release-notes/2024-07.md)
-- [v2024.7.0](./release-notes/2024-08.md)
+- [v2024.8.0](./release-notes/2024-08.md)
 
 ## Logs
 
