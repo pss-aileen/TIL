@@ -21,7 +21,7 @@
 
 ## React
 
-- [ ] JavaScript での実装慣れ
+- [x] JavaScript での実装慣れ
   - 様々なコンポーネントを使うしかない
 - [ ] JavaScript、 Bootstrap での実装慣れ
 - [ ] TypeScript での実装慣れ
@@ -30,7 +30,7 @@
 
 ## フロントエンドにまつわるあれこれ
 
-- [ ] Storybook を試す
+- [x] Storybook を試す
   - [Storybookとは？Storybookを用いたフロント開発](https://zenn.dev/fullyou/articles/853b77a3ce9144)
 
 ## バックエンド
